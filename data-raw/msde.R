@@ -297,10 +297,20 @@ msde_attendance <- list.files("data-raw/extdata", full.names = TRUE) %>%
   ) |>
   arrange(lss_number, desc(year), school_number) |>
   mutate(
-    create_date = lubridate::as_date(create_date)
+    create_date = lubridate::as_date(create_date),
+    school_type = case_match(
+      school_type,
+      "All" ~ "All Grades",
+      "All Students" ~ "All Grades",
+      "Elementary" ~ "All Elementary Grades",
+      "Middle" ~ "All Middle School Grades",
+      "High" ~ "All High School Grades",
+      .default = school_type
+    )
   ) |>
   rename(
-    date_created = create_date
+    date_created = create_date,
+    grade_range = school_type
   )
 
 msde_attendance <- fix_school_name(msde_attendance)

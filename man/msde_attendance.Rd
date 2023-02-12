@@ -11,7 +11,7 @@ A data frame with 33,376 rows and 18 variables:
 school year}
 \item{\code{school_number}}{School number (0 indicates all schools)}
 \item{\code{school_name}}{School name}
-\item{\code{school_type}}{School type (e.g. Elementary, Middle, High)}
+\item{\code{grade_range}}{Grade range used for attendance details.}
 \item{\code{attend_rate_pct}}{Attendance rate as defined as the average daily
 attendance rate of students in the school and grade band, including special
 education students}

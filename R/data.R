@@ -19,7 +19,7 @@
 #'   school year}
 #'   \item{`school_number`}{School number (0 indicates all schools)}
 #'   \item{`school_name`}{School name}
-#'   \item{`school_type`}{School type (e.g. Elementary, Middle, High)}
+#'   \item{`grade_range`}{Grade range used for attendance details.}
 #'   \item{`attend_rate_pct`}{Attendance rate as defined as the average daily
 #'   attendance rate of students in the school and grade band, including special
 #'   education students}
