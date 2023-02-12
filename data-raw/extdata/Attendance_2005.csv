@@ -1,0 +1,1564 @@
+Academic Year,LEA Number,LEA Name,School Number,School Name,School Type,Attend Rate Pct,Days Attended Cnt,Days Member Cnt,Fewer 5 Pct,Fewer 5 Cnt,More 20 Pct,More 20 Cnt,More 90 Member Cnt,Create Date
+2005,01,Allegany,0301,Flintstone Elementary,Elementary,94.3,22380.5,23742,21.8,39,6.7,12,179,20120820
+2005,01,Allegany,0401,South Penn Elementary,Elementary,>= 95.0,*,*,30.9,122,5.6,22,395,20120820
+2005,01,Allegany,0402,John Humbird Elementary,Elementary,94.5,32805.5,34705,29.3,77,7.6,20,263,20120820
+2005,01,Allegany,0405,Fort Hill High,High,92.6,132262.5,142790,26.4,287,15.6,169,1086,20120820
+2005,01,Allegany,0406,Washington Middle,Middle,94.1,97511.5,103592,24.9,196,10.6,83,786,20120820
+2005,01,Allegany,0502,Northeast Elementary,Elementary,>= 95.0,*,*,43.3,94,<= 5.0,*,217,20120820
+2005,01,Allegany,0504,Braddock Middle,Middle,94.4,85718.5,90776,33.6,229,8.7,59,682,20120820
+2005,01,Allegany,0601,Center For Career & Technology Education,High,*,*,*,*,*,*,*,*,20120820
+2005,01,Allegany,0602,Allegany County Evening High School,High,*,*,*,*,*,*,*,*,20120820
+2005,01,Allegany,0603,West Side Elementary,Elementary,94.4,29914.0,31689,24.9,60,8.3,20,241,20120820
+2005,01,Allegany,0606,Allegany High,High,93.3,112133.5,120128,30.4,274,12.9,116,902,20120820
+2005,01,Allegany,0701,Cresaptown Elementary,Elementary,>= 95.0,*,*,38.4,103,<= 5.0,*,268,20120820
+2005,01,Allegany,0702,Bel Air Elementary,Elementary,>= 95.0,*,*,39.3,72,<= 5.0,*,183,20120820
+2005,01,Allegany,0801,Westernport Elementary,Elementary,>= 95.0,*,*,43.1,94,<= 5.0,*,218,20120820
+2005,01,Allegany,0802,Westmar Middle,Middle,94.2,40845.5,43340,28.0,93,7.2,24,332,20120820
+2005,01,Allegany,1001,George's Creek Elementary,Elementary,>= 95.0,*,*,33.0,91,<= 5.0,*,276,20120820
+2005,01,Allegany,1002,Westmar High,High,93.3,57665.0,61774,26.4,124,13.6,64,470,20120820
+2005,01,Allegany,1101,Frost Elementary,Elementary,>= 95.0,*,*,37.4,74,<= 5.0,*,198,20120820
+2005,01,Allegany,1301,Mount Savage Middle,Middle,>= 95.0,*,*,31.3,151,6.8,33,483,20120820
+2005,01,Allegany,1302,Mt. Savage Elementary,Elementary,>= 95.0,*,*,42.7,93,<= 5.0,*,218,20120820
+2005,01,Allegany,2402,Beall High,High,94.1,80623.0,85658,32.3,216,9.0,60,669,20120820
+2005,01,Allegany,2801,Beall Elementary,Elementary,>= 95.0,*,*,38.1,83,<= 5.0,*,218,20120820
+2005,01,Allegany,2901,Cash Valley Elementary,Elementary,94.8,27239.0,28744,29.7,66,5.4,12,222,20120820
+2005,01,Allegany,2902,Parkside Elementary,Elementary,>= 95.0,*,*,31.7,72,<= 5.0,*,227,20120820
+2005,01,Allegany,5555,Transition Program at Frostburg,High,*,*,*,*,*,*,*,*,20120820
+2005,01,Allegany,7777,Allegany County Home & Hospital,Middle,*,*,*,*,*,*,*,*,20120820
+2005,01,Allegany,7777,Allegany County Home & Hospital,High,>= 95.0,*,*,91.7,11,<= 5.0,*,12,20120820
+2005,01,Allegany,A,All Allegany Schools,Elementary,>= 95.0,*,*,34.0,1130,<= 5.0,*,3326,20120820
+2005,01,Allegany,A,All Allegany Schools,Middle,94.4,283837.5,300559,29.3,670,9.1,208,2288,20120820
+2005,01,Allegany,A,All Allegany Schools,High,93.3,385224.5,413015,28.9,909,13.3,418,3144,20120820
+2005,02,Anne Arundel,1023,Brooklyn Park Middle,Middle,92.1,64889.5,70462,22.5,132,21.8,128,586,20120820
+2005,02,Anne Arundel,1033,Glen Burnie Senior,High,90.9,224258.0,246818,23.2,475,25.4,521,2049,20120820
+2005,02,Anne Arundel,1043,Corkran Middle School,Middle,94.9,85161.0,89752,35.6,269,8.2,62,756,20120820
+2005,02,Anne Arundel,1053,Lindale Middle,Middle,93.8,114504.5,122040,29.1,297,16.4,167,1021,20120820
+2005,02,Anne Arundel,1063,Marley Middle,Middle,93.1,89294.5,95913,26.9,215,17.8,142,798,20120820
+2005,02,Anne Arundel,1082,Belle Grove Elementary,Elementary,92.7,16118.0,17388,28.0,42,16.0,24,150,20120820
+2005,02,Anne Arundel,1092,Brooklyn Park Elementary,Elementary,>= 95.0,*,*,37.6,115,5.2,16,306,20120820
+2005,02,Anne Arundel,1112,George Cromwell Elementary,Elementary,>= 95.0,*,*,35.0,98,7.1,20,280,20120820
+2005,02,Anne Arundel,1122,Freetown Elementary,Elementary,94.4,28370.0,30042,31.4,80,10.6,27,255,20120820
+2005,02,Anne Arundel,1132,Glendale Elementary,Elementary,94.9,43442.0,45787,34.9,133,11.8,45,381,20120820
+2005,02,Anne Arundel,1142,Hilltop Elementary,Elementary,>= 95.0,*,*,41.1,184,<= 5.0,*,448,20120820
+2005,02,Anne Arundel,1152,Linthicum Elementary,Elementary,>= 95.0,*,*,44.0,157,<= 5.0,*,357,20120820
+2005,02,Anne Arundel,1162,Marley Elementary,Elementary,94.7,42271.0,44615,35.9,132,9.2,34,368,20120820
+2005,02,Anne Arundel,1172,North Glen Elementary,Elementary,94.6,20252.0,21406,30.0,54,10.0,18,180,20120820
+2005,02,Anne Arundel,1182,Oakwood Elementary,Elementary,>= 95.0,*,*,42.0,81,5.7,11,193,20120820
+2005,02,Anne Arundel,1192,Overlook Elementary,Elementary,>= 95.0,*,*,34.3,70,7.8,16,204,20120820
+2005,02,Anne Arundel,1202,Park Elementary,Elementary,>= 95.0,*,*,41.7,130,9.6,30,312,20120820
+2005,02,Anne Arundel,1212,Point Pleasant Elementary,Elementary,94.3,46752.0,49571,30.9,127,10.0,41,411,20120820
+2005,02,Anne Arundel,1232,Quarterfield Elementary,Elementary,>= 95.0,*,*,38.9,137,5.4,19,352,20120820
+2005,02,Anne Arundel,1242,Richard Henry Lee Elementary,Elementary,94.5,42801.5,45286,32.7,124,9.0,34,379,20120820
+2005,02,Anne Arundel,1262,Woodside Elementary,Elementary,93.8,23348.0,24887,31.5,64,11.3,23,203,20120820
+2005,02,Anne Arundel,1274,Marley Glen School,Elementary,88.9,2796.5,3145,<= 5.0,*,29.6,8,27,20120820
+2005,02,Anne Arundel,1274,Marley Glen School,Middle,*,*,*,*,*,*,*,*,20120820
+2005,02,Anne Arundel,1274,Marley Glen School,High,87.1,2535.5,2910,20.0,5,36.0,9,25,20120820
+2005,02,Anne Arundel,1313,Glen Burnie Evening High,High,>= 95.0,*,*,*,*,*,*,*,20120820
+2005,02,Anne Arundel,1323,North County High,High,90.4,225990.0,250119,24.0,497,26.1,541,2072,20120820
+2005,02,Anne Arundel,2013,Severna Park Sr High,High,>= 95.0,*,*,41.0,730,8.9,159,1779,20120820
+2005,02,Anne Arundel,2023,Northeast Sr High,High,93.0,166314.0,178787,29.4,436,14.5,216,1485,20120820
+2005,02,Anne Arundel,2033,George Fox Middle,Middle,93.8,86041.5,91775,25.7,197,14.5,111,767,20120820
+2005,02,Anne Arundel,2043,Severna Park Middle,Middle,>= 95.0,*,*,48.1,657,<= 5.0,*,1366,20120820
+2005,02,Anne Arundel,2052,Arnold Elementary,Elementary,>= 95.0,*,*,38.3,138,<= 5.0,*,360,20120820
+2005,02,Anne Arundel,2062,Belvedere Elementary,Elementary,>= 95.0,*,*,40.1,175,<= 5.0,*,436,20120820
+2005,02,Anne Arundel,2072,Benfield Elementary,Elementary,>= 95.0,*,*,44.1,161,<= 5.0,*,365,20120820
+2005,02,Anne Arundel,2082,Bodkin Elementary,Elementary,>= 95.0,*,*,41.2,214,<= 5.0,*,519,20120820
+2005,02,Anne Arundel,2092,Cape St. Claire Elementary,Elementary,>= 95.0,*,*,36.2,199,<= 5.0,*,550,20120820
+2005,02,Anne Arundel,2102,Folger McKinsey Elementary,Elementary,>= 95.0,*,*,48.2,244,<= 5.0,*,506,20120820
+2005,02,Anne Arundel,2112,Fort Smallwood Elementary,Elementary,>= 95.0,*,*,37.9,116,5.6,17,306,20120820
+2005,02,Anne Arundel,2132,High Point Elementary,Elementary,>= 95.0,*,*,39.2,188,<= 5.0,*,480,20120820
+2005,02,Anne Arundel,2142,Jacobsville Elementary,Elementary,>= 95.0,*,*,35.9,169,<= 5.0,*,471,20120820
+2005,02,Anne Arundel,2152,Jones Elementary,Elementary,>= 95.0,*,*,43.7,121,<= 5.0,*,277,20120820
+2005,02,Anne Arundel,2162,Lake Shore Elementary,Elementary,>= 95.0,*,*,41.8,109,<= 5.0,*,261,20120820
+2005,02,Anne Arundel,2172,Oak Hill Elementary,Elementary,>= 95.0,*,*,43.3,176,<= 5.0,*,406,20120820
+2005,02,Anne Arundel,2182,Pasadena Elementary,Elementary,>= 95.0,*,*,31.2,86,5.8,16,276,20120820
+2005,02,Anne Arundel,2192,Riviera Beach Elementary,Elementary,>= 95.0,*,*,33.3,81,9.9,24,243,20120820
+2005,02,Anne Arundel,2202,Severna Park Elementary,Elementary,>= 95.0,*,*,50.6,129,<= 5.0,*,255,20120820
+2005,02,Anne Arundel,2212,Solley Elementary,Elementary,>= 95.0,*,*,32.7,145,5.9,26,443,20120820
+2005,02,Anne Arundel,2222,Sunset Elementary,Elementary,>= 95.0,*,*,34.4,144,<= 5.0,*,419,20120820
+2005,02,Anne Arundel,2233,Severna Park Evening High,High,>= 95.0,*,*,58.3,7,25.0,3,12,20120820
+2005,02,Anne Arundel,2243,Magothy River Middle,Middle,>= 95.0,*,*,33.4,258,7.8,60,773,20120820
+2005,02,Anne Arundel,2273,Chesapeake Sr. High,High,92.2,204040.5,221241,24.6,451,18.4,338,1834,20120820
+2005,02,Anne Arundel,2322,Broadneck Elementary,Elementary,>= 95.0,*,*,41.3,234,<= 5.0,*,567,20120820
+2005,02,Anne Arundel,2363,Broadneck Senior High,High,94.0,247320.0,263085,33.1,733,11.7,259,2212,20120820
+2005,02,Anne Arundel,2372,Windsor Farm Elementary,Elementary,>= 95.0,*,*,40.9,192,<= 5.0,*,470,20120820
+2005,02,Anne Arundel,2413,Severn River Middle,Middle,>= 95.0,*,*,37.0,315,8.6,73,852,20120820
+2005,02,Anne Arundel,2423,Chesapeake Bay Middle,Middle,94.0,185751.0,197573,30.8,516,11.2,187,1673,20120820
+2005,02,Anne Arundel,2432,Shipley's Choice Elementary,Elementary,>= 95.0,*,*,42.0,158,<= 5.0,*,376,20120820
+2005,02,Anne Arundel,3013,Arundel Sr. High,High,93.9,219399.5,233619,30.8,601,11.6,226,1949,20120820
+2005,02,Anne Arundel,3023,Arundel Middle,Middle,94.8,116015.0,122363,31.2,319,9.7,99,1024,20120820
+2005,02,Anne Arundel,3033,MacArthur Middle,Middle,93.3,122265.0,131038,25.3,276,15.8,172,1089,20120820
+2005,02,Anne Arundel,3062,Brock Bridge Elementary,Elementary,>= 95.0,*,*,42.7,188,<= 5.0,*,440,20120820
+2005,02,Anne Arundel,3072,Crofton Elementary,Elementary,>= 95.0,*,*,42.8,266,<= 5.0,*,621,20120820
+2005,02,Anne Arundel,3082,Crofton Woods Elementary,Elementary,>= 95.0,*,*,36.4,184,<= 5.0,*,505,20120820
+2005,02,Anne Arundel,3102,Harman Elementary at Meade Heights,Elementary,>= 95.0,*,*,34.7,114,6.7,22,329,20120820
+2005,02,Anne Arundel,3112,Jessup Elementary,Elementary,94.9,52449.5,55260,33.6,155,9.3,43,461,20120820
+2005,02,Anne Arundel,3122,Manor View Elementary,Elementary,>= 95.0,*,*,35.8,167,5.2,24,466,20120820
+2005,02,Anne Arundel,3132,Maryland City Elementary,Elementary,>= 95.0,*,*,43.5,104,<= 5.0,*,239,20120820
+2005,02,Anne Arundel,3142,Meade Heights Elementary at Seven Oaks,Elementary,>= 95.0,*,*,45.8,253,<= 5.0,*,552,20120820
+2005,02,Anne Arundel,3152,Van Bokkelen Elementary,Elementary,94.1,35157.0,37344,29.4,91,15.2,47,310,20120820
+2005,02,Anne Arundel,3162,Millersville Elementary,Elementary,>= 95.0,*,*,29.8,97,<= 5.0,*,326,20120820
+2005,02,Anne Arundel,3172,Odenton Elementary,Elementary,>= 95.0,*,*,36.5,131,<= 5.0,*,359,20120820
+2005,02,Anne Arundel,3182,Pershing Hill Elementary,Elementary,94.3,28240.0,29962,22.5,58,6.6,17,258,20120820
+2005,02,Anne Arundel,3192,Ridgeway Elementary,Elementary,>= 95.0,*,*,40.8,203,<= 5.0,*,497,20120820
+2005,02,Anne Arundel,3202,Severn Elementary,Elementary,>= 95.0,*,*,48.9,163,<= 5.0,*,333,20120820
+2005,02,Anne Arundel,3212,South Shore Elementary,Elementary,>= 95.0,*,*,50.2,103,<= 5.0,*,205,20120820
+2005,02,Anne Arundel,3222,Waugh Chapel Elementary,Elementary,>= 95.0,*,*,38.7,120,6.5,20,310,20120820
+2005,02,Anne Arundel,3232,West Meade Elementary,Elementary,>= 95.0,*,*,43.4,62,<= 5.0,*,143,20120820
+2005,02,Anne Arundel,3242,Piney Orchard Elementary,Elementary,>= 95.0,*,*,42.8,215,<= 5.0,*,502,20120820
+2005,02,Anne Arundel,3263,Crofton Middle,Middle,>= 95.0,*,*,43.8,414,<= 5.0,*,946,20120820
+2005,02,Anne Arundel,3272,Four Seasons Elementary,Elementary,>= 95.0,*,*,37.5,214,<= 5.0,*,571,20120820
+2005,02,Anne Arundel,3323,Meade Senior High,High,90.4,188189.0,208202,24.2,418,25.5,440,1725,20120820
+2005,02,Anne Arundel,3333,Old Mill Middle North,Middle,>= 95.0,*,*,39.9,366,8.4,77,918,20120820
+2005,02,Anne Arundel,3343,Old Mill Middle South,Middle,94.8,96468.0,101735,37.3,317,10.2,87,851,20120820
+2005,02,Anne Arundel,3353,Old Mill Senior High,High,92.9,285346.0,307238,32.5,833,18.3,469,2561,20120820
+2005,02,Anne Arundel,3362,Crofton Meadows Elementary,Elementary,>= 95.0,*,*,41.7,174,<= 5.0,*,417,20120820
+2005,02,Anne Arundel,3372,Glen Burnie Park Elementary,Elementary,>= 95.0,*,*,35.8,127,8.7,31,355,20120820
+2005,02,Anne Arundel,3382,Southgate Elementary,Elementary,>= 95.0,*,*,37.1,170,7.4,34,458,20120820
+2005,02,Anne Arundel,3392,Rippling Woods Elementary,Elementary,>= 95.0,*,*,37.4,210,6.4,36,561,20120820
+2005,02,Anne Arundel,3414,Ruth Parker Eason School,Elementary,89.2,4238.0,4750,16.7,7,28.6,12,42,20120820
+2005,02,Anne Arundel,3414,Ruth Parker Eason School,Middle,92.2,2889.5,3134,42.9,12,28.6,8,28,20120820
+2005,02,Anne Arundel,3414,Ruth Parker Eason School,High,93.8,7590.5,8092,44.9,31,14.5,10,69,20120820
+2005,02,Anne Arundel,3423,Meade Middle,Middle,93.6,96457.5,103101,32.2,276,15.4,132,858,20120820
+2005,02,Anne Arundel,4013,Annapolis Sr. High,High,91.0,178318.0,195997,24.2,397,23.1,379,1639,20120820
+2005,02,Anne Arundel,4023,Southern Senior High,High,93.2,134303.0,144163,20.5,246,13.8,166,1201,20120820
+2005,02,Anne Arundel,4033,Annapolis Middle,Middle,92.1,56239.0,61053,21.7,110,21.3,108,508,20120820
+2005,02,Anne Arundel,4043,Wiley H. Bates Middle,Middle,92.2,65198.0,70696,22.5,135,19.0,114,599,20120820
+2005,02,Anne Arundel,4053,Southern Middle,Middle,94.1,94795.0,100751,30.0,252,12.0,101,839,20120820
+2005,02,Anne Arundel,4084,J. Albert Adams Academy at Adams Park,Middle,77.3,4812.5,6222,5.7,3,58.5,31,53,20120820
+2005,02,Anne Arundel,4092,Annapolis Elementary,Elementary,>= 95.0,*,*,35.6,64,<= 5.0,*,180,20120820
+2005,02,Anne Arundel,4094,Mary E. Moss Academy,High,86.6,6488.0,7488,28.9,13,11.1,5,45,20120820
+2005,02,Anne Arundel,4112,Central Elementary,Elementary,>= 95.0,*,*,38.1,188,<= 5.0,*,494,20120820
+2005,02,Anne Arundel,4122,Davidsonville Elementary,Elementary,>= 95.0,*,*,44.9,241,<= 5.0,*,537,20120820
+2005,02,Anne Arundel,4132,Deale Elementary,Elementary,>= 95.0,*,*,40.7,99,<= 5.0,*,243,20120820
+2005,02,Anne Arundel,4142,Eastport Elementary,Elementary,94.2,16069.5,17057,29.9,43,11.1,16,144,20120820
+2005,02,Anne Arundel,4152,Edgewater Elementary,Elementary,94.6,36049.5,38123,31.4,101,8.4,27,322,20120820
+2005,02,Anne Arundel,4162,Georgetown East Elementary,Elementary,>= 95.0,*,*,33.5,85,7.5,19,254,20120820
+2005,02,Anne Arundel,4182,Germantown Elementary,Elementary,94.9,35163.0,37035,28.6,89,7.7,24,311,20120820
+2005,02,Anne Arundel,4192,Hillsmere Elementary,Elementary,>= 95.0,*,*,34.4,108,5.1,16,314,20120820
+2005,02,Anne Arundel,4202,Lothian Elementary,Elementary,94.5,42703.0,45184,30.7,116,10.6,40,378,20120820
+2005,02,Anne Arundel,4212,Mayo Elementary,Elementary,>= 95.0,*,*,39.9,85,<= 5.0,*,213,20120820
+2005,02,Anne Arundel,4222,Mills - Parole Elementary,Elementary,>= 95.0,*,*,43.9,138,5.1,16,314,20120820
+2005,02,Anne Arundel,4232,Rolling Knolls Elementary,Elementary,>= 95.0,*,*,34.3,83,6.6,16,242,20120820
+2005,02,Anne Arundel,4242,Shady Side Elementary,Elementary,>= 95.0,*,*,32.2,127,<= 5.0,*,394,20120820
+2005,02,Anne Arundel,4252,Traceys Elementary at Southern Middle,Elementary,94.6,31851.0,33674,35.0,100,10.1,29,286,20120820
+2005,02,Anne Arundel,4262,Tyler Heights Elementary,Elementary,>= 95.0,*,*,34.6,66,9.9,19,191,20120820
+2005,02,Anne Arundel,4272,West Annapolis Elementary,Elementary,>= 95.0,*,*,33.7,64,<= 5.0,*,190,20120820
+2005,02,Anne Arundel,4283,Central Middle,Middle,94.9,105289.5,110945,32.7,307,9.0,84,938,20120820
+2005,02,Anne Arundel,4293,South River Senior,High,93.3,225314.0,241412,26.3,527,13.9,278,2006,20120820
+2005,02,Anne Arundel,4304,Central Special Education Center,Elementary,89.5,2575.5,2878,25.0,6,37.5,9,24,20120820
+2005,02,Anne Arundel,4304,Central Special Education Center,Middle,93.9,1787.0,1904,31.3,5,12.5,2,16,20120820
+2005,02,Anne Arundel,4304,Central Special Education Center,High,88.2,4062.0,4608,35.9,14,23.1,9,39,20120820
+2005,02,Anne Arundel,4313,South River Evening High,High,>= 95.0,*,*,46.2,18,<= 5.0,*,39,20120820
+2005,02,Anne Arundel,4410,Phoenix CENTER - Annapolis,Elementary,90.3,1384.5,1533,8.3,1,33.3,4,12,20120820
+2005,02,Anne Arundel,4410,Phoenix CENTER - Annapolis,Middle,89.3,3831.0,4292,11.1,4,38.9,14,36,20120820
+2005,02,Anne Arundel,4410,Phoenix CENTER - Annapolis,High,83.6,6867.5,8211,<= 5.0,*,52.3,34,65,20120820
+2005,02,Anne Arundel,A,All Anne Arundel Schools,Elementary,>= 95.0,*,*,37.6,10205,5.7,1558,27146,20120820
+2005,02,Anne Arundel,A,All Anne Arundel Schools,Middle,94.3,1947318.5,2064897,32.4,5621,12.5,2168,17368,20120820
+2005,02,Anne Arundel,A,All Anne Arundel Schools,High,92.5,2542045.5,2747936,27.9,6397,18.3,4207,22931,20120820
+2005,03,Baltimore County,0054,Evening High School,High,92.5,22152.0,23937,39.6,80,17.8,36,202,20120820
+2005,03,Baltimore County,0057,Home Teaching-Elementary,Elementary,*,*,*,*,*,*,*,*,20120820
+2005,03,Baltimore County,0058,Home Teaching-Middle/High,Middle,>= 95.0,*,*,>= 95.0,*,<= 5.0,*,15,20120820
+2005,03,Baltimore County,0058,Home Teaching-Middle/High,High,>= 95.0,*,*,>= 95.0,*,<= 5.0,*,42,20120820
+2005,03,Baltimore County,0062,Campfield Early Childhood Center,Elementary,*,*,*,*,*,*,*,*,20120820
+2005,03,Baltimore County,0069,Catonsville Center for Alternative Studies,High,*,*,*,*,*,*,*,*,20120820
+2005,03,Baltimore County,0070,Meadowood Education Center,Middle,94.1,5899.0,6269,20.0,2,20.0,2,10,20120820
+2005,03,Baltimore County,0072,Rosedale Center,Middle,82.6,9804.0,11865,9.1,4,31.8,14,44,20120820
+2005,03,Baltimore County,0072,Rosedale Center,High,85.6,15012.0,17532,25.6,30,23.1,27,117,20120820
+2005,03,Baltimore County,0101,Catonsville Elementary,Elementary,>= 95.0,*,*,40.9,134,<= 5.0,*,328,20120820
+2005,03,Baltimore County,0102,Westchester Elementary,Elementary,>= 95.0,*,*,40.2,174,<= 5.0,*,433,20120820
+2005,03,Baltimore County,0103,Westowne Elementary,Elementary,>= 95.0,*,*,39.2,129,6.7,22,329,20120820
+2005,03,Baltimore County,0104,Edmondson Heights Elementary,Elementary,>= 95.0,*,*,37.4,212,8.3,47,567,20120820
+2005,03,Baltimore County,0105,Johnnycake Elementary,Elementary,>= 95.0,*,*,41.3,182,<= 5.0,*,441,20120820
+2005,03,Baltimore County,0111,Maiden Choice School,Elementary,83.9,2463.0,2935,8.7,2,52.2,12,23,20120820
+2005,03,Baltimore County,0111,Maiden Choice School,Middle,87.0,1399.0,1608,16.7,2,66.7,8,12,20120820
+2005,03,Baltimore County,0111,Maiden Choice School,High,85.9,5606.0,6525,22.9,11,35.4,17,48,20120820
+2005,03,Baltimore County,0112,Dogwood Elementary,Elementary,>= 95.0,*,*,39.6,195,5.7,28,493,20120820
+2005,03,Baltimore County,0113,Chadwick Elementary,Elementary,>= 95.0,*,*,63.0,215,<= 5.0,*,341,20120820
+2005,03,Baltimore County,0115,Hillcrest Elementary,Elementary,>= 95.0,*,*,34.0,179,5.7,30,527,20120820
+2005,03,Baltimore County,0116,Woodbridge Elementary,Elementary,>= 95.0,*,*,47.6,147,<= 5.0,*,309,20120820
+2005,03,Baltimore County,0151,Catonsville Middle,Middle,>= 95.0,*,*,37.1,234,7.3,46,631,20120820
+2005,03,Baltimore County,0155,Southwest Academy,Middle,>= 95.0,*,*,45.1,583,6.4,83,1293,20120820
+2005,03,Baltimore County,0172,Woodlawn High Center for Pre-Eng. Res.,High,88.6,242338.5,273520,15.5,312,31.8,638,2007,20120820
+2005,03,Baltimore County,0174,Catonsville High,High,94.8,194881.0,205599,40.6,617,10.6,161,1519,20120820
+2005,03,Baltimore County,0175,Western School of Technology & Env. Science,High,>= 95.0,*,*,48.8,514,<= 5.0,*,1053,20120820
+2005,03,Baltimore County,0202,Randallstown Elementary,Elementary,>= 95.0,*,*,75.8,257,<= 5.0,*,339,20120820
+2005,03,Baltimore County,0204,Featherbed Lane Elementary/Primary,Elementary,>= 95.0,*,*,41.2,214,10.6,55,520,20120820
+2005,03,Baltimore County,0205,Woodmoor Elementary,Elementary,>= 95.0,*,*,35.7,173,8.2,40,485,20120820
+2005,03,Baltimore County,0206,Scotts Branch Elementary,Elementary,>= 95.0,*,*,36.3,180,10.7,53,496,20120820
+2005,03,Baltimore County,0207,Church Lane Elementary Technology,Elementary,>= 95.0,*,*,42.1,177,6.4,27,420,20120820
+2005,03,Baltimore County,0209,Hebbville Elementary,Elementary,>= 95.0,*,*,39.9,170,7.0,30,426,20120820
+2005,03,Baltimore County,0210,Powhatan Elementary,Elementary,>= 95.0,*,*,37.5,95,7.1,18,253,20120820
+2005,03,Baltimore County,0211,Winfield Elementary,Elementary,>= 95.0,*,*,45.8,153,7.8,26,334,20120820
+2005,03,Baltimore County,0213,Winand Elementary,Elementary,94.8,58025.0,61178,33.9,155,12.3,56,457,20120820
+2005,03,Baltimore County,0214,Hernwood Elementary,Elementary,>= 95.0,*,*,33.9,124,7.7,28,366,20120820
+2005,03,Baltimore County,0216,Deer Park Elementary,Elementary,>= 95.0,*,*,38.3,148,<= 5.0,*,386,20120820
+2005,03,Baltimore County,0217,New Town Elementary,Elementary,>= 95.0,*,*,46.9,325,5.1,35,693,20120820
+2005,03,Baltimore County,0252,Old Court Middle,Middle,93.6,149444.0,159688,31.7,381,13.6,163,1202,20120820
+2005,03,Baltimore County,0253,Woodlawn Middle,Middle,92.7,106972.0,115385,25.5,221,18.7,162,866,20120820
+2005,03,Baltimore County,0254,Deer Park Middle Magnet School,Middle,94.5,179463.0,189968,32.9,463,11.5,162,1408,20120820
+2005,03,Baltimore County,0271,Milford Mill Academy,High,91.1,174243.5,191343,19.4,274,26.2,370,1414,20120820
+2005,03,Baltimore County,0272,Randallstown High,High,91.0,163034.5,179173,27.8,370,26.5,353,1333,20120820
+2005,03,Baltimore County,0303,Bedford Elementary,Elementary,>= 95.0,*,*,37.3,139,7.5,28,373,20120820
+2005,03,Baltimore County,0304,Wellwood International Elementary,Elementary,>= 95.0,*,*,36.9,164,<= 5.0,*,445,20120820
+2005,03,Baltimore County,0307,Milbrook Elementary,Elementary,>= 95.0,*,*,40.6,131,<= 5.0,*,323,20120820
+2005,03,Baltimore County,0308,Fort Garrison Elementary,Elementary,>= 95.0,*,*,36.1,134,<= 5.0,*,371,20120820
+2005,03,Baltimore County,0310,Summit Park Elementary,Elementary,>= 95.0,*,*,47.3,138,<= 5.0,*,292,20120820
+2005,03,Baltimore County,0352,Pikesville Middle,Middle,94.2,134541.0,142786,25.7,273,12.9,137,1064,20120820
+2005,03,Baltimore County,0353,Sudbrook Magnet Middle,Middle,>= 95.0,*,*,49.0,499,<= 5.0,*,1019,20120820
+2005,03,Baltimore County,0371,Pikesville High,High,93.3,131461.0,140965,32.7,341,12.6,131,1042,20120820
+2005,03,Baltimore County,0402,Owings Mills Elementary,Elementary,>= 95.0,*,*,32.6,182,6.5,36,558,20120820
+2005,03,Baltimore County,0403,Franklin Elementary,Elementary,>= 95.0,*,*,43.5,184,<= 5.0,*,423,20120820
+2005,03,Baltimore County,0404,Chatsworth School,Elementary,>= 95.0,*,*,40.7,150,<= 5.0,*,369,20120820
+2005,03,Baltimore County,0405,Timber Grove Elementary,Elementary,>= 95.0,*,*,37.5,174,7.3,34,464,20120820
+2005,03,Baltimore County,0406,Reisterstown Elementary,Elementary,94.8,54996.5,58026,36.3,160,7.9,35,441,20120820
+2005,03,Baltimore County,0407,Glyndon Elementary,Elementary,>= 95.0,*,*,36.7,156,<= 5.0,*,425,20120820
+2005,03,Baltimore County,0408,Cedarmere Elementary,Elementary,>= 95.0,*,*,45.4,191,7.1,30,421,20120820
+2005,03,Baltimore County,0451,Franklin Middle,Middle,>= 95.0,*,*,40.1,569,8.3,118,1418,20120820
+2005,03,Baltimore County,0452,Owings Mills High,High,92.2,144999.0,157230,25.2,295,18.7,219,1170,20120820
+2005,03,Baltimore County,0472,Franklin High,High,94.2,200449.0,212872,37.2,584,11.1,174,1570,20120820
+2005,03,Baltimore County,0473,New Town High,High,93.5,87947.0,94067,33.0,231,14.9,104,699,20120820
+2005,03,Baltimore County,0501,Fifth District Elementary,Elementary,>= 95.0,*,*,40.8,102,<= 5.0,*,250,20120820
+2005,03,Baltimore County,0601,Prettyboy Elementary,Elementary,>= 95.0,*,*,36.0,132,<= 5.0,*,367,20120820
+2005,03,Baltimore County,0701,Seventh District Elementary,Elementary,>= 95.0,*,*,42.7,137,<= 5.0,*,321,20120820
+2005,03,Baltimore County,0772,Hereford High,High,>= 95.0,*,*,45.0,609,6.9,93,1353,20120820
+2005,03,Baltimore County,0801,Sparks Elementary,Elementary,>= 95.0,*,*,41.6,189,<= 5.0,*,454,20120820
+2005,03,Baltimore County,0803,Lutherville Laboratory,Elementary,>= 95.0,*,*,40.3,146,<= 5.0,*,362,20120820
+2005,03,Baltimore County,0805,Timonium Elementary,Elementary,>= 95.0,*,*,50.7,182,<= 5.0,*,359,20120820
+2005,03,Baltimore County,0808,Pot Spring Elementary,Elementary,>= 95.0,*,*,39.5,174,<= 5.0,*,440,20120820
+2005,03,Baltimore County,0809,Riderwood Elementary,Elementary,>= 95.0,*,*,44.0,191,<= 5.0,*,434,20120820
+2005,03,Baltimore County,0810,Padonia International Elementary,Elementary,>= 95.0,*,*,34.4,77,6.7,15,224,20120820
+2005,03,Baltimore County,0811,Pinewood Elementary,Elementary,>= 95.0,*,*,42.5,171,<= 5.0,*,402,20120820
+2005,03,Baltimore County,0813,Warren Elementary,Elementary,>= 95.0,*,*,47.5,141,<= 5.0,*,297,20120820
+2005,03,Baltimore County,0852,Ridgely Middle,Middle,>= 95.0,*,*,48.5,495,<= 5.0,*,1020,20120820
+2005,03,Baltimore County,0853,Cockeysville Middle,Middle,>= 95.0,*,*,42.6,357,7.0,59,839,20120820
+2005,03,Baltimore County,0855,Hereford Middle,Middle,>= 95.0,*,*,44.1,445,<= 5.0,*,1009,20120820
+2005,03,Baltimore County,0872,Dulaney High,High,94.6,247649.0,261750,37.4,725,11.5,222,1938,20120820
+2005,03,Baltimore County,0905,Stoneleigh Elementary,Elementary,>= 95.0,*,*,49.1,234,<= 5.0,*,477,20120820
+2005,03,Baltimore County,0907,Rodgers Forge Elementary,Elementary,>= 95.0,*,*,40.0,173,<= 5.0,*,432,20120820
+2005,03,Baltimore County,0908,Villa Cresta Elementary,Elementary,>= 95.0,*,*,40.0,164,5.4,22,410,20120820
+2005,03,Baltimore County,0909,Pleasant Plains Elementary,Elementary,>= 95.0,*,*,41.4,173,6.2,26,418,20120820
+2005,03,Baltimore County,0910,Oakleigh Elementary,Elementary,>= 95.0,*,*,42.3,169,<= 5.0,*,400,20120820
+2005,03,Baltimore County,0911,Hampton Elementary,Elementary,>= 95.0,*,*,44.5,141,<= 5.0,*,317,20120820
+2005,03,Baltimore County,0912,Halstead Academy,Elementary,>= 95.0,*,*,36.2,153,7.8,33,423,20120820
+2005,03,Baltimore County,0915,Harford Hills Elementary,Elementary,>= 95.0,*,*,34.1,99,6.2,18,290,20120820
+2005,03,Baltimore County,0916,Cromwell Valley Elementary Technology,Elementary,>= 95.0,*,*,40.6,142,<= 5.0,*,350,20120820
+2005,03,Baltimore County,0921,Pine Grove Elementary,Elementary,>= 95.0,*,*,50.4,209,<= 5.0,*,415,20120820
+2005,03,Baltimore County,0922,Ridge Ruxton,Elementary,90.5,3602.0,3980,13.3,4,30.0,9,30,20120820
+2005,03,Baltimore County,0922,Ridge Ruxton,Middle,94.3,3180.0,3372,40.0,10,20.0,5,25,20120820
+2005,03,Baltimore County,0922,Ridge Ruxton,High,91.2,8096.0,8881,27.9,19,27.9,19,68,20120820
+2005,03,Baltimore County,0923,White Oak School,Elementary,94.1,16560.5,17593,34.3,46,11.2,15,134,20120820
+2005,03,Baltimore County,0923,White Oak School,Middle,91.5,1871.0,2044,33.3,5,33.3,5,15,20120820
+2005,03,Baltimore County,0953,Dumbarton Middle,Middle,>= 95.0,*,*,37.5,354,5.7,54,944,20120820
+2005,03,Baltimore County,0954,Loch Raven Technical Academy,Middle,93.8,113226.0,120774,26.9,243,17.2,155,902,20120820
+2005,03,Baltimore County,0957,Pine Grove Middle,Middle,>= 95.0,*,*,38.9,449,9.3,107,1155,20120820
+2005,03,Baltimore County,0971,Towson High Law & Public Policy,High,94.6,181792.5,192120,38.9,560,11.1,160,1439,20120820
+2005,03,Baltimore County,0972,Parkville High & Center for Math/Science,High,92.7,240572.0,259543,31.7,608,19.7,379,1919,20120820
+2005,03,Baltimore County,0973,Loch Raven High,High,>= 95.0,*,*,42.2,479,8.7,99,1134,20120820
+2005,03,Baltimore County,0975,Carver Center for Arts & Technology,High,>= 95.0,*,*,32.3,233,5.8,42,721,20120820
+2005,03,Baltimore County,1001,Carroll Manor Elementary,Elementary,>= 95.0,*,*,39.8,106,<= 5.0,*,266,20120820
+2005,03,Baltimore County,1002,Jacksonville Elementary,Elementary,>= 95.0,*,*,44.3,207,<= 5.0,*,467,20120820
+2005,03,Baltimore County,1104,Kingsville Elementary,Elementary,>= 95.0,*,*,55.0,175,<= 5.0,*,318,20120820
+2005,03,Baltimore County,1105,Perry Hall Elementary,Elementary,>= 95.0,*,*,47.3,204,<= 5.0,*,431,20120820
+2005,03,Baltimore County,1106,Carney Elementary,Elementary,>= 95.0,*,*,45.3,190,<= 5.0,*,419,20120820
+2005,03,Baltimore County,1107,Chapel Hill Elementary,Elementary,>= 95.0,*,*,42.9,237,<= 5.0,*,553,20120820
+2005,03,Baltimore County,1109,Joppa View Elementary,Elementary,>= 95.0,*,*,46.6,221,<= 5.0,*,474,20120820
+2005,03,Baltimore County,1110,Seven Oaks Elementary,Elementary,>= 95.0,*,*,52.3,180,<= 5.0,*,344,20120820
+2005,03,Baltimore County,1111,Gunpowder Elementary,Elementary,>= 95.0,*,*,50.8,220,<= 5.0,*,433,20120820
+2005,03,Baltimore County,1151,Perry Hall Middle,Middle,>= 95.0,*,*,41.8,639,7.0,107,1529,20120820
+2005,03,Baltimore County,1171,Perry Hall High,High,94.7,294259.5,310854,41.0,942,9.9,227,2297,20120820
+2005,03,Baltimore County,1202,Dundalk Elementary,Elementary,93.9,64012.5,68176,21.6,111,11.3,58,515,20120820
+2005,03,Baltimore County,1205,Berkshire Elementary,Elementary,93.8,35771.0,38117,21.3,60,13.8,39,282,20120820
+2005,03,Baltimore County,1206,Bear Creek Elementary,Elementary,>= 95.0,*,*,30.4,112,5.4,20,369,20120820
+2005,03,Baltimore County,1207,Norwood Elementary,Elementary,>= 95.0,*,*,35.4,169,7.3,35,477,20120820
+2005,03,Baltimore County,1210,Grange Elementary,Elementary,>= 95.0,*,*,35.7,112,6.1,19,314,20120820
+2005,03,Baltimore County,1212,Charlesmont Elementary,Elementary,94.1,31502.5,33479,24.2,61,12.3,31,252,20120820
+2005,03,Baltimore County,1215,Battle Monument School,Elementary,87.1,2131.0,2446,11.1,2,27.8,5,18,20120820
+2005,03,Baltimore County,1215,Battle Monument School,Middle,*,*,*,*,*,*,*,*,20120820
+2005,03,Baltimore County,1215,Battle Monument School,High,91.9,3436.0,3739,28.6,8,10.7,3,28,20120820
+2005,03,Baltimore County,1216,Sandy Plains Elementary,Elementary,>= 95.0,*,*,32.2,132,10.7,44,410,20120820
+2005,03,Baltimore County,1217,Logan Elementary,Elementary,94.5,49541.0,52442,24.1,95,8.1,32,394,20120820
+2005,03,Baltimore County,1218,Eastwood Center,Elementary,>= 95.0,*,*,32.5,38,5.1,6,117,20120820
+2005,03,Baltimore County,1251,Dundalk Middle,Middle,94.2,71298.0,75658,35.1,197,11.0,62,562,20120820
+2005,03,Baltimore County,1253,Holabird Middle,Middle,92.7,89274.0,96300,24.4,175,19.4,139,718,20120820
+2005,03,Baltimore County,1255,General John Stricker Middle,Middle,92.6,112464.5,121491,23.4,211,21.4,193,901,20120820
+2005,03,Baltimore County,1272,Patapsco High & Center for Arts,High,91.5,196288.0,214492,19.5,309,24.0,380,1581,20120820
+2005,03,Baltimore County,1273,Dundalk High,High,89.5,159246.5,177926,18.1,235,30.7,398,1296,20120820
+2005,03,Baltimore County,1302,Arbutus Elementary,Elementary,>= 95.0,*,*,31.7,90,<= 5.0,*,284,20120820
+2005,03,Baltimore County,1307,Baltimore Highlands Elementary,Elementary,93.8,54168.0,57757,28.1,121,10.9,47,431,20120820
+2005,03,Baltimore County,1308,Riverview Elementary,Elementary,>= 95.0,*,*,34.5,127,7.3,27,368,20120820
+2005,03,Baltimore County,1310,Relay Elementary,Elementary,>= 95.0,*,*,39.1,136,<= 5.0,*,348,20120820
+2005,03,Baltimore County,1311,Lansdowne Elementary,Elementary,>= 95.0,*,*,29.3,87,7.7,23,297,20120820
+2005,03,Baltimore County,1313,Halethorpe Elementary,Elementary,>= 95.0,*,*,41.8,130,<= 5.0,*,311,20120820
+2005,03,Baltimore County,1351,Lansdowne Middle,Middle,94.3,96164.0,101951,30.8,232,11.9,90,754,20120820
+2005,03,Baltimore County,1356,Arbutus Middle,Middle,94.4,119438.0,126494,33.1,313,12.2,115,945,20120820
+2005,03,Baltimore County,1371,Lansdowne High & Academy of Finance,High,91.5,149505.0,163480,21.0,254,23.2,281,1211,20120820
+2005,03,Baltimore County,1403,McCormick Elementary,Elementary,>= 95.0,*,*,39.5,147,<= 5.0,*,372,20120820
+2005,03,Baltimore County,1404,Fullerton Elementary,Elementary,>= 95.0,*,*,42.3,172,<= 5.0,*,407,20120820
+2005,03,Baltimore County,1405,Elmwood Elementary,Elementary,>= 95.0,*,*,36.5,154,7.8,33,422,20120820
+2005,03,Baltimore County,1406,Red House Run Elementary,Elementary,>= 95.0,*,*,33.5,120,8.1,29,358,20120820
+2005,03,Baltimore County,1409,Shady Spring Elementary,Elementary,>= 95.0,*,*,44.7,195,<= 5.0,*,436,20120820
+2005,03,Baltimore County,1451,Golden Ring Middle,Middle,93.5,105197.5,112481,26.9,227,15.5,131,844,20120820
+2005,03,Baltimore County,1452,Parkville Middle & Center of Technology,Middle,>= 95.0,*,*,39.1,441,8.8,99,1127,20120820
+2005,03,Baltimore County,1473,Overlea High & Academy of Finance,High,93.2,146851.0,157487,27.4,317,15.7,182,1157,20120820
+2005,03,Baltimore County,1502,Edgemere Elementary,Elementary,>= 95.0,*,*,26.1,103,7.1,28,395,20120820
+2005,03,Baltimore County,1503,Colgate Elementary,Elementary,93.8,33250.0,35442,26.4,71,14.5,39,269,20120820
+2005,03,Baltimore County,1505,Victory Villa Elementary,Elementary,94.8,32654.0,34454,34.5,89,10.9,28,258,20120820
+2005,03,Baltimore County,1506,Martin Boulevard Elementary,Elementary,>= 95.0,*,*,34.5,78,7.5,17,226,20120820
+2005,03,Baltimore County,1507,Chase Elementary,Elementary,>= 95.0,*,*,35.7,79,6.8,15,221,20120820
+2005,03,Baltimore County,1508,Essex Elementary,Elementary,>= 95.0,*,*,39.0,117,6.0,18,300,20120820
+2005,03,Baltimore County,1511,Chesapeake Terrace Elementary,Elementary,94.1,19992.5,21243,20.4,32,12.7,20,157,20120820
+2005,03,Baltimore County,1512,Mars Estates Elementary,Elementary,>= 95.0,*,*,38.5,111,5.9,17,288,20120820
+2005,03,Baltimore County,1513,Sussex Elementary,Elementary,>= 95.0,*,*,37.1,109,7.8,23,294,20120820
+2005,03,Baltimore County,1514,Middlesex Elementary,Elementary,94.7,46271.0,48867,29.4,108,10.1,37,367,20120820
+2005,03,Baltimore County,1515,Hawthorne Elementary,Elementary,94.8,44585.0,47029,34.0,118,8.6,30,347,20120820
+2005,03,Baltimore County,1517,Battle Grove Elementary,Elementary,94.8,29980.5,31621,28.0,66,8.5,20,236,20120820
+2005,03,Baltimore County,1518,Glenmar Elementary,Elementary,>= 95.0,*,*,31.8,84,8.3,22,264,20120820
+2005,03,Baltimore County,1519,Orems Elementary,Elementary,>= 95.0,*,*,30.5,73,7.9,19,239,20120820
+2005,03,Baltimore County,1520,Middleborough Elementary,Elementary,>= 95.0,*,*,36.9,83,5.3,12,225,20120820
+2005,03,Baltimore County,1525,Deep Creek Elementary,Elementary,94.2,51161.0,54307,26.9,109,13.8,56,405,20120820
+2005,03,Baltimore County,1527,Sandalwood Elementary,Elementary,>= 95.0,*,*,40.8,159,8.2,32,390,20120820
+2005,03,Baltimore County,1531,Seneca Elementary,Elementary,94.9,46252.0,48750,30.6,110,9.7,35,359,20120820
+2005,03,Baltimore County,1534,Oliver Beach Elementary,Elementary,>= 95.0,*,*,37.7,77,<= 5.0,*,204,20120820
+2005,03,Baltimore County,1554,Stemmers Run Middle,Middle,93.0,111869.0,120258,26.3,237,19.6,177,901,20120820
+2005,03,Baltimore County,1556,Middle River Middle,Middle,94.1,111657.0,118691,38.6,337,11.6,101,872,20120820
+2005,03,Baltimore County,1557,Deep Creek Middle,Middle,93.8,102662.5,109495,31.9,261,14.0,114,817,20120820
+2005,03,Baltimore County,1559,Sparrows Point Middle,Middle,94.8,71822.0,75769,30.4,172,7.4,42,566,20120820
+2005,03,Baltimore County,1572,Kenwood High IB and Sports Science,High,93.3,227141.0,243375,27.7,495,13.4,240,1786,20120820
+2005,03,Baltimore County,1573,Sparrows Point High,High,92.5,102981.0,111276,21.6,178,18.2,150,825,20120820
+2005,03,Baltimore County,1574,Chesapeake High,High,91.5,117725.5,128642,21.1,201,23.5,224,953,20120820
+2005,03,Baltimore County,1575,Eastern Technical High School,High,>= 95.0,*,*,58.7,762,<= 5.0,*,1299,20120820
+2005,03,Baltimore County,A,All Baltimore County Schools,Elementary,>= 95.0,*,*,38.6,14794,6.1,2330,38318,20120820
+2005,03,Baltimore County,A,All Baltimore County Schools,Middle,94.7,3237697.0,3418494,35.0,8956,11.6,2982,25616,20120820
+2005,03,Baltimore County,A,All Baltimore County Schools,High,93.1,4186409.0,4495267,31.4,10514,17.1,5705,33449,20120820
+2005,04,Calvert,0101,Appeal Elementary,Elementary,>= 95.0,*,*,29.9,126,5.7,24,421,20120820
+2005,04,Calvert,0110,Mutual Elementary,Elementary,>= 95.0,*,*,36.0,193,<= 5.0,*,536,20120820
+2005,04,Calvert,0111,Southern Middle,Middle,94.8,77884.0,82162,31.8,214,7.9,53,674,20120820
+2005,04,Calvert,0112,Patuxent Elementary,Elementary,94.2,34003.5,36110,20.6,59,6.6,19,287,20120820
+2005,04,Calvert,0113,Patuxent High,High,93.0,168624.0,181249,21.1,308,8.4,123,1461,20120820
+2005,04,Calvert,0114,St Leonard Elementary,Elementary,>= 95.0,*,*,33.6,208,<= 5.0,*,619,20120820
+2005,04,Calvert,0115,Dowell Elementary,Elementary,>= 95.0,*,*,39.9,223,<= 5.0,*,559,20120820
+2005,04,Calvert,0116,Mill Creek Middle,Middle,94.8,79617.0,83955,32.8,225,6.0,41,686,20120820
+2005,04,Calvert,0201,Calvert Middle,Middle,>= 95.0,*,*,39.2,196,<= 5.0,*,500,20120820
+2005,04,Calvert,0206,Calvert Country School,Elementary,86.3,2078.0,2408,14.3,3,23.8,5,21,20120820
+2005,04,Calvert,0206,Calvert Country School,Middle,83.4,2222.5,2666,9.1,2,45.5,10,22,20120820
+2005,04,Calvert,0206,Calvert Country School,High,84.7,2816.5,3325,15.4,4,46.2,12,26,20120820
+2005,04,Calvert,0207,Calvert Elementary,Elementary,94.6,57477.5,60755,29.1,145,7.0,35,499,20120820
+2005,04,Calvert,0209,Huntingtown Elementary,Elementary,>= 95.0,*,*,39.6,233,<= 5.0,*,588,20120820
+2005,04,Calvert,0213,Calvert High,High,93.9,133718.0,142410,26.4,303,8.2,94,1147,20120820
+2005,04,Calvert,0215,Plum Point Elementary,Elementary,>= 95.0,*,*,39.4,270,<= 5.0,*,685,20120820
+2005,04,Calvert,0216,Plum Point Middle,Middle,>= 95.0,*,*,38.3,303,<= 5.0,*,792,20120820
+2005,04,Calvert,0217,Huntingtown High School,High,94.8,163091.5,172020,31.1,432,<= 5.0,*,1388,20120820
+2005,04,Calvert,0299,Calvert County Home & Hospital School,Elementary,*,*,*,*,*,*,*,*,20120820
+2005,04,Calvert,0299,Calvert County Home & Hospital School,Middle,*,*,*,*,*,*,*,*,20120820
+2005,04,Calvert,0299,Calvert County Home & Hospital School,High,*,*,*,*,*,*,*,*,20120820
+2005,04,Calvert,0302,Beach Elementary,Elementary,>= 95.0,*,*,32.0,136,<= 5.0,*,425,20120820
+2005,04,Calvert,0312,Mount Harmony Elementary,Elementary,>= 95.0,*,*,38.3,234,<= 5.0,*,611,20120820
+2005,04,Calvert,0314,Northern High,High,94.6,181171.0,191465,24.8,383,<= 5.0,*,1543,20120820
+2005,04,Calvert,0315,Northern Middle,Middle,>= 95.0,*,*,43.9,344,<= 5.0,*,783,20120820
+2005,04,Calvert,0316,Sunderland Elementary,Elementary,>= 95.0,*,*,51.3,203,<= 5.0,*,396,20120820
+2005,04,Calvert,0317,Windy Hill Elementary,Elementary,>= 95.0,*,*,30.9,175,<= 5.0,*,567,20120820
+2005,04,Calvert,0318,Windy Hill Middle,Middle,94.9,87121.0,91844,30.3,226,7.1,53,746,20120820
+2005,04,Calvert,A,All Calvert Schools,Elementary,>= 95.0,*,*,35.3,2193,<= 5.0,*,6220,20120820
+2005,04,Calvert,A,All Calvert Schools,Middle,>= 95.0,*,*,35.8,1505,<= 5.0,*,4204,20120820
+2005,04,Calvert,A,All Calvert Schools,High,94.1,650705.0,691759,25.7,1434,6.5,360,5578,20120820
+2005,05,Caroline,0201,Greensboro Elementary School,Elementary,>= 95.0,*,*,28.4,141,6.0,30,496,20120820
+2005,05,Caroline,0301,Denton Elementary School,Elementary,>= 95.0,*,*,27.4,114,6.7,28,416,20120820
+2005,05,Caroline,0302,Lockerman Middle School,Middle,93.9,94944.0,101085,23.4,196,13.0,109,836,20120820
+2005,05,Caroline,0401,Preston Elementary School,Elementary,>= 95.0,*,*,30.6,87,<= 5.0,*,284,20120820
+2005,05,Caroline,0501,Federalsburg Elementary School,Elementary,94.5,40173.5,42526,24.8,87,10.8,38,351,20120820
+2005,05,Caroline,0701,Ridgely Elementary School,Elementary,>= 95.0,*,*,29.9,98,<= 5.0,*,328,20120820
+2005,05,Caroline,0703,North Caroline High School,High,93.5,123942.5,132628,20.0,217,17.4,189,1086,20120820
+2005,05,Caroline,0801,Colonel Richardson High School,High,92.5,69955.0,75665,22.0,134,19.5,119,609,20120820
+2005,05,Caroline,0802,Colonel Richardson Middle School,Middle,94.0,51674.0,54970,28.2,127,12.0,54,451,20120820
+2005,05,Caroline,A,All Caroline Schools,Elementary,>= 95.0,*,*,27.9,524,6.6,124,1880,20120820
+2005,05,Caroline,A,All Caroline Schools,Middle,94.0,146618.0,156055,25.1,323,12.7,163,1287,20120820
+2005,05,Caroline,A,All Caroline Schools,High,93.1,193897.5,208293,20.6,350,18.3,310,1696,20120820
+2005,06,Carroll,0103,Taneytown Elementary,Elementary,>= 95.0,*,*,30.3,122,6.2,25,402,20120820
+2005,06,Carroll,0105,Northwest Middle,Middle,>= 95.0,*,*,38.3,246,9.6,62,643,20120820
+2005,06,Carroll,0202,Francis Scott Key Sr. High,High,93.8,137463.5,146592,34.1,412,16.4,198,1208,20120820
+2005,06,Carroll,0204,Runnymede Elementary,Elementary,>= 95.0,*,*,35.0,180,<= 5.0,*,514,20120820
+2005,06,Carroll,0302,Charles Carroll Elementary,Elementary,>= 95.0,*,*,36.6,100,5.9,16,273,20120820
+2005,06,Carroll,0404,Sandymount Elementary,Elementary,>= 95.0,*,*,35.0,162,<= 5.0,*,463,20120820
+2005,06,Carroll,0406,Mechanicsville Elementary,Elementary,>= 95.0,*,*,36.6,198,<= 5.0,*,541,20120820
+2005,06,Carroll,0501,Eldersburg Elementary,Elementary,>= 95.0,*,*,32.4,166,<= 5.0,*,513,20120820
+2005,06,Carroll,0503,Linton Springs Elementary,Elementary,>= 95.0,*,*,38.6,221,<= 5.0,*,573,20120820
+2005,06,Carroll,0504,Sykesville Middle,Middle,>= 95.0,*,*,38.0,351,6.1,56,924,20120820
+2005,06,Carroll,0505,Freedom District Elementary,Elementary,>= 95.0,*,*,39.5,193,<= 5.0,*,488,20120820
+2005,06,Carroll,0506,Carrolltowne Elementary,Elementary,>= 95.0,*,*,43.4,214,<= 5.0,*,493,20120820
+2005,06,Carroll,0507,Liberty High,High,>= 95.0,*,*,42.3,475,6.1,69,1123,20120820
+2005,06,Carroll,0508,Oklahoma Road Middle,Middle,>= 95.0,*,*,41.1,366,<= 5.0,*,890,20120820
+2005,06,Carroll,0509,Piney Ridge Elementary,Elementary,>= 95.0,*,*,41.6,233,<= 5.0,*,560,20120820
+2005,06,Carroll,0510,Century High,High,>= 95.0,*,*,37.9,455,9.4,113,1200,20120820
+2005,06,Carroll,0601,Manchester Elementary,Elementary,>= 95.0,*,*,39.5,261,<= 5.0,*,661,20120820
+2005,06,Carroll,0701,Westminster East Middle,Middle,>= 95.0,*,*,41.0,310,9.4,71,756,20120820
+2005,06,Carroll,0703,Westminster West Middle,Middle,>= 95.0,*,*,37.7,423,7.5,84,1121,20120820
+2005,06,Carroll,0704,Winters Mill High,High,>= 95.0,*,*,42.9,510,10.7,127,1189,20120820
+2005,06,Carroll,0705,William Winchester Elementary,Elementary,>= 95.0,*,*,37.2,135,5.2,19,363,20120820
+2005,06,Carroll,0707,Westminster Senior High,High,>= 95.0,*,*,40.4,722,10.6,189,1785,20120820
+2005,06,Carroll,0710,Westminster Elementary,Elementary,>= 95.0,*,*,36.8,175,<= 5.0,*,475,20120820
+2005,06,Carroll,0711,Robert Moton Elementary,Elementary,94.6,40286.5,42603,29.2,104,9.3,33,356,20120820
+2005,06,Carroll,0712,Carroll Springs School,Elementary,*,*,*,*,*,*,*,*,20120820
+2005,06,Carroll,0712,Carroll Springs School,Middle,*,*,*,*,*,*,*,*,20120820
+2005,06,Carroll,0712,Carroll Springs School,High,92.9,1460.5,1572,41.7,5,25.0,3,12,20120820
+2005,06,Carroll,0714,Friendship Valley Elementary,Elementary,>= 95.0,*,*,35.7,155,<= 5.0,*,434,20120820
+2005,06,Carroll,0715,Cranberry Station Elementary,Elementary,>= 95.0,*,*,42.4,186,5.9,26,439,20120820
+2005,06,Carroll,0716,Gateway School,Middle,83.5,2019.5,2419,<= 5.0,*,61.1,11,18,20120820
+2005,06,Carroll,0716,Gateway School,High,81.5,7502.5,9204,10.0,7,55.7,39,70,20120820
+2005,06,Carroll,0801,North Carroll Middle,Middle,>= 95.0,*,*,34.5,242,6.0,42,702,20120820
+2005,06,Carroll,0804,Hampstead Elementary,Elementary,>= 95.0,*,*,38.6,197,<= 5.0,*,510,20120820
+2005,06,Carroll,0805,North Carroll High,High,>= 95.0,*,*,40.2,661,10.0,164,1643,20120820
+2005,06,Carroll,0806,Spring Garden Elementary,Elementary,>= 95.0,*,*,34.1,181,<= 5.0,*,531,20120820
+2005,06,Carroll,0807,Shiloh Middle,Middle,>= 95.0,*,*,37.4,310,6.6,55,829,20120820
+2005,06,Carroll,0906,Winfield Elementary,Elementary,>= 95.0,*,*,32.3,192,6.4,38,594,20120820
+2005,06,Carroll,1101,New Windsor Middle,Middle,>= 95.0,*,*,35.3,185,8.8,46,524,20120820
+2005,06,Carroll,1201,Elmer A. Wolfe Elementary,Elementary,>= 95.0,*,*,36.8,134,<= 5.0,*,364,20120820
+2005,06,Carroll,1305,Mount Airy Elementary,Elementary,>= 95.0,*,*,35.0,208,<= 5.0,*,594,20120820
+2005,06,Carroll,1306,Mount Airy Middle,Elementary,>= 95.0,*,*,43.0,65,<= 5.0,*,151,20120820
+2005,06,Carroll,1306,Mount Airy Middle,Middle,>= 95.0,*,*,44.6,266,<= 5.0,*,596,20120820
+2005,06,Carroll,1401,South Carroll Sr. High,High,>= 95.0,*,*,34.8,383,8.6,95,1100,20120820
+2005,06,Carroll,A,All Carroll Schools,Elementary,>= 95.0,*,*,36.6,3782,<= 5.0,*,10321,20120820
+2005,06,Carroll,A,All Carroll Schools,Middle,>= 95.0,*,*,38.5,2698,7.2,505,7013,20120820
+2005,06,Carroll,A,All Carroll Schools,High,94.9,1077844.0,1135410,38.7,3625,10.9,1016,9357,20120820
+2005,07,Cecil,0104,Cecilton Elementary,Elementary,94.5,28868.0,30553,23.7,59,7.2,18,249,20120820
+2005,07,Cecil,0204,Bohemia Manor High,High,91.9,74043.5,80606,16.8,111,23.0,152,662,20120820
+2005,07,Cecil,0205,Chesapeake City Elementary,Elementary,>= 95.0,*,*,28.4,71,<= 5.0,*,250,20120820
+2005,07,Cecil,0206,Bohemia Manor Middle,Middle,93.3,60729.5,65074,24.9,133,17.4,93,535,20120820
+2005,07,Cecil,0302,Elkton High,Middle,*,*,*,*,*,*,*,*,20120820
+2005,07,Cecil,0302,Elkton High,High,89.3,112667.0,126214,15.5,160,31.5,326,1034,20120820
+2005,07,Cecil,0303,Elkton Middle,Middle,92.0,73440.5,79828,19.1,126,19.3,127,659,20120820
+2005,07,Cecil,0310,Gilpin Manor Elementary,Elementary,93.2,36125.0,38742,21.6,68,15.2,48,315,20120820
+2005,07,Cecil,0311,Holly Hall Elementary,Elementary,94.9,51098.0,53842,31.8,141,6.1,27,443,20120820
+2005,07,Cecil,0313,Cherry Hill Middle,Middle,93.8,63406.5,67576,28.2,157,12.4,69,557,20120820
+2005,07,Cecil,0315,Leeds Elementary,Elementary,94.9,36260.5,38216,31.7,98,6.5,20,309,20120820
+2005,07,Cecil,0316,Thomson Estates Elementary,Elementary,94.8,54440.5,57398,29.5,140,6.9,33,475,20120820
+2005,07,Cecil,0317,Kenmore Elementary,Elementary,>= 95.0,*,*,41.0,110,<= 5.0,*,268,20120820
+2005,07,Cecil,0401,Cecil Manor Elementary,Elementary,>= 95.0,*,*,31.7,113,6.5,23,356,20120820
+2005,07,Cecil,0504,North East Middle,Middle,92.3,90113.5,97651,20.3,164,19.8,160,808,20120820
+2005,07,Cecil,0506,North East Elementary,Elementary,>= 95.0,*,*,32.5,123,6.3,24,379,20120820
+2005,07,Cecil,0510,Bay View Elementary,Elementary,94.1,46765.0,49687,27.2,113,11.3,47,416,20120820
+2005,07,Cecil,0513,Charlestown Elementary,Elementary,94.8,15570.5,16416,28.1,38,7.4,10,135,20120820
+2005,07,Cecil,0514,North East High,High,90.5,118013.0,130446,18.7,199,27.0,288,1065,20120820
+2005,07,Cecil,0515,Elk Neck Elementary,Elementary,>= 95.0,*,*,33.4,124,<= 5.0,*,371,20120820
+2005,07,Cecil,0606,Rising Sun Middle School,Middle,94.0,80104.5,85196,29.7,210,12.9,91,708,20120820
+2005,07,Cecil,0607,Rising Sun Elementary,Elementary,>= 95.0,*,*,33.7,222,5.5,36,658,20120820
+2005,07,Cecil,0701,Perryville Middle,Middle,93.4,80918.0,86600,24.3,175,15.4,111,720,20120820
+2005,07,Cecil,0703,Perryville Elementary,Elementary,>= 95.0,*,*,32.4,100,9.1,28,309,20120820
+2005,07,Cecil,0704,Bainbridge Elementary,Elementary,94.5,22347.0,23638,33.3,68,8.3,17,204,20120820
+2005,07,Cecil,0705,Perryville High,High,89.8,110624.0,123176,16.1,162,29.7,300,1009,20120820
+2005,07,Cecil,0801,Conowingo Elementary,Elementary,>= 95.0,*,*,37.5,156,6.3,26,416,20120820
+2005,07,Cecil,0904,Calvert Elementary,Elementary,>= 95.0,*,*,38.1,115,5.6,17,302,20120820
+2005,07,Cecil,0905,Rising Sun High,High,91.9,121602.0,132289,19.9,216,23.3,253,1088,20120820
+2005,07,Cecil,A,All Cecil Schools,Elementary,>= 95.0,*,*,31.4,1846,7.6,446,5886,20120820
+2005,07,Cecil,A,All Cecil Schools,Middle,93.1,448178.5,481257,24.0,961,16.8,671,4000,20120820
+2005,07,Cecil,A,All Cecil Schools,High,90.6,537237.5,593091,17.4,850,27.5,1342,4879,20120820
+2005,08,Charles,0104,Milton M. Somers Middle School,Middle,94.5,152813.0,161655,29.6,367,8.9,111,1241,20120820
+2005,08,Charles,0105,Walter J. Mitchell Elementary,Elementary,>= 95.0,*,*,30.0,155,5.4,28,517,20120820
+2005,08,Charles,0106,La Plata High School,High,92.9,200970.5,216329,24.0,392,19.0,311,1635,20120820
+2005,08,Charles,0108,Maurice J. McDonough High School,High,93.3,162921.5,174627,23.2,309,15.6,208,1331,20120820
+2005,08,Charles,0109,Mary Matula Elementary School,Elementary,>= 95.0,*,*,32.5,187,6.6,38,575,20120820
+2005,08,Charles,0302,Mt Hope/Nanjemoy Elementary School,Elementary,>= 95.0,*,*,31.8,74,6.4,15,233,20120820
+2005,08,Charles,0501,Dr. Thomas L. Higdon Elementary,Elementary,93.8,41190.5,43896,20.7,69,7.8,26,333,20120820
+2005,08,Charles,0503,Piccowaxen Middle School,Middle,94.6,65188.5,68895,27.2,144,9.3,49,529,20120820
+2005,08,Charles,0604,Dr. Samuel A. Mudd Elementary School,Elementary,94.3,42313.0,44873,27.8,95,11.4,39,342,20120820
+2005,08,Charles,0605,Thomas Stone High School,High,92.3,249398.0,270262,20.3,414,21.1,430,2039,20120820
+2005,08,Charles,0606,J. P. Ryon Elementary School,Elementary,>= 95.0,*,*,34.8,174,6.6,33,500,20120820
+2005,08,Charles,0608,John Hanson Middle School,Middle,94.5,116333.5,123160,26.4,248,9.0,84,938,20120820
+2005,08,Charles,0609,Dr. James Craik Elementary School,Elementary,>= 95.0,*,*,33.5,110,<= 5.0,*,328,20120820
+2005,08,Charles,0611,Dr. Gustavus Brown Elementary,Elementary,>= 95.0,*,*,28.8,111,7.5,29,386,20120820
+2005,08,Charles,0612,Arthur Middleton Elementary School,Elementary,>= 95.0,*,*,32.2,168,5.7,30,522,20120820
+2005,08,Charles,0613,Benjamin Stoddert Middle School,Middle,94.1,95353.5,101329,20.0,151,13.4,101,755,20120820
+2005,08,Charles,0616,Eva Turner Elementary School,Elementary,>= 95.0,*,*,33.1,131,5.1,20,396,20120820
+2005,08,Charles,0617,Daniel of St. Thomas Jenifer Elementary School,Elementary,>= 95.0,*,*,28.0,164,<= 5.0,*,586,20120820
+2005,08,Charles,0618,William B. Wade Elementary School,Elementary,>= 95.0,*,*,35.3,248,<= 5.0,*,702,20120820
+2005,08,Charles,0619,Westlake High School,High,92.7,216012.0,232906,22.4,396,20.6,365,1768,20120820
+2005,08,Charles,0620,C. Paul Barnhart Elementary School,Elementary,>= 95.0,*,*,34.5,194,10.0,56,562,20120820
+2005,08,Charles,0621,Mattawoman Middle School,Middle,94.8,134019.5,141331,28.2,306,7.5,81,1086,20120820
+2005,08,Charles,0622,Berry Elementary School,Elementary,>= 95.0,*,*,42.1,299,<= 5.0,*,710,20120820
+2005,08,Charles,0701,Matthew Henson Middle School,Middle,94.7,113134.5,119477,25.0,228,8.4,77,913,20120820
+2005,08,Charles,0703,J. C. Parks Elementary School,Elementary,>= 95.0,*,*,29.4,248,6.0,51,843,20120820
+2005,08,Charles,0705,General Smallwood Middle School,Middle,92.9,80346.5,86504,18.7,123,19.8,130,657,20120820
+2005,08,Charles,0708,Radio Station Road Academy School,Middle,81.3,5217.0,6420,5.6,2,61.1,22,36,20120820
+2005,08,Charles,0708,Radio Station Road Academy School,High,88.8,4097.0,4616,35.5,11,41.9,13,31,20120820
+2005,08,Charles,0710,Indian Head Elementary School,Elementary,94.8,44591.5,47032,31.7,112,7.9,28,353,20120820
+2005,08,Charles,0801,T. C. Martin Elementary School,Elementary,94.9,60886.0,64134,30.3,148,5.5,27,489,20120820
+2005,08,Charles,0902,Malcolm Elementary School,Elementary,>= 95.0,*,*,35.6,170,<= 5.0,*,478,20120820
+2005,08,Charles,1001,Gale-Bailey Elementary School,Elementary,94.8,39637.5,41800,28.6,92,6.5,21,322,20120820
+2005,08,Charles,1002,Henry E. Lackey High School,High,90.9,188006.0,206719,17.9,277,27.1,420,1551,20120820
+2005,08,Charles,A,All Charles Schools,Elementary,>= 95.0,*,*,31.9,2932,6.0,551,9189,20120820
+2005,08,Charles,A,All Charles Schools,Middle,94.3,762376.5,808726,25.2,1555,11.6,717,6178,20120820
+2005,08,Charles,A,All Charles Schools,High,92.4,1021441.5,1105511,21.3,1781,21.3,1784,8377,20120820
+2005,09,Dorchester,0205,Warwick Elementary,Elementary,>= 95.0,*,*,29.5,70,6.8,16,237,20120820
+2005,09,Dorchester,0207,North Dorchester High,High,91.5,65562.0,71639,22.4,138,30.9,190,615,20120820
+2005,09,Dorchester,0208,North Dorchester Middle,Middle,93.4,47422.5,50754,25.9,113,17.6,77,437,20120820
+2005,09,Dorchester,0302,Vienna Elementary,Elementary,>= 95.0,*,*,34.8,46,6.8,9,132,20120820
+2005,09,Dorchester,0508,South Dorchester School,Elementary,93.8,9089.0,9687,26.2,22,11.9,10,84,20120820
+2005,09,Dorchester,0508,South Dorchester School,Middle,94.9,6878.0,7251,23.4,15,10.9,7,64,20120820
+2005,09,Dorchester,0707,Maces Lane Middle,Middle,91.7,63470.5,69203,29.5,172,23.2,135,583,20120820
+2005,09,Dorchester,0710,Sandy Hill Elementary,Elementary,94.0,31025.0,33006,27.2,75,10.5,29,276,20120820
+2005,09,Dorchester,0711,Maple Elementary,Elementary,94.7,29823.5,31483,28.3,77,11.4,31,272,20120820
+2005,09,Dorchester,0713,Cambridge-South Dorchester High,High,92.2,101593.5,110149,24.2,222,26.3,241,918,20120820
+2005,09,Dorchester,0716,Choptank Elementary School,Elementary,>= 95.0,*,*,35.1,91,8.1,21,259,20120820
+2005,09,Dorchester,1503,Hurlock Elementary,Elementary,94.3,32759.0,34741,25.8,78,11.3,34,302,20120820
+2005,09,Dorchester,A,All Dorchester Schools,Elementary,94.7,174401.0,184198,29.0,455,9.9,155,1567,20120820
+2005,09,Dorchester,A,All Dorchester Schools,Middle,92.6,117771.0,127208,27.6,299,20.5,222,1085,20120820
+2005,09,Dorchester,A,All Dorchester Schools,High,92.0,167155.5,181788,23.5,360,28.2,432,1534,20120820
+2005,10,Frederick,0100,Frederick County Evening High,High,>= 95.0,*,*,>= 95.0,*,<= 5.0,*,121,20120820
+2005,10,Frederick,0108,Carroll Manor Elementary,Elementary,>= 95.0,*,*,33.9,98,5.2,15,289,20120820
+2005,10,Frederick,0109,Tuscarora Elementary,Elementary,>= 95.0,*,*,34.4,200,5.3,31,582,20120820
+2005,10,Frederick,0201,Parkway Elementary,Elementary,>= 95.0,*,*,36.6,64,<= 5.0,*,175,20120820
+2005,10,Frederick,0204,South Frederick Elementary,Elementary,94.6,36946.5,39045,29.8,90,9.9,30,302,20120820
+2005,10,Frederick,0206,Heather Ridge Middle,Middle,*,*,*,*,*,*,*,*,20120820
+2005,10,Frederick,0208,Heather Ridge High School,High,*,*,*,*,*,*,*,*,20120820
+2005,10,Frederick,0209,Frederick High,High,91.8,161864.0,176277,25.6,347,21.0,285,1355,20120820
+2005,10,Frederick,0210,North Frederick Elementary,Elementary,>= 95.0,*,*,37.2,177,<= 5.0,*,476,20120820
+2005,10,Frederick,0211,West Frederick Middle,Middle,94.1,95489.5,101433,30.2,245,11.4,92,810,20120820
+2005,10,Frederick,0213,Gov. Thomas Johnson High,High,91.9,230186.5,250451,25.9,502,20.2,391,1940,20120820
+2005,10,Frederick,0219,Monocacy Middle,Middle,94.1,90871.5,96518,35.0,263,12.0,90,752,20120820
+2005,10,Frederick,0222,Monocacy Elementary,Elementary,>= 95.0,*,*,32.4,157,5.6,27,484,20120820
+2005,10,Frederick,0223,Ballenger Creek Elementary,Elementary,>= 95.0,*,*,42.3,232,<= 5.0,*,548,20120820
+2005,10,Frederick,0225,Gov. Thomas Johnson Middle,Middle,93.8,78433.5,83630,31.2,203,15.7,102,651,20120820
+2005,10,Frederick,0226,Monocacy Valley Montessori School,Elementary,94.8,18203.5,19192,27.2,41,7.9,12,151,20120820
+2005,10,Frederick,0226,Monocacy Valley Montessori School,Middle,92.2,4705.5,5106,5.4,2,18.9,7,37,20120820
+2005,10,Frederick,0227,Crestwood Middle,Middle,94.2,64657.5,68650,28.5,152,12.2,65,534,20120820
+2005,10,Frederick,0303,Middletown Elementary,Elementary,>= 95.0,*,*,37.6,245,<= 5.0,*,651,20120820
+2005,10,Frederick,0311,Middletown Middle,Middle,>= 95.0,*,*,39.0,381,<= 5.0,*,978,20120820
+2005,10,Frederick,0313,Middletown High,High,94.4,152983.5,162025,33.3,421,11.7,148,1265,20120820
+2005,10,Frederick,0503,Emmitsburg Elementary,Elementary,>= 95.0,*,*,37.1,88,5.5,13,237,20120820
+2005,10,Frederick,0603,Wolfsville Elementary,Elementary,>= 95.0,*,*,41.7,63,6.0,9,151,20120820
+2005,10,Frederick,0702,Urbana Elementary,Elementary,>= 95.0,*,*,36.7,319,<= 5.0,*,870,20120820
+2005,10,Frederick,0713,Urbana High,High,94.1,188740.0,200637,31.3,492,12.7,200,1572,20120820
+2005,10,Frederick,0714,Windsor Knolls Middle,Middle,>= 95.0,*,*,36.8,391,5.6,59,1062,20120820
+2005,10,Frederick,0801,Liberty Elementary,Elementary,>= 95.0,*,*,36.5,104,6.3,18,285,20120820
+2005,10,Frederick,0903,New Market Elementary,Elementary,>= 95.0,*,*,38.8,175,<= 5.0,*,451,20120820
+2005,10,Frederick,0912,Linganore High,High,93.8,189076.0,201510,28.4,446,12.9,202,1569,20120820
+2005,10,Frederick,0913,Green Valley Elementary,Elementary,>= 95.0,*,*,38.7,190,<= 5.0,*,491,20120820
+2005,10,Frederick,0914,New Market Middle,Middle,>= 95.0,*,*,37.9,336,7.8,69,886,20120820
+2005,10,Frederick,0915,Kemptown Elementary,Elementary,>= 95.0,*,*,37.2,178,<= 5.0,*,479,20120820
+2005,10,Frederick,0916,Spring Ridge Elementary,Elementary,>= 95.0,*,*,30.0,130,5.8,25,433,20120820
+2005,10,Frederick,0917,Deer Crossing Elementary,Elementary,>= 95.0,*,*,39.7,240,<= 5.0,*,605,20120820
+2005,10,Frederick,0918,Oakdale Middle,Middle,>= 95.0,*,*,34.4,190,7.4,41,553,20120820
+2005,10,Frederick,0919,Oakdale Elementary,Elementary,>= 95.0,*,*,37.5,166,<= 5.0,*,443,20120820
+2005,10,Frederick,1001,Sabillasville Elementary,Elementary,94.3,14258.0,15112,22.0,26,7.6,9,118,20120820
+2005,10,Frederick,1105,New Midway/Woodsboro Elementary,Elementary,>= 95.0,*,*,32.6,85,<= 5.0,*,261,20120820
+2005,10,Frederick,1406,Valley Elementary,Elementary,>= 95.0,*,*,37.0,151,5.6,23,408,20120820
+2005,10,Frederick,1503,Thurmont Elementary,Elementary,>= 95.0,*,*,37.9,156,6.1,25,412,20120820
+2005,10,Frederick,1509,Catoctin High,High,92.4,117333.0,127001,26.1,260,20.5,204,996,20120820
+2005,10,Frederick,1510,Thurmont Middle,Middle,94.3,88580.5,93930,28.5,210,13.0,96,738,20120820
+2005,10,Frederick,1511,Thurmont Primary,Elementary,>= 95.0,*,*,37.5,99,<= 5.0,*,264,20120820
+2005,10,Frederick,1604,Myersville Elementary,Elementary,>= 95.0,*,*,42.7,184,<= 5.0,*,431,20120820
+2005,10,Frederick,1801,Twin Ridge Elementary,Elementary,>= 95.0,*,*,37.3,215,<= 5.0,*,577,20120820
+2005,10,Frederick,2001,Lewistown Elementary,Elementary,>= 95.0,*,*,46.2,67,<= 5.0,*,145,20120820
+2005,10,Frederick,2103,Yellow Springs Elementary,Elementary,>= 95.0,*,*,38.0,149,<= 5.0,*,392,20120820
+2005,10,Frederick,2107,Whittier Elementary,Elementary,>= 95.0,*,*,40.3,248,<= 5.0,*,615,20120820
+2005,10,Frederick,2302,Hillcrest Elementary,Elementary,94.9,60286.0,63530,33.5,166,7.1,35,496,20120820
+2005,10,Frederick,2305,Ballenger Creek Middle School,Middle,94.8,89082.0,94013,29.3,216,10.4,77,738,20120820
+2005,10,Frederick,2306,Orchard Grove Elementary,Elementary,>= 95.0,*,*,41.4,218,<= 5.0,*,526,20120820
+2005,10,Frederick,2307,Tuscarora High,High,93.5,134301.0,143562,29.1,326,14.4,162,1122,20120820
+2005,10,Frederick,2403,Waverley Elementary,Elementary,>= 95.0,*,*,39.4,140,<= 5.0,*,355,20120820
+2005,10,Frederick,2404,Rock Creek School,Elementary,87.1,2979.5,3421,14.3,4,46.4,13,28,20120820
+2005,10,Frederick,2404,Rock Creek School,Middle,92.6,2563.5,2767,31.8,7,22.7,5,22,20120820
+2005,10,Frederick,2404,Rock Creek School,High,86.4,4113.5,4761,24.3,9,45.9,17,37,20120820
+2005,10,Frederick,2503,Brunswick High,High,92.5,104848.5,113336,28.1,248,18.1,160,884,20120820
+2005,10,Frederick,2504,Brunswick Elementary,Elementary,>= 95.0,*,*,33.8,143,5.7,24,423,20120820
+2005,10,Frederick,2525,Brunswick Middle,Middle,93.8,74496.5,79434,29.0,181,13.9,87,624,20120820
+2005,10,Frederick,2606,Walkersville Middle,Middle,>= 95.0,*,*,35.2,327,7.1,66,928,20120820
+2005,10,Frederick,2607,Walkersville Elementary,Elementary,>= 95.0,*,*,33.8,182,<= 5.0,*,538,20120820
+2005,10,Frederick,2610,Walkersville High,High,93.7,153800.0,164122,32.0,408,15.1,193,1274,20120820
+2005,10,Frederick,2611,Glade Elementary,Elementary,>= 95.0,*,*,36.0,169,<= 5.0,*,470,20120820
+2005,10,Frederick,A,All Frederick Schools,Elementary,>= 95.0,*,*,36.6,5334,<= 5.0,*,14590,20120820
+2005,10,Frederick,A,All Frederick Schools,Middle,94.7,1122937.5,1185514,33.1,3092,9.8,917,9333,20120820
+2005,10,Frederick,A,All Frederick Schools,High,93.2,1452722.0,1559213,29.1,3544,16.5,2007,12182,20120820
+2005,11,Garrett,0202,Friendsville Elementary,Elementary,>= 95.0,*,*,32.1,36,<= 5.0,*,112,20120820
+2005,11,Garrett,0301,Grantsville Elementary,Elementary,>= 95.0,*,*,37.1,85,5.2,12,229,20120820
+2005,11,Garrett,0401,Bloomington School,Elementary,>= 95.0,*,*,36.0,18,<= 5.0,*,50,20120820
+2005,11,Garrett,0401,Bloomington School,Middle,>= 95.0,*,*,37.5,12,<= 5.0,*,32,20120820
+2005,11,Garrett,0501,Accident Elementary,Elementary,>= 95.0,*,*,30.3,60,<= 5.0,*,198,20120820
+2005,11,Garrett,0511,Northern Middle School,Middle,>= 95.0,*,*,27.8,126,<= 5.0,*,453,20120820
+2005,11,Garrett,0512,Northern Garrett High School,High,94.8,64274.5,67783,25.5,140,<= 5.0,*,548,20120820
+2005,11,Garrett,0599,Northern High Evening School,High,*,*,*,*,*,*,*,*,20120820
+2005,11,Garrett,0707,Broad Ford Elementary,Elementary,>= 95.0,*,*,29.4,106,<= 5.0,*,361,20120820
+2005,11,Garrett,0708,Southern Middle School,Middle,94.5,79387.5,83994,27.2,188,<= 5.0,*,690,20120820
+2005,11,Garrett,0709,Southern Garrett High School,High,94.0,94537.5,100570,21.4,175,7.8,64,819,20120820
+2005,11,Garrett,0710,Yough Glades Elementary,Elementary,>= 95.0,*,*,38.1,82,<= 5.0,*,215,20120820
+2005,11,Garrett,0799,Southern High Evening School,High,*,*,*,*,*,*,*,*,20120820
+2005,11,Garrett,0812,Swan Meadow School,Elementary,>= 95.0,*,*,72.4,21,<= 5.0,*,29,20120820
+2005,11,Garrett,0812,Swan Meadow School,Middle,>= 95.0,*,*,84.0,21,<= 5.0,*,25,20120820
+2005,11,Garrett,0904,Route 40 Elementary,Elementary,>= 95.0,*,*,28.9,33,<= 5.0,*,114,20120820
+2005,11,Garrett,1301,Kitzmiller Elementary,Elementary,>= 95.0,*,*,37.7,20,<= 5.0,*,53,20120820
+2005,11,Garrett,1408,Crellin Elementary,Elementary,>= 95.0,*,*,42.9,30,<= 5.0,*,70,20120820
+2005,11,Garrett,1604,Dennett Road Elementary,Elementary,94.5,27602.0,29199,28.0,66,<= 5.0,*,236,20120820
+2005,11,Garrett,9999,Garrett County Home & Hospital School,Middle,*,*,*,*,*,*,*,*,20120820
+2005,11,Garrett,9999,Garrett County Home & Hospital School,High,*,*,*,*,*,*,*,*,20120820
+2005,11,Garrett,A,All Garrett Schools,Elementary,>= 95.0,*,*,33.2,554,<= 5.0,*,1669,20120820
+2005,11,Garrett,A,All Garrett Schools,Middle,94.9,139464.5,146996,28.9,347,<= 5.0,*,1202,20120820
+2005,11,Garrett,A,All Garrett Schools,High,94.4,159840.0,169381,23.1,318,5.5,75,1376,20120820
+2005,12,Harford,0113,William S. James Elementary,Elementary,>= 95.0,*,*,38.5,158,<= 5.0,*,410,20120820
+2005,12,Harford,0115,Edgewood Elementary,Elementary,>= 95.0,*,*,34.7,117,<= 5.0,*,337,20120820
+2005,12,Harford,0120,Deerfield Elementary,Elementary,>= 95.0,*,*,31.6,177,6.1,34,560,20120820
+2005,12,Harford,0121,Emmorton Elementary,Elementary,>= 95.0,*,*,41.0,216,<= 5.0,*,527,20120820
+2005,12,Harford,0123,Abingdon Elementary,Elementary,>= 95.0,*,*,39.9,264,<= 5.0,*,661,20120820
+2005,12,Harford,0125,Church Creek Elementary,Elementary,>= 95.0,*,*,33.4,195,6.7,39,583,20120820
+2005,12,Harford,0131,Magnolia Elementary,Elementary,94.3,52264.0,55405,28.8,136,11.4,54,472,20120820
+2005,12,Harford,0137,Joppatowne Elementary,Elementary,>= 95.0,*,*,35.7,161,6.0,27,451,20120820
+2005,12,Harford,0140,William Paca/Old Post Road Elementary,Elementary,94.5,84247.0,89139,31.2,236,10.1,76,756,20120820
+2005,12,Harford,0143,Riverside Elementary,Elementary,>= 95.0,*,*,35.5,157,6.8,30,442,20120820
+2005,12,Harford,0176,Edgewood High,High,91.2,143631.5,157574,22.0,289,25.5,335,1315,20120820
+2005,12,Harford,0177,Edgewood Middle,Middle,92.6,137155.0,148051,26.9,337,18.1,227,1254,20120820
+2005,12,Harford,0181,Joppatowne High,High,91.0,116533.5,128113,21.8,233,26.6,284,1068,20120820
+2005,12,Harford,0184,Magnolia Middle,Middle,93.6,100805.5,107647,28.9,263,16.6,151,911,20120820
+2005,12,Harford,0211,G. Lisby Elementary at Hillsdale,Elementary,>= 95.0,*,*,33.1,95,7.0,20,287,20120820
+2005,12,Harford,0212,Bakerfield Elementary,Elementary,>= 95.0,*,*,37.7,146,5.9,23,387,20120820
+2005,12,Harford,0230,Halls Cross Roads Elementary,Elementary,94.4,29297.0,31036,28.8,76,11.7,31,264,20120820
+2005,12,Harford,0265,Aberdeen Middle,Middle,92.7,142663.0,153971,25.4,330,18.7,243,1299,20120820
+2005,12,Harford,0270,Aberdeen High,High,89.6,140615.0,156910,20.0,261,30.7,401,1307,20120820
+2005,12,Harford,0292,Alternative Center,Middle,89.0,596.5,670,*,*,*,*,*,20120820
+2005,12,Harford,0292,Alternative Center,High,80.7,3595.0,4456,17.9,7,25.6,10,39,20120820
+2005,12,Harford,0304,Harford Technical High,High,>= 95.0,*,*,35.0,371,10.7,113,1061,20120820
+2005,12,Harford,0314,Bel Air Elementary,Elementary,>= 95.0,*,*,39.4,158,<= 5.0,*,401,20120820
+2005,12,Harford,0316,Churchville Elementary,Elementary,>= 95.0,*,*,40.9,138,<= 5.0,*,337,20120820
+2005,12,Harford,0326,Forest Hill Elementary,Elementary,>= 95.0,*,*,44.3,226,<= 5.0,*,510,20120820
+2005,12,Harford,0327,Fountain Green Elementary,Elementary,>= 95.0,*,*,37.4,198,<= 5.0,*,529,20120820
+2005,12,Harford,0328,Forest Lakes Elementary,Elementary,>= 95.0,*,*,43.2,247,<= 5.0,*,572,20120820
+2005,12,Harford,0329,Prospect Mill Elementary,Elementary,>= 95.0,*,*,44.4,328,<= 5.0,*,739,20120820
+2005,12,Harford,0333,Hickory Elementary,Elementary,>= 95.0,*,*,31.3,180,<= 5.0,*,575,20120820
+2005,12,Harford,0335,Homestead/Wakefield Elementary,Elementary,>= 95.0,*,*,44.1,346,<= 5.0,*,785,20120820
+2005,12,Harford,0345,Ring Factory Elementary,Elementary,>= 95.0,*,*,38.5,178,<= 5.0,*,462,20120820
+2005,12,Harford,0348,Youths Benefit Elementary,Elementary,>= 95.0,*,*,43.8,382,<= 5.0,*,872,20120820
+2005,12,Harford,0372,Bel Air Middle,Middle,>= 95.0,*,*,38.3,533,6.2,87,1393,20120820
+2005,12,Harford,0373,Bel Air High,High,94.2,180807.0,191990,37.9,611,12.3,199,1614,20120820
+2005,12,Harford,0374,Southampton Middle,Middle,>= 95.0,*,*,37.6,577,5.3,82,1534,20120820
+2005,12,Harford,0382,Fallston High,High,>= 95.0,*,*,41.7,677,10.4,169,1622,20120820
+2005,12,Harford,0385,C. Milton Wright High,High,93.2,207827.5,223068,28.7,537,17.7,331,1872,20120820
+2005,12,Harford,0386,Fallston Middle School,Middle,>= 95.0,*,*,45.0,552,<= 5.0,*,1228,20120820
+2005,12,Harford,0391,John Archer School,Elementary,91.4,4307.5,4713,19.5,8,29.3,12,41,20120820
+2005,12,Harford,0391,John Archer School,Middle,87.9,3557.5,4049,28.6,10,37.1,13,35,20120820
+2005,12,Harford,0391,John Archer School,High,88.4,7683.0,8696,19.2,14,35.6,26,73,20120820
+2005,12,Harford,0436,Jarrettsville Elementary,Elementary,>= 95.0,*,*,40.8,158,<= 5.0,*,387,20120820
+2005,12,Harford,0441,Norrisville Elementary,Elementary,>= 95.0,*,*,36.3,58,<= 5.0,*,160,20120820
+2005,12,Harford,0447,North Bend Elementary,Elementary,>= 95.0,*,*,42.8,171,<= 5.0,*,400,20120820
+2005,12,Harford,0518,Darlington Elementary,Elementary,94.7,13059.5,13792,27.7,33,7.6,9,119,20120820
+2005,12,Harford,0522,Dublin Elementary,Elementary,94.9,21627.5,22780,29.4,57,9.3,18,194,20120820
+2005,12,Harford,0544,North Harford Elementary,Elementary,>= 95.0,*,*,40.3,169,<= 5.0,*,419,20120820
+2005,12,Harford,0580,North Harford High,High,93.2,157743.0,169297,25.8,367,17.4,248,1423,20120820
+2005,12,Harford,0583,North Harford Middle,Middle,>= 95.0,*,*,37.1,417,9.2,103,1125,20120820
+2005,12,Harford,0632,Havre de Grace Elementary,Elementary,94.3,38083.5,40404,29.5,98,10.2,34,332,20120820
+2005,12,Harford,0638,Meadowvale Elementary,Elementary,>= 95.0,*,*,32.3,151,6.0,28,467,20120820
+2005,12,Harford,0639,Roye-Williams Elementary,Elementary,>= 95.0,*,*,32.3,161,6.6,33,499,20120820
+2005,12,Harford,0678,Havre de Grace High,High,91.3,73731.5,80782,20.8,138,27.9,185,664,20120820
+2005,12,Harford,0679,Havre de Grace Middle,Middle,93.5,65857.5,70435,29.8,176,16.8,99,591,20120820
+2005,12,Harford,A,All Harford Schools,Elementary,>= 95.0,*,*,37.0,5535,5.3,788,14964,20120820
+2005,12,Harford,A,All Harford Schools,Middle,94.5,1046614.0,1107776,33.9,3188,11.6,1089,9396,20120820
+2005,12,Harford,A,All Harford Schools,High,92.8,1334643.0,1438949,28.9,3493,19.6,2374,12103,20120820
+2005,13,Howard,0101,Elkridge Elementary,Elementary,>= 95.0,*,*,35.9,218,6.7,41,608,20120820
+2005,13,Howard,0103,Deep Run Elementary,Elementary,>= 95.0,*,*,37.0,170,6.8,31,459,20120820
+2005,13,Howard,0104,Mayfield Woods Middle,Middle,>= 95.0,*,*,36.8,214,8.6,50,581,20120820
+2005,13,Howard,0105,Rockburn Elementary,Elementary,>= 95.0,*,*,46.7,237,<= 5.0,*,507,20120820
+2005,13,Howard,0106,Elkridge Landing Middle,Middle,>= 95.0,*,*,38.1,263,7.8,54,691,20120820
+2005,13,Howard,0107,Ilchester Elementary,Elementary,>= 95.0,*,*,49.2,242,<= 5.0,*,492,20120820
+2005,13,Howard,0108,Bonnie Branch Middle,Middle,>= 95.0,*,*,38.4,262,5.3,36,682,20120820
+2005,13,Howard,0202,Ellicott Mills Middle,Middle,>= 95.0,*,*,45.2,264,<= 5.0,*,584,20120820
+2005,13,Howard,0203,Howard High,High,94.4,139697.5,147993,37.4,455,11.4,139,1217,20120820
+2005,13,Howard,0204,St. Johns Lane Elementary,Elementary,>= 95.0,*,*,45.4,280,<= 5.0,*,617,20120820
+2005,13,Howard,0207,Mount Hebron High,High,94.7,182144.0,192340,38.3,614,9.7,155,1602,20120820
+2005,13,Howard,0208,Northfield Elementary,Elementary,>= 95.0,*,*,49.5,271,<= 5.0,*,547,20120820
+2005,13,Howard,0209,Patapsco Middle,Middle,>= 95.0,*,*,46.5,340,<= 5.0,*,731,20120820
+2005,13,Howard,0210,Centennial Lane Elementary,Elementary,>= 95.0,*,*,56.3,299,<= 5.0,*,531,20120820
+2005,13,Howard,0211,Dunloggin Middle,Middle,>= 95.0,*,*,44.3,240,5.9,32,542,20120820
+2005,13,Howard,0213,Worthington Elementary,Elementary,>= 95.0,*,*,49.3,219,<= 5.0,*,444,20120820
+2005,13,Howard,0214,Centennial High,High,>= 95.0,*,*,46.1,739,8.2,132,1602,20120820
+2005,13,Howard,0215,Waverly Elementary,Elementary,>= 95.0,*,*,47.2,236,<= 5.0,*,500,20120820
+2005,13,Howard,0216,Burleigh Manor Middle School,Middle,>= 95.0,*,*,48.5,288,<= 5.0,*,594,20120820
+2005,13,Howard,0217,Hollifield Station Elementary,Elementary,>= 95.0,*,*,48.3,326,<= 5.0,*,675,20120820
+2005,13,Howard,0218,Bellows Spring Elementary,Elementary,>= 95.0,*,*,46.5,262,<= 5.0,*,564,20120820
+2005,13,Howard,0302,West Friendship Elementary,Elementary,>= 95.0,*,*,40.2,155,5.2,20,386,20120820
+2005,13,Howard,0304,Mount View Middle,Middle,>= 95.0,*,*,43.1,299,5.9,41,694,20120820
+2005,13,Howard,0305,Manor Woods Elementary,Elementary,>= 95.0,*,*,42.3,256,<= 5.0,*,605,20120820
+2005,13,Howard,0306,Triadelphia Ridge Elementary,Elementary,>= 95.0,*,*,42.0,243,<= 5.0,*,579,20120820
+2005,13,Howard,0307,Folly Quarter Middle,Middle,>= 95.0,*,*,42.3,265,<= 5.0,*,626,20120820
+2005,13,Howard,0404,Glenelg High,High,>= 95.0,*,*,39.5,499,6.3,80,1262,20120820
+2005,13,Howard,0405,Glenwood Middle,Middle,>= 95.0,*,*,39.4,252,6.7,43,639,20120820
+2005,13,Howard,0406,Bushy Park Elementary,Elementary,>= 95.0,*,*,36.6,219,<= 5.0,*,599,20120820
+2005,13,Howard,0407,Lisbon Elementary,Elementary,>= 95.0,*,*,35.8,177,<= 5.0,*,495,20120820
+2005,13,Howard,0505,Clarksville Elementary,Elementary,>= 95.0,*,*,47.6,289,<= 5.0,*,607,20120820
+2005,13,Howard,0509,Atholton High,High,>= 95.0,*,*,43.0,532,5.2,64,1236,20120820
+2005,13,Howard,0510,Bryant Woods Elementary,Elementary,>= 95.0,*,*,41.5,119,5.6,16,287,20120820
+2005,13,Howard,0512,Wilde Lake Middle,Middle,>= 95.0,*,*,35.1,202,9.7,56,576,20120820
+2005,13,Howard,0514,Longfellow Elementary,Elementary,>= 95.0,*,*,44.0,144,<= 5.0,*,327,20120820
+2005,13,Howard,0515,Running Brook Elementary,Elementary,>= 95.0,*,*,36.7,88,7.5,18,240,20120820
+2005,13,Howard,0516,Wilde Lake High,High,94.0,155162.0,164992,32.9,445,12.9,174,1351,20120820
+2005,13,Howard,0517,Swansfield Elementary,Elementary,>= 95.0,*,*,36.7,159,9.2,40,433,20120820
+2005,13,Howard,0518,Harpers Choice Middle,Middle,>= 95.0,*,*,37.8,226,8.2,49,598,20120820
+2005,13,Howard,0520,Clemens Crossing Elementary,Elementary,>= 95.0,*,*,43.9,192,<= 5.0,*,437,20120820
+2005,13,Howard,0521,Clarksville Middle,Middle,>= 95.0,*,*,50.1,349,<= 5.0,*,696,20120820
+2005,13,Howard,0522,Cedar Lane Special Center,Elementary,85.4,2255.5,2641,13.6,3,40.9,9,22,20120820
+2005,13,Howard,0522,Cedar Lane Special Center,Middle,84.3,1466.0,1738,13.3,2,53.3,8,15,20120820
+2005,13,Howard,0522,Cedar Lane Special Center,High,86.6,5252.5,6065,24.0,12,36.0,18,50,20120820
+2005,13,Howard,0523,Pointers Run Elementary,Elementary,>= 95.0,*,*,42.8,316,<= 5.0,*,738,20120820
+2005,13,Howard,0524,River Hill High,High,>= 95.0,*,*,39.7,611,5.8,90,1539,20120820
+2005,13,Howard,0525,Fulton Elementary,Elementary,>= 95.0,*,*,52.7,342,<= 5.0,*,649,20120820
+2005,13,Howard,0526,Lime Kiln Middle,Middle,>= 95.0,*,*,52.9,311,<= 5.0,*,588,20120820
+2005,13,Howard,0527,Reservoir High,High,93.7,146033.5,155813,28.9,374,15.1,196,1296,20120820
+2005,13,Howard,0600,Cradlerock School,Elementary,>= 95.0,*,*,39.2,135,6.1,21,344,20120820
+2005,13,Howard,0600,Cradlerock School,Middle,94.6,55796.5,58973,33.1,161,12.3,60,487,20120820
+2005,13,Howard,0602,Guilford Elementary,Elementary,>= 95.0,*,*,38.8,128,<= 5.0,*,330,20120820
+2005,13,Howard,0603,Atholton Elementary,Elementary,>= 95.0,*,*,41.4,169,<= 5.0,*,408,20120820
+2005,13,Howard,0604,Waterloo Elementary,Elementary,>= 95.0,*,*,40.4,188,<= 5.0,*,465,20120820
+2005,13,Howard,0605,Thunder Hill Elementary,Elementary,>= 95.0,*,*,40.1,120,<= 5.0,*,299,20120820
+2005,13,Howard,0606,Hammond Elementary,Elementary,>= 95.0,*,*,49.7,235,<= 5.0,*,473,20120820
+2005,13,Howard,0607,Hammond Middle School,Middle,>= 95.0,*,*,38.0,244,5.3,34,642,20120820
+2005,13,Howard,0608,Stevens Forest Elementary,Elementary,>= 95.0,*,*,36.7,115,6.4,20,313,20120820
+2005,13,Howard,0609,Talbott Springs Elementary,Elementary,>= 95.0,*,*,44.5,169,6.1,23,380,20120820
+2005,13,Howard,0610,Oakland Mills Middle,Middle,>= 95.0,*,*,35.5,168,8.7,41,473,20120820
+2005,13,Howard,0611,Oakland Mills High,High,92.8,122475.5,131907,26.5,287,17.9,194,1084,20120820
+2005,13,Howard,0612,Phelps Luck Elementary,Elementary,>= 95.0,*,*,41.9,161,<= 5.0,*,384,20120820
+2005,13,Howard,0613,Jeffers Hill Elementary,Elementary,>= 95.0,*,*,46.4,141,5.9,18,304,20120820
+2005,13,Howard,0618,Laurel Woods Elementary,Elementary,>= 95.0,*,*,38.2,151,9.6,38,395,20120820
+2005,13,Howard,0619,Hammond High,High,94.3,150532.5,159715,33.8,442,13.5,176,1307,20120820
+2005,13,Howard,0620,Bollman Bridge Elementary,Elementary,>= 95.0,*,*,36.6,179,8.2,40,489,20120820
+2005,13,Howard,0621,Patuxent Valley Middle,Middle,94.4,82370.5,87303,28.9,208,12.2,88,719,20120820
+2005,13,Howard,0622,Forest Ridge Elementary,Elementary,>= 95.0,*,*,53.4,281,<= 5.0,*,526,20120820
+2005,13,Howard,0623,Long Reach High,High,94.2,165521.5,175785,33.7,487,13.0,187,1443,20120820
+2005,13,Howard,0624,Murray Hill Middle,Middle,>= 95.0,*,*,38.2,228,9.4,56,597,20120820
+2005,13,Howard,0625,Gorman Crossing Elementary,Elementary,>= 95.0,*,*,44.2,203,<= 5.0,*,459,20120820
+2005,13,Howard,A,All Howard Schools,Elementary,>= 95.0,*,*,43.6,7818,<= 5.0,*,17922,20120820
+2005,13,Howard,A,All Howard Schools,Middle,>= 95.0,*,*,40.5,4772,6.8,807,11784,20120820
+2005,13,Howard,A,All Howard Schools,High,94.4,1730876.5,1832723,36.3,5492,11.4,1717,15119,20120820
+2005,14,Kent,0102,Millington Elementary,Elementary,>= 95.0,*,*,43.0,68,5.1,8,158,20120820
+2005,14,Kent,0106,Galena Middle,Elementary,92.3,7734.0,8379,41.4,29,12.9,9,70,20120820
+2005,14,Kent,0106,Galena Middle,Middle,91.2,20819.5,22816,28.7,54,12.2,23,188,20120820
+2005,14,Kent,0301,Kent County High,High,89.8,89793.0,99996,27.8,231,26.2,218,831,20120820
+2005,14,Kent,0304,Worton Elementary,Elementary,>= 95.0,*,*,32.9,55,6.0,10,167,20120820
+2005,14,Kent,0402,Chestertown Middle,Elementary,94.8,8971.0,9464,29.1,23,10.1,8,79,20120820
+2005,14,Kent,0402,Chestertown Middle,Middle,94.1,30840.0,32758,33.6,92,16.1,44,274,20120820
+2005,14,Kent,0403,H. H. Garnett Elementary,Elementary,93.0,18640.0,20051,44.3,74,9.6,16,167,20120820
+2005,14,Kent,0403,H. H. Garnett Elementary,Middle,*,*,*,*,*,*,*,*,20120820
+2005,14,Kent,0503,Rock Hall Middle,Elementary,88.7,3122.5,3521,17.2,5,24.1,7,29,20120820
+2005,14,Kent,0503,Rock Hall Middle,Middle,90.5,13546.0,14968,26.8,33,14.6,18,123,20120820
+2005,14,Kent,0504,Rock Hall Elementary,Elementary,93.0,15029.0,16159,32.6,44,7.4,10,135,20120820
+2005,14,Kent,A,All Kent Schools,Elementary,93.9,90475.5,96366,37.0,298,8.6,69,805,20120820
+2005,14,Kent,A,All Kent Schools,Middle,92.4,65431.0,70782,30.7,180,14.7,86,587,20120820
+2005,14,Kent,A,All Kent Schools,High,89.8,89793.0,99996,27.8,231,26.2,218,831,20120820
+2005,15,Montgomery,0051,Laytonsville Elementary,Elementary,>= 95.0,*,*,45.5,200,<= 5.0,*,440,20120820
+2005,15,Montgomery,0100,Clopper Mill Elementary,Elementary,>= 95.0,*,*,37.0,130,6.0,21,351,20120820
+2005,15,Montgomery,0101,Clarksburg Elementary,Elementary,>= 95.0,*,*,40.9,168,<= 5.0,*,411,20120820
+2005,15,Montgomery,0102,Germantown Elementary,Elementary,>= 95.0,*,*,28.1,108,5.7,22,385,20120820
+2005,15,Montgomery,0104,Seneca Valley High,High,94.7,189035.5,199701,42.1,680,13.4,217,1617,20120820
+2005,15,Montgomery,0105,Ridgeview Middle,Middle,>= 95.0,*,*,33.3,340,11.8,120,1021,20120820
+2005,15,Montgomery,0106,Fox Chapel Elementary,Elementary,>= 95.0,*,*,40.9,186,<= 5.0,*,455,20120820
+2005,15,Montgomery,0107,Martin Luther King Jr. Middle,Middle,>= 95.0,*,*,36.0,321,10.4,93,892,20120820
+2005,15,Montgomery,0108,Lake Seneca Elementary,Elementary,>= 95.0,*,*,32.0,96,7.0,21,300,20120820
+2005,15,Montgomery,0109,Waters Landing Elementary,Elementary,>= 95.0,*,*,34.2,182,<= 5.0,*,532,20120820
+2005,15,Montgomery,0110,S. Christa McAuliffe Elementary,Elementary,>= 95.0,*,*,37.3,192,6.8,35,515,20120820
+2005,15,Montgomery,0111,Captain James E. Daly Elementary,Elementary,>= 95.0,*,*,37.5,179,6.1,29,477,20120820
+2005,15,Montgomery,0115,Neelsville Middle,Middle,>= 95.0,*,*,36.0,285,12.3,97,791,20120820
+2005,15,Montgomery,0125,Quince Orchard High,High,94.9,223162.5,235238,42.7,813,13.9,264,1903,20120820
+2005,15,Montgomery,0152,Poolesville High,High,>= 95.0,*,*,48.8,403,5.9,49,825,20120820
+2005,15,Montgomery,0153,Poolesville Elementary,Elementary,>= 95.0,*,*,28.6,106,6.7,25,371,20120820
+2005,15,Montgomery,0155,Rosa M. Parks Middle,Middle,>= 95.0,*,*,36.0,349,6.2,60,970,20120820
+2005,15,Montgomery,0156,Lois P. Rockwell Elementary,Elementary,>= 95.0,*,*,31.5,119,5.8,22,378,20120820
+2005,15,Montgomery,0157,Roberto W. Clemente Middle,Middle,>= 95.0,*,*,35.0,350,9.9,99,1001,20120820
+2005,15,Montgomery,0158,Ronald A. McNair Elementary,Elementary,>= 95.0,*,*,43.8,243,<= 5.0,*,555,20120820
+2005,15,Montgomery,0159,Rachel Carson Elementary,Elementary,>= 95.0,*,*,43.3,234,<= 5.0,*,541,20120820
+2005,15,Montgomery,0201,Richard Montgomery High,High,>= 95.0,*,*,41.0,785,12.5,240,1914,20120820
+2005,15,Montgomery,0204,Garrett Park Elementary,Elementary,>= 95.0,*,*,39.0,153,<= 5.0,*,392,20120820
+2005,15,Montgomery,0206,Twinbrook Elementary,Elementary,>= 95.0,*,*,32.0,138,7.9,34,431,20120820
+2005,15,Montgomery,0207,Beall Elementary,Elementary,>= 95.0,*,*,40.3,186,<= 5.0,*,462,20120820
+2005,15,Montgomery,0209,Lakewood Elementary,Elementary,>= 95.0,*,*,51.3,257,<= 5.0,*,501,20120820
+2005,15,Montgomery,0210,Maryvale Elementary,Elementary,>= 95.0,*,*,39.0,172,5.4,24,441,20120820
+2005,15,Montgomery,0211,Julius West Middle,Middle,>= 95.0,*,*,35.6,379,10.2,108,1064,20120820
+2005,15,Montgomery,0212,Meadow Hall Elementary,Elementary,94.6,37875.0,40035,30.9,99,11.9,38,320,20120820
+2005,15,Montgomery,0215,Carl Sandburg Center,Elementary,94.2,10593.0,11242,32.2,29,14.4,13,90,20120820
+2005,15,Montgomery,0216,Travilah Elementary,Elementary,>= 95.0,*,*,45.4,187,<= 5.0,*,412,20120820
+2005,15,Montgomery,0219,Farmland Elementary,Elementary,>= 95.0,*,*,38.2,187,<= 5.0,*,490,20120820
+2005,15,Montgomery,0220,Luxmanor Elementary,Elementary,>= 95.0,*,*,43.1,112,<= 5.0,*,260,20120820
+2005,15,Montgomery,0226,Beverly Farms Elementary,Elementary,>= 95.0,*,*,42.7,197,<= 5.0,*,461,20120820
+2005,15,Montgomery,0227,Ritchie Park Elementary,Elementary,>= 95.0,*,*,35.7,110,8.1,25,308,20120820
+2005,15,Montgomery,0228,Herbert Hoover Middle,Middle,>= 95.0,*,*,43.5,474,<= 5.0,*,1089,20120820
+2005,15,Montgomery,0229,College Gardens Elementary,Elementary,>= 95.0,*,*,42.3,161,<= 5.0,*,381,20120820
+2005,15,Montgomery,0230,Rockville High,High,>= 95.0,*,*,39.6,475,12.1,145,1198,20120820
+2005,15,Montgomery,0232,Tilden Middle School,Middle,>= 95.0,*,*,38.1,301,6.6,52,789,20120820
+2005,15,Montgomery,0233,Fallsmead Elementary,Elementary,>= 95.0,*,*,44.8,211,<= 5.0,*,471,20120820
+2005,15,Montgomery,0234,Thomas S. Wootton High,High,>= 95.0,*,*,51.4,1204,6.5,153,2341,20120820
+2005,15,Montgomery,0235,Wayside Elementary,Elementary,>= 95.0,*,*,47.7,266,<= 5.0,*,558,20120820
+2005,15,Montgomery,0236,Mark Twain School,Middle,80.6,1812.0,2247,<= 5.0,*,68.4,13,19,20120820
+2005,15,Montgomery,0236,Mark Twain School,High,70.2,8517.5,12138,<= 5.0,*,81.3,74,91,20120820
+2005,15,Montgomery,0237,Robert Frost Middle School,Middle,>= 95.0,*,*,50.0,603,<= 5.0,*,1206,20120820
+2005,15,Montgomery,0238,Cold Spring Elementary,Elementary,>= 95.0,*,*,53.1,211,<= 5.0,*,397,20120820
+2005,15,Montgomery,0239,Alternative Programs,Middle,89.5,4538.0,5068,33.3,14,38.1,16,42,20120820
+2005,15,Montgomery,0239,Alternative Programs,High,77.2,17103.0,22153,7.8,13,61.1,102,167,20120820
+2005,15,Montgomery,0241,DuFief Elementary,Elementary,>= 95.0,*,*,46.0,180,<= 5.0,*,391,20120820
+2005,15,Montgomery,0242,Dr. Sally K. Ride Elementary,Elementary,>= 95.0,*,*,44.6,208,6.0,28,466,20120820
+2005,15,Montgomery,0244,Thurgood Marshall Elementary,Elementary,>= 95.0,*,*,38.9,170,5.5,24,437,20120820
+2005,15,Montgomery,0246,Northwest High,High,>= 95.0,*,*,42.0,796,12.1,230,1897,20120820
+2005,15,Montgomery,0247,John H. Poole Middle,Middle,>= 95.0,*,*,29.2,121,10.6,44,415,20120820
+2005,15,Montgomery,0248,Forest Oak Middle,Middle,94.1,107791.5,114508,28.5,267,15.8,148,937,20120820
+2005,15,Montgomery,0302,Burtonsville Elementary,Elementary,>= 95.0,*,*,48.1,269,<= 5.0,*,559,20120820
+2005,15,Montgomery,0303,Fairland Elementary,Elementary,>= 95.0,*,*,36.0,153,6.8,29,425,20120820
+2005,15,Montgomery,0304,Broad Acres Elementary,Elementary,>= 95.0,*,*,45.3,168,<= 5.0,*,371,20120820
+2005,15,Montgomery,0305,Jackson Road Elementary,Elementary,>= 95.0,*,*,39.3,153,6.2,24,389,20120820
+2005,15,Montgomery,0308,Cloverly Elementary,Elementary,>= 95.0,*,*,31.5,116,5.4,20,368,20120820
+2005,15,Montgomery,0309,Burnt Mills Elementary,Elementary,94.8,45934.5,48454,34.7,132,7.6,29,380,20120820
+2005,15,Montgomery,0310,Cannon Road Elementary,Elementary,>= 95.0,*,*,46.3,137,<= 5.0,*,296,20120820
+2005,15,Montgomery,0311,Francis Scott Key Middle,Middle,94.9,98683.5,104002,33.2,278,12.8,107,838,20120820
+2005,15,Montgomery,0312,William Tyler Page Elementary,Elementary,>= 95.0,*,*,47.1,148,<= 5.0,*,314,20120820
+2005,15,Montgomery,0313,Galway Elementary,Elementary,>= 95.0,*,*,48.3,271,<= 5.0,*,561,20120820
+2005,15,Montgomery,0315,Paint Branch High,High,>= 95.0,*,*,48.9,880,7.7,138,1799,20120820
+2005,15,Montgomery,0316,Stonegate Elementary,Elementary,>= 95.0,*,*,45.7,163,<= 5.0,*,357,20120820
+2005,15,Montgomery,0321,James Hubert Blake High,High,>= 95.0,*,*,49.5,956,8.4,162,1932,20120820
+2005,15,Montgomery,0333,Benjamin Banneker Middle,Middle,>= 95.0,*,*,37.7,341,8.8,80,904,20120820
+2005,15,Montgomery,0334,Greencastle Elementary,Elementary,94.8,58887.5,62149,32.1,161,14.0,70,501,20120820
+2005,15,Montgomery,0335,Briggs Chaney Middle,Middle,>= 95.0,*,*,35.2,330,8.5,80,937,20120820
+2005,15,Montgomery,0351,Darnestown Elementary,Elementary,>= 95.0,*,*,36.7,125,<= 5.0,*,341,20120820
+2005,15,Montgomery,0360,Jones Lane Elementary,Elementary,>= 95.0,*,*,46.1,205,<= 5.0,*,445,20120820
+2005,15,Montgomery,0401,Bethesda Elementary,Elementary,>= 95.0,*,*,42.4,151,<= 5.0,*,356,20120820
+2005,15,Montgomery,0403,Chevy Chase Elementary,Elementary,>= 95.0,*,*,37.8,138,<= 5.0,*,365,20120820
+2005,15,Montgomery,0405,Somerset Elementary,Elementary,>= 95.0,*,*,31.4,104,<= 5.0,*,331,20120820
+2005,15,Montgomery,0406,Bethesda-Chevy Chase High,High,>= 95.0,*,*,48.7,817,6.2,104,1677,20120820
+2005,15,Montgomery,0408,Westbrook Elementary,Elementary,>= 95.0,*,*,38.5,97,<= 5.0,*,252,20120820
+2005,15,Montgomery,0410,Bradley Hills Elementary,Elementary,>= 95.0,*,*,47.5,161,<= 5.0,*,339,20120820
+2005,15,Montgomery,0412,Westland Middle,Middle,>= 95.0,*,*,28.2,265,6.6,62,939,20120820
+2005,15,Montgomery,0413,North Bethesda Middle,Middle,>= 95.0,*,*,39.0,271,<= 5.0,*,695,20120820
+2005,15,Montgomery,0415,North Chevy Chase Elementary,Elementary,>= 95.0,*,*,44.8,148,<= 5.0,*,330,20120820
+2005,15,Montgomery,0417,Wood Acres Elementary,Elementary,>= 95.0,*,*,39.9,207,<= 5.0,*,519,20120820
+2005,15,Montgomery,0419,Burning Tree Elementary,Elementary,>= 95.0,*,*,33.5,157,<= 5.0,*,469,20120820
+2005,15,Montgomery,0420,Bannockburn Elementary,Elementary,>= 95.0,*,*,46.3,149,<= 5.0,*,322,20120820
+2005,15,Montgomery,0422,Wyngate Elementary,Elementary,>= 95.0,*,*,43.7,191,<= 5.0,*,437,20120820
+2005,15,Montgomery,0424,Walter Johnson High,High,>= 95.0,*,*,40.3,788,8.6,169,1957,20120820
+2005,15,Montgomery,0425,Ashburton Elementary,Elementary,>= 95.0,*,*,45.5,210,<= 5.0,*,462,20120820
+2005,15,Montgomery,0427,Walt Whitman High,High,>= 95.0,*,*,51.9,981,5.7,108,1889,20120820
+2005,15,Montgomery,0428,Thomas W. Pyle Middle School,Middle,>= 95.0,*,*,48.7,620,<= 5.0,*,1273,20120820
+2005,15,Montgomery,0501,Sherwood Elementary,Elementary,>= 95.0,*,*,40.5,170,<= 5.0,*,420,20120820
+2005,15,Montgomery,0502,Olney Elementary,Elementary,>= 95.0,*,*,40.2,205,<= 5.0,*,510,20120820
+2005,15,Montgomery,0503,Sherwood High,High,>= 95.0,*,*,47.6,1018,8.5,181,2139,20120820
+2005,15,Montgomery,0504,Westover Elementary,Elementary,>= 95.0,*,*,54.8,121,<= 5.0,*,221,20120820
+2005,15,Montgomery,0505,Lucy V. Barnsley Elementary,Elementary,>= 95.0,*,*,38.1,177,5.8,27,465,20120820
+2005,15,Montgomery,0506,Flower Valley Elementary,Elementary,>= 95.0,*,*,49.9,210,<= 5.0,*,421,20120820
+2005,15,Montgomery,0507,William H. Farquhar Middle,Middle,>= 95.0,*,*,43.4,315,<= 5.0,*,726,20120820
+2005,15,Montgomery,0508,Candlewood Elementary,Elementary,>= 95.0,*,*,40.2,127,<= 5.0,*,316,20120820
+2005,15,Montgomery,0510,Col. Zadok Magruder High,High,>= 95.0,*,*,41.1,917,9.8,219,2233,20120820
+2005,15,Montgomery,0511,Cashell Elementary,Elementary,>= 95.0,*,*,36.7,112,5.6,17,305,20120820
+2005,15,Montgomery,0512,Greenwood Elementary,Elementary,>= 95.0,*,*,39.7,209,<= 5.0,*,527,20120820
+2005,15,Montgomery,0513,Belmont Elementary,Elementary,>= 95.0,*,*,34.4,119,<= 5.0,*,346,20120820
+2005,15,Montgomery,0514,Judith A. Resnik Elementary,Elementary,>= 95.0,*,*,36.8,172,6.6,31,467,20120820
+2005,15,Montgomery,0517,Sligo Creek Elementary,Elementary,>= 95.0,*,*,57.9,311,<= 5.0,*,537,20120820
+2005,15,Montgomery,0518,Brooke Grove Elementary,Elementary,>= 95.0,*,*,37.1,152,<= 5.0,*,410,20120820
+2005,15,Montgomery,0521,Shady Grove Middle,Middle,>= 95.0,*,*,39.5,283,11.0,79,716,20120820
+2005,15,Montgomery,0523,Spark M. Matsunaga Elementary School,Elementary,>= 95.0,*,*,44.6,396,<= 5.0,*,888,20120820
+2005,15,Montgomery,0524,Gateway to College Program,High,>= 95.0,*,*,89.8,44,<= 5.0,*,49,20120820
+2005,15,Montgomery,0525,MCPS Transitions School,High,92.9,5038.0,5423,31.8,14,18.2,8,44,20120820
+2005,15,Montgomery,0545,Watkins Mill High,High,94.9,229081.5,241387,43.8,857,13.2,258,1957,20120820
+2005,15,Montgomery,0546,Goshen Elementary,Elementary,>= 95.0,*,*,43.0,243,<= 5.0,*,565,20120820
+2005,15,Montgomery,0549,Flower Hill Elementary,Elementary,>= 95.0,*,*,31.8,143,10.5,47,449,20120820
+2005,15,Montgomery,0551,Gaithersburg High,High,94.4,251146.0,265909,38.1,822,14.0,301,2156,20120820
+2005,15,Montgomery,0552,Washington Grove Elementary,Elementary,>= 95.0,*,*,46.0,139,<= 5.0,*,302,20120820
+2005,15,Montgomery,0553,Gaithersburg Elementary,Elementary,>= 95.0,*,*,38.2,150,5.1,20,393,20120820
+2005,15,Montgomery,0554,Gaithersburg Middle,Middle,>= 95.0,*,*,40.0,310,6.5,50,775,20120820
+2005,15,Montgomery,0555,Rosemont Elementary,Elementary,>= 95.0,*,*,39.3,139,<= 5.0,*,354,20120820
+2005,15,Montgomery,0556,Mill Creek Towne Elementary,Elementary,>= 95.0,*,*,42.4,137,<= 5.0,*,323,20120820
+2005,15,Montgomery,0557,Montgomery Village Middle School,Middle,>= 95.0,*,*,42.7,337,6.5,51,790,20120820
+2005,15,Montgomery,0558,Whetstone Elementary,Elementary,>= 95.0,*,*,32.0,144,10.2,46,450,20120820
+2005,15,Montgomery,0559,Brown Station Elementary,Elementary,>= 95.0,*,*,39.4,106,10.0,27,269,20120820
+2005,15,Montgomery,0561,Watkins Mill Elementary,Elementary,>= 95.0,*,*,40.5,183,8.6,39,452,20120820
+2005,15,Montgomery,0562,Redland Middle,Middle,>= 95.0,*,*,33.9,292,10.1,87,862,20120820
+2005,15,Montgomery,0563,Summit Hall Elementary,Elementary,>= 95.0,*,*,34.6,127,9.0,33,367,20120820
+2005,15,Montgomery,0564,South Lake Elementary,Elementary,>= 95.0,*,*,36.8,170,6.9,32,462,20120820
+2005,15,Montgomery,0565,Sequoyah Elementary,Elementary,>= 95.0,*,*,27.4,118,7.0,30,430,20120820
+2005,15,Montgomery,0566,Fields Road Elementary,Elementary,>= 95.0,*,*,39.9,157,<= 5.0,*,393,20120820
+2005,15,Montgomery,0568,Stedwick Elementary,Elementary,>= 95.0,*,*,33.5,161,7.9,38,480,20120820
+2005,15,Montgomery,0569,Strawberry Knoll Elementary,Elementary,>= 95.0,*,*,39.9,166,6.0,25,416,20120820
+2005,15,Montgomery,0570,Diamond Elementary,Elementary,>= 95.0,*,*,39.3,145,<= 5.0,*,369,20120820
+2005,15,Montgomery,0601,Potomac Elementary,Elementary,>= 95.0,*,*,37.2,187,<= 5.0,*,503,20120820
+2005,15,Montgomery,0602,Winston Churchill High,High,>= 95.0,*,*,51.6,1074,6.5,135,2083,20120820
+2005,15,Montgomery,0603,Seven Locks Elementary,Elementary,>= 95.0,*,*,34.8,81,<= 5.0,*,233,20120820
+2005,15,Montgomery,0604,Carderock Springs Elementary,Elementary,>= 95.0,*,*,43.1,124,<= 5.0,*,288,20120820
+2005,15,Montgomery,0606,Cabin John Middle School,Middle,>= 95.0,*,*,38.8,389,6.7,67,1003,20120820
+2005,15,Montgomery,0607,Bells Mill Elementary,Elementary,>= 95.0,*,*,39.8,157,<= 5.0,*,394,20120820
+2005,15,Montgomery,0647,Silver Spring International Middle,Middle,>= 95.0,*,*,38.5,313,8.5,69,813,20120820
+2005,15,Montgomery,0652,Monocacy Elementary,Elementary,>= 95.0,*,*,30.6,59,6.2,12,193,20120820
+2005,15,Montgomery,0653,Stone Mill Elementary,Elementary,>= 95.0,*,*,52.6,292,<= 5.0,*,555,20120820
+2005,15,Montgomery,0701,Damascus High,High,>= 95.0,*,*,38.9,731,11.6,219,1880,20120820
+2005,15,Montgomery,0702,Damascus Elementary,Elementary,>= 95.0,*,*,29.2,89,6.2,19,305,20120820
+2005,15,Montgomery,0703,Cedar Grove Elementary,Elementary,>= 95.0,*,*,42.8,199,<= 5.0,*,465,20120820
+2005,15,Montgomery,0704,Woodfield Elementary,Elementary,>= 95.0,*,*,36.5,135,<= 5.0,*,370,20120820
+2005,15,Montgomery,0705,John T. Baker Middle School,Middle,94.8,85617.5,90316,24.3,178,10.9,80,733,20120820
+2005,15,Montgomery,0706,Clearspring Elementary,Elementary,>= 95.0,*,*,31.3,154,6.3,31,492,20120820
+2005,15,Montgomery,0707,Rocky Hill Middle,Middle,>= 95.0,*,*,31.9,258,8.9,72,808,20120820
+2005,15,Montgomery,0708,Kingsview Middle,Middle,94.9,146343.0,154189,30.6,385,11.8,148,1257,20120820
+2005,15,Montgomery,0747,Dr. Charles R. Drew Elementary,Elementary,>= 95.0,*,*,39.3,167,6.8,29,425,20120820
+2005,15,Montgomery,0749,Piney Branch Elementary,Elementary,>= 95.0,*,*,39.7,211,<= 5.0,*,532,20120820
+2005,15,Montgomery,0754,Takoma Park Elementary,Elementary,>= 95.0,*,*,32.4,84,<= 5.0,*,259,20120820
+2005,15,Montgomery,0755,Takoma Park Middle School,Middle,94.9,114414.5,120534,35.9,350,11.5,112,975,20120820
+2005,15,Montgomery,0756,East Silver Spring Elementary,Elementary,94.9,16822.0,17719,31.2,44,8.5,12,141,20120820
+2005,15,Montgomery,0757,Montgomery Blair High,High,>= 95.0,*,*,44.6,1442,11.5,373,3234,20120820
+2005,15,Montgomery,0761,Pine Crest Elementary,Elementary,>= 95.0,*,*,46.7,183,<= 5.0,*,392,20120820
+2005,15,Montgomery,0764,Woodlin Elementary,Elementary,>= 95.0,*,*,35.5,135,7.4,28,380,20120820
+2005,15,Montgomery,0766,Oak View Elementary,Elementary,>= 95.0,*,*,38.0,104,<= 5.0,*,274,20120820
+2005,15,Montgomery,0767,Glen Haven Elementary,Elementary,>= 95.0,*,*,41.1,178,6.5,28,433,20120820
+2005,15,Montgomery,0769,Oakland Terrace Elementary,Elementary,>= 95.0,*,*,53.7,322,<= 5.0,*,600,20120820
+2005,15,Montgomery,0771,Rolling Terrace Elementary,Elementary,>= 95.0,*,*,35.0,184,5.1,27,526,20120820
+2005,15,Montgomery,0772,Viers Mill Elementary,Elementary,>= 95.0,*,*,35.4,176,7.4,37,497,20120820
+2005,15,Montgomery,0773,Rock Creek Forest Elementary,Elementary,>= 95.0,*,*,43.2,178,<= 5.0,*,412,20120820
+2005,15,Montgomery,0774,Highland Elementary,Elementary,>= 95.0,*,*,34.7,182,8.4,44,525,20120820
+2005,15,Montgomery,0775,Eastern Middle School,Middle,94.3,101871.0,108045,31.4,273,12.8,111,870,20120820
+2005,15,Montgomery,0776,Montgomery Knolls Elementary,Elementary,94.6,21778.5,23021,30.5,57,10.7,20,187,20120820
+2005,15,Montgomery,0777,Weller Road Elementary,Elementary,>= 95.0,*,*,44.6,195,<= 5.0,*,437,20120820
+2005,15,Montgomery,0778,Sligo Middle,Middle,>= 95.0,*,*,34.8,215,9.9,61,618,20120820
+2005,15,Montgomery,0780,Bel Pre Elementary,Elementary,94.4,33326.0,35317,33.2,95,12.6,36,286,20120820
+2005,15,Montgomery,0782,Wheaton High,High,94.0,170705.0,181610,39.0,572,16.1,236,1468,20120820
+2005,15,Montgomery,0783,Kensington Parkwood Elementary,Elementary,>= 95.0,*,*,32.8,119,<= 5.0,*,363,20120820
+2005,15,Montgomery,0784,Highland View Elementary,Elementary,>= 95.0,*,*,40.6,99,<= 5.0,*,244,20120820
+2005,15,Montgomery,0786,Georgian Forest Elementary,Elementary,94.9,40322.0,42479,30.0,104,8.4,29,347,20120820
+2005,15,Montgomery,0788,Wheaton Woods Elementary,Elementary,>= 95.0,*,*,35.3,177,7.8,39,501,20120820
+2005,15,Montgomery,0789,Albert Einstein High,High,93.7,202648.0,216197,35.6,624,17.4,304,1751,20120820
+2005,15,Montgomery,0791,New Hampshire Estates Elem,Elementary,>= 95.0,*,*,35.3,60,<= 5.0,*,170,20120820
+2005,15,Montgomery,0792,Newport Mill Middle,Middle,>= 95.0,*,*,37.9,248,10.2,67,654,20120820
+2005,15,Montgomery,0794,Rosemary Hills Elementary,Elementary,>= 95.0,*,*,34.2,113,<= 5.0,*,330,20120820
+2005,15,Montgomery,0795,Rock View Elementary,Elementary,>= 95.0,*,*,33.7,131,9.8,38,389,20120820
+2005,15,Montgomery,0796,Northwood High School,High,92.1,41096.0,44610,22.2,80,26.0,94,361,20120820
+2005,15,Montgomery,0797,Harmony Hills Elementary,Elementary,>= 95.0,*,*,41.6,149,<= 5.0,*,358,20120820
+2005,15,Montgomery,0798,Springbrook High,High,>= 95.0,*,*,47.5,945,10.7,212,1988,20120820
+2005,15,Montgomery,0799,Stephen Knolls School,Elementary,74.6,1284.0,1722,<= 5.0,*,71.4,10,14,20120820
+2005,15,Montgomery,0799,Stephen Knolls School,Middle,*,*,*,*,*,*,*,*,20120820
+2005,15,Montgomery,0799,Stephen Knolls School,High,80.8,2385.0,2951,16.7,4,54.2,13,24,20120820
+2005,15,Montgomery,0803,Forest Knolls Elementary,Elementary,>= 95.0,*,*,46.3,218,<= 5.0,*,471,20120820
+2005,15,Montgomery,0805,Kemp Mill Elementary,Elementary,>= 95.0,*,*,33.7,156,6.7,31,463,20120820
+2005,15,Montgomery,0807,Brookhaven Elementary,Elementary,>= 95.0,*,*,51.2,129,<= 5.0,*,252,20120820
+2005,15,Montgomery,0808,Cresthaven Elementary,Elementary,>= 95.0,*,*,40.0,193,7.7,37,482,20120820
+2005,15,Montgomery,0811,White Oak Middle,Middle,>= 95.0,*,*,36.5,339,10.7,99,929,20120820
+2005,15,Montgomery,0812,Parkland Middle,Middle,94.7,139982.0,147783,33.3,398,10.7,128,1196,20120820
+2005,15,Montgomery,0815,John F. Kennedy High,High,>= 95.0,*,*,53.3,806,6.3,96,1512,20120820
+2005,15,Montgomery,0817,Glenallan Elementary,Elementary,>= 95.0,*,*,31.0,110,7.0,25,355,20120820
+2005,15,Montgomery,0818,Col. E. Brooke Lee Middle,Middle,94.3,73618.0,78032,32.6,207,12.4,79,635,20120820
+2005,15,Montgomery,0819,Rock Creek Valley Elementary,Elementary,>= 95.0,*,*,47.4,119,<= 5.0,*,251,20120820
+2005,15,Montgomery,0820,Earle B. Wood Middle,Middle,>= 95.0,*,*,34.8,345,9.9,98,992,20120820
+2005,15,Montgomery,0822,Strathmore Elementary,Elementary,94.9,54029.0,56908,41.6,190,8.1,37,457,20120820
+2005,15,Montgomery,0823,Argyle Middle,Middle,94.4,65065.5,68919,29.4,164,11.5,64,557,20120820
+2005,15,Montgomery,0916,Rock Terrace School,Middle,>= 95.0,*,*,50.0,7,14.3,2,14,20120820
+2005,15,Montgomery,0916,Rock Terrace School,High,92.6,9828.0,10612,29.1,25,18.6,16,86,20120820
+2005,15,Montgomery,0951,Longview School,Elementary,83.8,2165.0,2583,9.5,2,52.4,11,21,20120820
+2005,15,Montgomery,0951,Longview School,Middle,87.7,1519.5,1733,14.3,2,21.4,3,14,20120820
+2005,15,Montgomery,0951,Longview School,High,89.2,1924.0,2156,23.5,4,29.4,5,17,20120820
+2005,15,Montgomery,0965,Regional Institute for Children & Adolescents,Elementary,*,*,*,*,*,*,*,*,20120820
+2005,15,Montgomery,0965,Regional Institute for Children & Adolescents,Middle,92.0,4908.5,5333,37.2,16,11.6,5,43,20120820
+2005,15,Montgomery,0965,Regional Institute for Children & Adolescents,High,90.0,10658.5,11846,25.5,25,28.6,28,98,20120820
+2005,15,Montgomery,A,All Montgomery Schools,Elementary,>= 95.0,*,*,39.5,20004,5.2,2612,50647,20120820
+2005,15,Montgomery,A,All Montgomery Schools,Middle,>= 95.0,*,*,36.0,11540,9.4,3018,32025,20120820
+2005,15,Montgomery,A,All Montgomery Schools,High,>= 95.0,*,*,44.0,19525,11.3,4994,44377,20120820
+2005,16,Prince George's,0102,High Point High,High,90.9,268670.0,295489,24.7,564,27.5,627,2283,20120820
+2005,16,Prince George's,0104,Beltsville Elementary,Elementary,94.8,92360.0,97449,47.7,368,<= 5.0,*,771,20120820
+2005,16,Prince George's,0105,Calverton Elementary,Elementary,93.7,79081.0,84413,39.7,263,6.6,44,662,20120820
+2005,16,Prince George's,0108,James E. Duckworth Regional Center,Elementary,82.9,4759.0,5741,15.9,7,38.6,17,44,20120820
+2005,16,Prince George's,0108,James E. Duckworth Regional Center,Middle,84.7,3121.5,3686,31.0,9,31.0,9,29,20120820
+2005,16,Prince George's,0108,James E. Duckworth Regional Center,High,82.5,2885.5,3496,24.1,7,44.8,13,29,20120820
+2005,16,Prince George's,0109,James H. Harrison Elementary,Elementary,91.6,41012.0,44779,30.1,104,13.0,45,346,20120820
+2005,16,Prince George's,0110,Martin Luther King Jr. Middle School,Middle,>= 95.0,*,*,37.1,352,7.8,74,950,20120820
+2005,16,Prince George's,0205,Bladensburg Elementary,Elementary,92.1,61551.0,66844,24.1,126,10.5,55,522,20120820
+2005,16,Prince George's,0208,Bladensburg High,High,84.5,185171.0,219052,8.4,142,52.7,890,1688,20120820
+2005,16,Prince George's,0210,Rogers Heights Elementary,Elementary,92.7,51458.5,55495,34.9,152,9.4,41,436,20120820
+2005,16,Prince George's,0211,Gladys N. Spellman Elementary,Elementary,>= 95.0,*,*,55.4,201,<= 5.0,*,363,20120820
+2005,16,Prince George's,0213,Cooper Lane Elementary,Elementary,93.6,54890.0,58645,37.7,172,6.6,30,456,20120820
+2005,16,Prince George's,0214,Templeton Elementary,Elementary,92.5,66263.0,71674,33.2,184,10.5,58,555,20120820
+2005,16,Prince George's,0216,Alternative High School,High,88.9,12197.5,13726,38.5,30,44.9,35,78,20120820
+2005,16,Prince George's,0217,Port Towns Elementary,Elementary,>= 95.0,*,*,88.0,499,<= 5.0,*,567,20120820
+2005,16,Prince George's,0303,Croom Vocational,High,87.9,8804.0,10016,13.2,10,46.1,35,76,20120820
+2005,16,Prince George's,0304,Perrywood Elementary,Elementary,>= 95.0,*,*,49.4,307,<= 5.0,*,621,20120820
+2005,16,Prince George's,0305,Patuxent Elementary,Elementary,93.5,61898.5,66202,33.0,173,6.3,33,524,20120820
+2005,16,Prince George's,0504,Fort Washington Forest Elementary,Elementary,93.9,30146.5,32096,38.2,97,8.3,21,254,20120820
+2005,16,Prince George's,0505,Eugene Burroughs Middle,Middle,>= 95.0,*,*,45.7,360,8.1,64,787,20120820
+2005,16,Prince George's,0506,Henry G. Ferguson Elementary,Elementary,93.3,58611.0,62792,34.5,169,8.6,42,490,20120820
+2005,16,Prince George's,0507,Rose Valley Elementary,Elementary,94.4,41513.0,43969,33.6,116,5.5,19,345,20120820
+2005,16,Prince George's,0510,Potomac Landing Elementary,Elementary,94.4,55532.0,58838,41.2,193,5.8,27,468,20120820
+2005,16,Prince George's,0511,Friendly High,High,90.0,187131.0,207980,15.5,251,34.6,562,1624,20120820
+2005,16,Prince George's,0603,Suitland High,High,88.6,287774.0,324797,18.5,471,33.0,841,2549,20120820
+2005,16,Prince George's,0606,Bradbury Heights Elementary,Elementary,91.4,51217.0,56043,30.4,135,11.7,52,444,20120820
+2005,16,Prince George's,0607,Hillcrest Heights Elementary,Elementary,91.1,45024.0,49428,22.5,85,13.5,51,377,20120820
+2005,16,Prince George's,0609,Morningside Elementary,Elementary,89.9,29021.0,32264,15.4,38,20.3,50,246,20120820
+2005,16,Prince George's,0610,North Forestville Elementary,Elementary,90.8,43254.0,47611,24.7,94,16.5,63,381,20120820
+2005,16,Prince George's,0613,District Heights Elementary,Elementary,91.8,43295.0,47145,28.0,106,12.2,46,378,20120820
+2005,16,Prince George's,0615,Benjamin Stoddert Middle,Middle,90.4,93331.0,103214,13.1,107,34.9,285,817,20120820
+2005,16,Prince George's,0617,Francis Scott Key Elementary,Elementary,90.3,68764.0,76191,20.8,124,18.1,108,597,20120820
+2005,16,Prince George's,0618,Longfields Elementary,Elementary,92.3,62270.0,67496,27.9,150,10.4,56,537,20120820
+2005,16,Prince George's,0619,Princeton Elementary,Elementary,92.0,40027.0,43495,29.5,98,10.8,36,332,20120820
+2005,16,Prince George's,0620,Skyline Elementary,Elementary,92.5,23005.0,24862,23.6,46,11.3,22,195,20120820
+2005,16,Prince George's,0622,Thurgood Marshall Middle School,Middle,93.5,100777.5,107754,24.7,209,14.5,123,847,20120820
+2005,16,Prince George's,0623,Middleton Valley Elementary,Elementary,92.1,46854.0,50896,26.6,106,15.5,62,399,20120820
+2005,16,Prince George's,0624,Berkshire Elementary,Elementary,90.7,42501.0,46859,21.1,76,16.6,60,361,20120820
+2005,16,Prince George's,0625,G. Gardner Shugart Middle,Middle,92.1,80276.0,87184,24.1,164,18.6,127,681,20120820
+2005,16,Prince George's,0627,Jessie B. Mason Special Center,Middle,77.5,1091.5,1408,8.3,1,58.3,7,12,20120820
+2005,16,Prince George's,0627,Jessie B. Mason Special Center,High,78.7,2147.5,2727,23.8,5,42.9,9,21,20120820
+2005,16,Prince George's,0628,Edgar Allan Poe/Shadyside Elementary,Elementary,90.5,37667.0,41633,19.0,61,18.4,59,321,20120820
+2005,16,Prince George's,0631,Forestville High,High,90.7,127306.0,140306,15.8,174,33.5,369,1103,20120820
+2005,16,Prince George's,0632,Allenwood Elementary,Elementary,94.1,52770.5,56088,36.2,161,5.4,24,445,20120820
+2005,16,Prince George's,0633,Overlook Elementary,Elementary,91.8,39293.5,42786,24.9,86,13.6,47,345,20120820
+2005,16,Prince George's,0636,William Beanes Elementary,Elementary,>= 95.0,*,*,66.0,202,<= 5.0,*,306,20120820
+2005,16,Prince George's,0637,Benjamin D. Foulois Elementary,Elementary,90.9,65285.0,71795,18.5,102,15.8,87,552,20120820
+2005,16,Prince George's,0639,John Hanson French Immersion,Elementary,>= 95.0,*,*,28.2,50,9.0,16,177,20120820
+2005,16,Prince George's,0639,John Hanson French Immersion,Middle,>= 95.0,*,*,30.0,15,12.0,6,50,20120820
+2005,16,Prince George's,0640,Arrowhead Elementary,Elementary,92.7,52074.0,56160,34.7,151,10.8,47,435,20120820
+2005,16,Prince George's,0643,John Eager Howard Elementary,Elementary,91.7,35351.0,38561,26.9,83,12.0,37,308,20120820
+2005,16,Prince George's,0644,Andrew Jackson Middle School,Middle,93.4,114250.0,122332,22.1,212,19.9,191,959,20120820
+2005,16,Prince George's,0647,Concord Elementary,Elementary,92.3,47700.0,51692,30.9,129,11.2,47,418,20120820
+2005,16,Prince George's,0648,Samuel P. Massie Elementary,Elementary,93.0,75268.0,80939,39.3,245,7.4,46,623,20120820
+2005,16,Prince George's,0651,Thomas Claggett Elementary,Elementary,88.2,27108.0,30733,14.8,36,25.0,61,244,20120820
+2005,16,Prince George's,0656,Panorama Elementary,Elementary,88.3,61321.5,69426,17.4,94,24.6,133,540,20120820
+2005,16,Prince George's,0660,Drew Freeman Middle,Middle,90.5,108130.5,119491,15.3,142,32.9,305,926,20120820
+2005,16,Prince George's,0705,Tall Oaks Vocational,High,88.1,16748.5,19006,<= 5.0,*,59.4,85,143,20120820
+2005,16,Prince George's,0706,Woodmore Elementary,Elementary,>= 95.0,*,*,49.9,254,<= 5.0,*,509,20120820
+2005,16,Prince George's,0708,Kenilworth Elementary,Elementary,93.7,64335.0,68670,34.1,184,8.1,44,540,20120820
+2005,16,Prince George's,0711,Tulip Grove Elementary,Elementary,93.6,55888.0,59699,33.8,158,6.4,30,468,20120820
+2005,16,Prince George's,0712,Heather Hills Elementary,Elementary,>= 95.0,*,*,46.7,177,<= 5.0,*,379,20120820
+2005,16,Prince George's,0714,Benjamin Tasker Middle School,Middle,94.9,179616.0,189349,31.7,473,12.0,179,1491,20120820
+2005,16,Prince George's,0718,Pointer Ridge Elementary,Elementary,94.4,84816.0,89888,41.5,291,<= 5.0,*,702,20120820
+2005,16,Prince George's,0723,C. Elizabeth Rieg Regional Center,Elementary,80.5,3519.0,4369,14.7,5,38.2,13,34,20120820
+2005,16,Prince George's,0723,C. Elizabeth Rieg Regional Center,Middle,78.3,2044.0,2611,15.8,3,36.8,7,19,20120820
+2005,16,Prince George's,0723,C. Elizabeth Rieg Regional Center,High,83.9,3844.0,4580,10.8,4,29.7,11,37,20120820
+2005,16,Prince George's,0729,Kingsford Elementary,Elementary,94.5,84065.5,89002,42.6,295,7.2,50,693,20120820
+2005,16,Prince George's,0802,Baden Elementary,Elementary,93.1,29091.0,31244,32.5,80,8.5,21,246,20120820
+2005,16,Prince George's,0905,Tayac Elementary,Elementary,93.1,39660.0,42582,29.9,100,10.2,34,334,20120820
+2005,16,Prince George's,0906,Clinton Grove Elementary,Elementary,93.5,56729.0,60647,35.0,169,7.9,38,483,20120820
+2005,16,Prince George's,0907,Tanglewood Regional Center,Elementary,79.9,2391.0,2994,12.5,3,45.8,11,24,20120820
+2005,16,Prince George's,0907,Tanglewood Regional Center,Middle,78.2,2377.5,3041,8.7,2,43.5,10,23,20120820
+2005,16,Prince George's,0908,Surrattsville High,High,89.1,160916.0,180549,10.4,147,36.4,515,1416,20120820
+2005,16,Prince George's,0909,James Ryder Randall Elementary,Elementary,93.5,56914.0,60892,37.5,177,7.8,37,472,20120820
+2005,16,Prince George's,0912,Isaac J. Gourdine Middle School,Middle,>= 95.0,*,*,32.8,200,10.0,61,610,20120820
+2005,16,Prince George's,0914,Waldon Woods Elementary,Elementary,93.1,65084.0,69933,33.7,188,7.7,43,558,20120820
+2005,16,Prince George's,0915,Stephen Decatur Middle School,Middle,94.2,117649.0,124933,27.5,268,16.7,163,976,20120820
+2005,16,Prince George's,0916,Francis T. Evans Elementary,Elementary,93.4,42431.0,45407,33.9,115,7.7,26,339,20120820
+2005,16,Prince George's,1001,Laurel Elementary,Elementary,93.3,50966.0,54618,32.0,138,10.0,43,431,20120820
+2005,16,Prince George's,1008,Laurel High,High,89.6,241836.0,269959,19.0,402,33.3,703,2113,20120820
+2005,16,Prince George's,1009,Oaklands Elementary,Elementary,93.8,55849.0,59570,36.9,169,5.7,26,458,20120820
+2005,16,Prince George's,1010,Dwight D. Eisenhower Middle,Middle,92.3,100310.5,108681,21.9,185,20.7,175,846,20120820
+2005,16,Prince George's,1011,Bond Mill Elementary,Elementary,94.9,58801.0,61954,47.1,230,<= 5.0,*,488,20120820
+2005,16,Prince George's,1014,Scotch Town Hills Elementary,Elementary,93.8,62586.5,66716,38.9,200,8.4,43,514,20120820
+2005,16,Prince George's,1101,Brandywine Elementary,Elementary,92.7,54580.0,58878,31.3,144,9.8,45,460,20120820
+2005,16,Prince George's,1102,Mattaponi Elementary,Elementary,94.0,48056.5,51134,38.7,157,5.4,22,406,20120820
+2005,16,Prince George's,1103,Gwynn Park High,High,88.3,167479.0,189759,10.2,151,41.6,613,1475,20120820
+2005,16,Prince George's,1104,Gwynn Park Middle School,Middle,94.2,76033.0,80698,25.4,162,17.1,109,637,20120820
+2005,16,Prince George's,1105,Rosaryville Elementary,Elementary,>= 95.0,*,*,50.2,345,<= 5.0,*,687,20120820
+2005,16,Prince George's,1111,Rica-Southern Md,Middle,93.7,3134.0,3346,48.1,13,22.2,6,27,20120820
+2005,16,Prince George's,1111,Rica-Southern Md,High,87.8,6509.0,7417,24.6,14,35.1,20,57,20120820
+2005,16,Prince George's,1201,Oxon Hill Elementary,Elementary,92.7,45535.5,49134,30.6,120,11.0,43,392,20120820
+2005,16,Prince George's,1204,Forest Heights Elementary,Elementary,90.5,27438.0,30326,18.1,43,19.8,47,237,20120820
+2005,16,Prince George's,1206,John Hanson Montessori School,Elementary,94.8,25190.0,26579,29.8,62,7.2,15,208,20120820
+2005,16,Prince George's,1206,John Hanson Montessori School,Middle,>= 95.0,*,*,28.5,35,6.5,8,123,20120820
+2005,16,Prince George's,1208,Flintstone Elementary,Elementary,91.6,49984.0,54578,28.3,125,11.8,52,442,20120820
+2005,16,Prince George's,1209,Oxon Hill High,High,87.7,273181.5,311456,18.2,441,39.6,962,2427,20120820
+2005,16,Prince George's,1213,Fort Foote Elementary,Elementary,93.9,54205.0,57730,31.5,144,10.9,50,457,20120820
+2005,16,Prince George's,1214,Glassmanor Elementary,Elementary,90.1,34107.0,37852,22.4,67,16.1,48,299,20120820
+2005,16,Prince George's,1216,Samuel Chase Elementary,Elementary,93.2,33828.5,36315,24.4,70,5.9,17,287,20120820
+2005,16,Prince George's,1217,Crossland High,High,86.5,191924.0,221854,9.1,156,49.2,844,1715,20120820
+2005,16,Prince George's,1218,Valley View Elementary,Elementary,92.2,51368.0,55692,29.2,126,13.2,57,432,20120820
+2005,16,Prince George's,1219,Barnaby Manor Elementary,Elementary,91.1,53321.0,58516,19.4,89,15.3,70,459,20120820
+2005,16,Prince George's,1220,Potomac High,High,87.5,135388.0,154764,13.0,157,44.3,534,1206,20120820
+2005,16,Prince George's,1221,Avalon Elementary,Elementary,93.9,40689.0,43316,40.0,138,<= 5.0,*,345,20120820
+2005,16,Prince George's,1223,Owens Road Elementary,Elementary,92.7,25036.0,27016,25.1,53,9.5,20,211,20120820
+2005,16,Prince George's,1229,Apple Grove Elementary,Elementary,92.7,58781.0,63379,25.1,126,9.2,46,501,20120820
+2005,16,Prince George's,1231,J. Frank Dent Elementary,Elementary,90.3,26703.0,29567,17.5,38,19.8,43,217,20120820
+2005,16,Prince George's,1233,Indian Queen Elementary,Elementary,93.2,58000.0,62236,35.6,175,7.5,37,491,20120820
+2005,16,Prince George's,1234,Oxon Hill Middle School,Middle,90.9,92986.0,102246,15.6,125,31.3,251,803,20120820
+2005,16,Prince George's,1302,Columbia Park Elementary,Elementary,92.7,41205.0,44446,28.5,98,10.5,36,344,20120820
+2005,16,Prince George's,1305,Oakcrest Elementary,Elementary,93.3,47792.0,51239,30.5,122,10.0,40,400,20120820
+2005,16,Prince George's,1307,Highland Park Elementary,Elementary,91.2,48713.0,53411,18.6,79,17.2,73,424,20120820
+2005,16,Prince George's,1309,William Paca Elementary,Elementary,91.4,59647.0,65275,28.8,147,11.5,59,511,20120820
+2005,16,Prince George's,1310,Dodge Park Elementary,Elementary,91.0,28400.0,31197,25.5,60,10.2,24,235,20120820
+2005,16,Prince George's,1312,Kenmoor Elementary,Elementary,93.0,37292.0,40079,34.6,110,10.4,33,318,20120820
+2005,16,Prince George's,1314,Largo High School,High,90.5,222641.0,245927,20.8,397,31.2,596,1913,20120820
+2005,16,Prince George's,1317,Matthew Henson Elementary,Elementary,89.0,31498.0,35400,16.5,46,22.2,62,279,20120820
+2005,16,Prince George's,1319,John Carroll Elementary,Elementary,94.7,28686.0,30295,45.6,109,<= 5.0,*,239,20120820
+2005,16,Prince George's,1320,G. James Gholson Middle,Middle,90.2,114048.0,126445,13.9,139,33.1,330,997,20120820
+2005,16,Prince George's,1322,Phyllis E. Williams Elementary,Elementary,92.8,64846.0,69843,26.1,143,10.6,58,547,20120820
+2005,16,Prince George's,1324,Kettering Elementary,Elementary,92.7,65368.0,70519,28.5,155,9.9,54,544,20120820
+2005,16,Prince George's,1326,Kettering Middle School,Middle,>= 95.0,*,*,36.3,315,12.3,107,868,20120820
+2005,16,Prince George's,1327,Charles Herbert Flowers High School,High,92.3,300076.0,325021,26.6,679,21.9,558,2549,20120820
+2005,16,Prince George's,1330,Kenmoor Middle School,Middle,91.3,81094.5,88833,19.7,137,30.2,210,695,20120820
+2005,16,Prince George's,1333,Judge Sylvania W. Woods Elementary,Elementary,89.6,62550.5,69813,21.7,120,21.3,118,554,20120820
+2005,16,Prince George's,1346,Lake Arbor Elementary,Elementary,94.5,80183.0,84870,37.5,248,<= 5.0,*,662,20120820
+2005,16,Prince George's,1347,Cora L. Rice Elementary,Elementary,91.6,54631.5,59615,33.0,153,14.0,65,464,20120820
+2005,16,Prince George's,1348,Ernest Everett Just Middle,Middle,94.6,135382.0,143181,30.6,346,12.6,143,1132,20120820
+2005,16,Prince George's,1408,Glenn Dale Elementary,Elementary,93.9,60372.0,64260,40.8,210,6.0,31,515,20120820
+2005,16,Prince George's,1409,Duval High,High,89.1,157310.0,176584,16.7,227,32.7,445,1360,20120820
+2005,16,Prince George's,1411,Gaywood Elementary,Elementary,93.7,37109.5,39600,37.0,115,8.4,26,311,20120820
+2005,16,Prince George's,1412,High Bridge Elementary,Elementary,94.4,47195.0,49987,41.7,166,<= 5.0,*,398,20120820
+2005,16,Prince George's,1414,Catherine T. Reed Elementary,Elementary,92.6,37642.0,40644,34.7,110,10.7,34,317,20120820
+2005,16,Prince George's,1416,Robert Goddard French Immersion,Elementary,>= 95.0,*,*,44.7,139,<= 5.0,*,311,20120820
+2005,16,Prince George's,1416,Robert Goddard French Immersion,Middle,>= 95.0,*,*,44.6,54,<= 5.0,*,121,20120820
+2005,16,Prince George's,1417,Robert Goddard Montessori,Elementary,>= 95.0,*,*,42.9,117,<= 5.0,*,273,20120820
+2005,16,Prince George's,1417,Robert Goddard Montessori,Middle,>= 95.0,*,*,45.0,49,<= 5.0,*,109,20120820
+2005,16,Prince George's,1423,Bowie High,High,91.8,322086.0,350921,21.6,592,24.7,679,2747,20120820
+2005,16,Prince George's,1424,Montpelier Elementary,Elementary,94.1,75420.5,80156,39.3,248,6.7,42,631,20120820
+2005,16,Prince George's,1427,Yorktown Elementary,Elementary,93.9,60151.0,64041,43.2,217,6.0,30,502,20120820
+2005,16,Prince George's,1428,Samuel Ogle Middle,Elementary,94.2,74409.5,78985,42.1,263,5.8,36,625,20120820
+2005,16,Prince George's,1432,Rockledge Elementary,Elementary,94.3,60321.5,63966,40.2,202,6.2,31,502,20120820
+2005,16,Prince George's,1435,Deerfield Run Elementary,Elementary,92.8,62167.0,66969,30.4,161,8.5,45,529,20120820
+2005,16,Prince George's,1502,Frederick Douglass High,High,92.2,213229.0,231347,17.1,308,24.5,442,1806,20120820
+2005,16,Prince George's,1504,Melwood Elementary,Elementary,94.2,71745.0,76163,37.1,225,5.3,32,606,20120820
+2005,16,Prince George's,1510,James Madison Middle,Middle,94.3,103217.0,109469,28.2,242,13.9,119,857,20120820
+2005,16,Prince George's,1511,Marlton Elementary,Elementary,92.6,51867.0,56033,31.2,136,12.2,53,436,20120820
+2005,16,Prince George's,1601,Hyattsville Elementary,Elementary,92.9,54490.0,58652,30.6,139,7.3,33,454,20120820
+2005,16,Prince George's,1602,Hyattsville Middle School,Middle,93.9,99412.0,105920,24.5,204,18.7,156,834,20120820
+2005,16,Prince George's,1703,Mount Rainier Elementary,Elementary,93.2,39996.5,42925,37.0,127,9.6,33,343,20120820
+2005,16,Prince George's,1706,Thomas S. Stone Elementary,Elementary,91.2,87161.0,95535,26.5,199,14.9,112,750,20120820
+2005,16,Prince George's,1708,Northwestern High,High,88.5,297718.0,336309,17.1,451,36.0,947,2630,20120820
+2005,16,Prince George's,1709,Chillum Elementary,Elementary,94.0,24900.0,26487,46.6,96,6.8,14,206,20120820
+2005,16,Prince George's,1710,Ridgecrest Elementary,Elementary,>= 95.0,*,*,62.0,307,<= 5.0,*,495,20120820
+2005,16,Prince George's,1711,Carole Highlands Elementary,Elementary,>= 95.0,*,*,62.4,284,<= 5.0,*,455,20120820
+2005,16,Prince George's,1712,Lewisdale Elementary,Elementary,94.1,72214.0,76738,38.8,235,<= 5.0,*,606,20120820
+2005,16,Prince George's,1713,Cesar Chavez Elementary,Elementary,90.7,41672.0,45966,22.9,82,15.6,56,358,20120820
+2005,16,Prince George's,1714,Adelphi Elementary,Elementary,94.0,42790.5,45527,40.7,148,<= 5.0,*,364,20120820
+2005,16,Prince George's,1718,Nicholas Orem Middle School,Middle,94.0,86474.0,91987,28.1,201,14.1,101,715,20120820
+2005,16,Prince George's,1719,Langley Park/McCormick Elementary,Elementary,94.0,50222.0,53450,37.0,151,6.4,26,408,20120820
+2005,16,Prince George's,1725,Cool Spring Elementary,Elementary,92.9,32539.0,35043,34.3,95,6.1,17,277,20120820
+2005,16,Prince George's,1730,"Mary Harris ""Mother"" Jones Elementary",Elementary,94.8,74171.5,78231,44.3,269,<= 5.0,*,607,20120820
+2005,16,Prince George's,1802,Seat Pleasant Elementary,Elementary,92.4,39408.0,42667,28.6,95,10.2,34,332,20120820
+2005,16,Prince George's,1803,Lyndon Hill Elementary,Elementary,91.8,29509.0,32137,27.0,68,15.5,39,252,20120820
+2005,16,Prince George's,1806,Fairmont Heights High,High,93.9,145711.0,155239,15.3,183,42.6,509,1195,20120820
+2005,16,Prince George's,1808,Doswell E. Brooks Elementary,Elementary,91.4,28741.0,31436,27.2,68,15.2,38,250,20120820
+2005,16,Prince George's,1810,Central High,High,89.1,126545.0,142005,18.7,209,34.8,389,1117,20120820
+2005,16,Prince George's,1811,Carmody Hills Elementary,Elementary,90.5,29149.0,32213,25.2,64,16.5,42,254,20120820
+2005,16,Prince George's,1812,Capitol Heights Elementary,Elementary,>= 95.0,*,*,45.8,140,<= 5.0,*,306,20120820
+2005,16,Prince George's,1814,Thomas Pullen School,Elementary,>= 95.0,*,*,46.9,182,5.2,20,388,20120820
+2005,16,Prince George's,1814,Thomas Pullen School,Middle,>= 95.0,*,*,42.7,144,<= 5.0,*,337,20120820
+2005,16,Prince George's,1816,John H. Bayne Elementary,Elementary,93.3,45781.5,49084,33.9,131,7.8,30,387,20120820
+2005,16,Prince George's,1819,Walker Mill Middle School,Middle,92.6,88410.0,95516,23.5,175,25.9,193,745,20120820
+2005,16,Prince George's,1828,Robert R. Gray Elementary,Elementary,92.2,56575.0,61378,29.9,143,10.9,52,478,20120820
+2005,16,Prince George's,1901,Riverdale Elementary,Elementary,93.9,52128.0,55540,45.3,203,6.0,27,448,20120820
+2005,16,Prince George's,1902,University Park Elementary,Elementary,93.9,59473.0,63364,35.2,173,5.9,29,492,20120820
+2005,16,Prince George's,1907,Beacon Heights Elementary,Elementary,93.8,40834.0,43553,39.5,135,6.7,23,342,20120820
+2005,16,Prince George's,1908,William Wirt Middle School,Middle,90.6,81174.0,89549,18.1,127,30.5,214,702,20120820
+2005,16,Prince George's,1909,Parkdale High,High,89.5,254517.0,284308,18.2,402,34.8,768,2206,20120820
+2005,16,Prince George's,2003,Seabrook Elementary,Elementary,>= 95.0,*,*,50.8,127,<= 5.0,*,250,20120820
+2005,16,Prince George's,2005,Carrollton Elementary,Elementary,93.4,64528.5,69116,38.1,209,7.3,40,549,20120820
+2005,16,Prince George's,2006,Glenridge Elementary,Elementary,93.1,61103.5,65659,36.4,187,8.9,46,514,20120820
+2005,16,Prince George's,2007,Woodridge Elementary,Elementary,91.2,38752.0,42468,31.1,102,17.7,58,328,20120820
+2005,16,Prince George's,2008,Ardmore Elementary,Elementary,92.6,51851.0,55989,29.5,127,11.4,49,430,20120820
+2005,16,Prince George's,2009,Thomas Johnson Middle School,Middle,93.8,115554.0,123213,32.4,317,17.4,170,979,20120820
+2005,16,Prince George's,2010,Glenarden Woods Elementary,Elementary,94.6,57959.5,61243,46.1,222,5.8,28,482,20120820
+2005,16,Prince George's,2011,Charles Carroll Middle,Middle,93.2,110956.0,119034,30.1,280,15.3,142,930,20120820
+2005,16,Prince George's,2012,Margaret Brent Regional Center,Elementary,80.5,3191.0,3965,19.4,6,51.6,16,31,20120820
+2005,16,Prince George's,2012,Margaret Brent Regional Center,Middle,82.1,3455.0,4206,18.2,6,42.4,14,33,20120820
+2005,16,Prince George's,2012,Margaret Brent Regional Center,High,76.8,1549.0,2017,25.0,4,37.5,6,16,20120820
+2005,16,Prince George's,2013,James McHenry Elementary,Elementary,94.6,60742.0,64183,46.4,236,<= 5.0,*,509,20120820
+2005,16,Prince George's,2014,Lamont Elementary,Elementary,93.6,50675.0,54130,43.2,183,7.1,30,424,20120820
+2005,16,Prince George's,2016,Robert Frost Elementary,Elementary,>= 95.0,*,*,48.6,108,<= 5.0,*,222,20120820
+2005,16,Prince George's,2106,Greenbelt Elementary,Elementary,93.2,52485.0,56303,30.1,133,7.5,33,442,20120820
+2005,16,Prince George's,2107,Hollywood Elementary,Elementary,93.6,36245.5,38710,35.2,107,5.3,16,304,20120820
+2005,16,Prince George's,2108,Buck Lodge Middle,Middle,94.3,91204.0,96753,33.1,251,14.9,113,758,20120820
+2005,16,Prince George's,2109,Berwyn Heights Elementary,Elementary,93.8,55315.0,58991,37.3,174,6.2,29,466,20120820
+2005,16,Prince George's,2113,Springhill Lake Elementary,Elementary,92.2,71360.0,77434,27.4,166,11.9,72,606,20120820
+2005,16,Prince George's,2114,Eleanor Roosevelt High,High,94.0,334230.0,355694,32.6,907,16.7,465,2781,20120820
+2005,16,Prince George's,2121,Cherokee Lane Elementary,Elementary,>= 95.0,*,*,53.8,193,<= 5.0,*,359,20120820
+2005,16,Prince George's,2122,Magnolia Elementary,Elementary,94.9,49824.0,52509,45.5,188,<= 5.0,*,413,20120820
+2005,16,Prince George's,2123,Paint Branch Elementary,Elementary,94.2,40484.0,42988,40.5,135,6.9,23,333,20120820
+2005,16,Prince George's,2141,Greenbelt Middle School,Middle,91.9,105245.5,114572,17.3,157,26.5,240,906,20120820
+2005,16,Prince George's,2211,Bladensburg Evening HS at Northwestern,High,*,*,*,*,*,*,*,*,20120820
+2005,16,Prince George's,2213,Crossland Evening High,High,*,*,*,*,*,*,*,*,20120820
+2005,16,Prince George's,A,All Prince George's Schools,Elementary,93.2,5769636.0,6190733,34.8,16952,9.5,4637,48770,20120820
+2005,16,Prince George's,A,All Prince George's Schools,Middle,93.3,3896032.0,4177295,28.4,9353,16.4,5412,32902,20120820
+2005,16,Prince George's,A,All Prince George's Schools,High,89.8,4655504.5,5182285,17.9,7270,33.6,13618,40566,20120820
+2005,17,Queen Anne's,0101,Sudlersville Middle School,Middle,94.2,40133.5,42621,32.9,117,9.8,35,356,20120820
+2005,17,Queen Anne's,0106,Sudlersville Elementary School,Elementary,94.1,31785.0,33777,24.1,69,10.8,31,286,20120820
+2005,17,Queen Anne's,0202,Church Hill Elementary School,Elementary,94.0,25172.5,26777,20.6,47,11.0,25,228,20120820
+2005,17,Queen Anne's,0301,Queen Anne's County High School,High,89.8,114662.5,127646,13.9,146,32.1,338,1054,20120820
+2005,17,Queen Anne's,0302,Kennard Elementary School,Elementary,94.9,51828.5,54609,30.6,142,<= 5.0,*,464,20120820
+2005,17,Queen Anne's,0303,Centreville Middle School,Middle,94.3,75289.5,79845,28.6,193,7.9,53,674,20120820
+2005,17,Queen Anne's,0308,Centreville Elementary School,Elementary,94.1,25150.0,26718,27.6,63,6.6,15,228,20120820
+2005,17,Queen Anne's,0402,Kent Island Elementary School,Elementary,94.4,30239.0,32026,25.3,68,5.2,14,269,20120820
+2005,17,Queen Anne's,0403,Bayside Elementary School,Elementary,>= 95.0,*,*,29.8,136,<= 5.0,*,457,20120820
+2005,17,Queen Anne's,0404,Stevensville Middle School,Middle,94.2,91016.0,96609,24.4,198,10.9,88,810,20120820
+2005,17,Queen Anne's,0405,Kent Island High School,High,90.4,140232.0,155150,16.2,207,29.0,371,1281,20120820
+2005,17,Queen Anne's,0406,Matapeake Elementary,Elementary,>= 95.0,*,*,28.8,128,<= 5.0,*,444,20120820
+2005,17,Queen Anne's,0503,Grasonville Elementary School,Elementary,94.0,30039.0,31946,20.9,56,7.8,21,268,20120820
+2005,17,Queen Anne's,A,All Queen Anne's Schools,Elementary,94.6,295662.5,312556,26.8,708,6.4,170,2645,20120820
+2005,17,Queen Anne's,A,All Queen Anne's Schools,Middle,94.2,206439.0,219075,27.5,507,9.6,177,1841,20120820
+2005,17,Queen Anne's,A,All Queen Anne's Schools,High,90.1,254894.5,282796,15.0,351,30.5,712,2335,20120820
+2005,18,Saint Mary's,0101,Spring Ridge Middle,Middle,91.7,96403.0,105075,26.2,225,24.8,213,859,20120820
+2005,18,Saint Mary's,0104,Ridge Elementary,Elementary,>= 95.0,*,*,33.8,76,6.2,14,225,20120820
+2005,18,Saint Mary's,0201,Piney Point Elementary,Elementary,>= 95.0,*,*,33.3,159,6.5,31,478,20120820
+2005,18,Saint Mary's,0301,Leonardtown Elementary,Elementary,>= 95.0,*,*,41.6,182,<= 5.0,*,438,20120820
+2005,18,Saint Mary's,0302,Benjamin Banneker Elementary,Elementary,>= 95.0,*,*,40.2,214,7.1,38,533,20120820
+2005,18,Saint Mary's,0303,Chopticon High,High,91.7,184163.0,200726,23.0,381,21.8,361,1657,20120820
+2005,18,Saint Mary's,0305,Leonardtown Middle,Middle,94.4,114999.5,121861,28.4,289,12.7,129,1017,20120820
+2005,18,Saint Mary's,0306,Leonardtown High,High,91.9,195111.0,212194,20.4,361,22.3,396,1772,20120820
+2005,18,Saint Mary's,0404,Margaret Brent Middle,Middle,93.9,98955.0,105397,24.1,213,15.1,133,883,20120820
+2005,18,Saint Mary's,0501,Lettie Marshall Dent Elem,Elementary,>= 95.0,*,*,30.3,130,8.2,35,429,20120820
+2005,18,Saint Mary's,0503,White Marsh Elementary,Elementary,94.5,22890.5,24233,20.3,42,6.8,14,207,20120820
+2005,18,Saint Mary's,0504,Mechanicsville Elementary,Elementary,94.7,27412.0,28942,31.0,74,9.2,22,239,20120820
+2005,18,Saint Mary's,0602,Oakville Elementary,Elementary,94.9,40025.5,42156,29.5,104,7.6,27,353,20120820
+2005,18,Saint Mary's,0604,Hollywood Elementary,Elementary,>= 95.0,*,*,36.1,202,<= 5.0,*,559,20120820
+2005,18,Saint Mary's,0702,Dynard Elementary,Elementary,94.9,40387.0,42559,30.4,109,7.8,28,359,20120820
+2005,18,Saint Mary's,0801,Great Mills High,High,89.0,174596.0,196124,22.0,353,28.4,455,1604,20120820
+2005,18,Saint Mary's,0803,Green Holly Elementary School,Elementary,>= 95.0,*,*,46.3,164,<= 5.0,*,354,20120820
+2005,18,Saint Mary's,0804,Lexington Park Elementary,Elementary,92.5,42878.5,46345,22.8,86,15.6,59,377,20120820
+2005,18,Saint Mary's,0805,George Washington Carver Elementary,Elementary,94.2,29264.0,31071,26.0,67,14.3,37,258,20120820
+2005,18,Saint Mary's,0806,Town Creek Elementary,Elementary,>= 95.0,*,*,37.5,93,6.0,15,248,20120820
+2005,18,Saint Mary's,0807,Esperanza Middle,Middle,94.5,98148.5,103839,33.3,290,13.0,113,870,20120820
+2005,18,Saint Mary's,0808,Park Hall Elementary,Elementary,94.4,44666.5,47318,32.6,131,10.7,43,402,20120820
+2005,18,Saint Mary's,0810,Greenview Knolls Elementary,Elementary,>= 95.0,*,*,38.7,159,7.1,29,411,20120820
+2005,18,Saint Mary's,2500,St. Mary's County Alternative Learning Center,Middle,76.5,2746.5,3590,<= 5.0,*,67.6,25,37,20120820
+2005,18,Saint Mary's,2500,St. Mary's County Alternative Learning Center,High,75.8,2421.0,3195,<= 5.0,*,59.1,13,22,20120820
+2005,18,Saint Mary's,A,All Saint Mary's Schools,Elementary,>= 95.0,*,*,33.6,1982,8.0,473,5900,20120820
+2005,18,Saint Mary's,A,All Saint Mary's Schools,Middle,93.5,411252.5,439762,27.5,1011,17.1,629,3677,20120820
+2005,18,Saint Mary's,A,All Saint Mary's Schools,High,90.9,556291.0,612239,21.6,1094,24.5,1241,5063,20120820
+2005,19,Somerset,0102,Washington High School,Middle,93.0,15197.0,16345,27.2,37,20.6,28,136,20120820
+2005,19,Somerset,0102,Washington High School,High,90.2,55538.5,61567,20.9,106,25.3,128,506,20120820
+2005,19,Somerset,0105,Greenwood Elementary School,Elementary,>= 95.0,*,*,47.9,128,9.0,24,267,20120820
+2005,19,Somerset,0106,Princess Anne Elementary,Elementary,94.5,29345.5,31047,32.1,81,9.1,23,252,20120820
+2005,19,Somerset,0301,Marion Sarah Peyton School,Elementary,94.1,29752.0,31619,24.7,64,14.3,37,259,20120820
+2005,19,Somerset,0701,H. DeWayne Whittington Primary,Elementary,93.2,16419.0,17612,19.4,28,15.3,22,144,20120820
+2005,19,Somerset,0702,Crisfield High,Middle,94.7,8971.0,9470,36.7,29,12.7,10,79,20120820
+2005,19,Somerset,0702,Crisfield High,High,91.9,32762.0,35668,25.7,75,23.3,68,292,20120820
+2005,19,Somerset,1003,Ewell School,Elementary,>= 95.0,*,*,30.8,4,<= 5.0,*,13,20120820
+2005,19,Somerset,1303,Somerset 6/7 Intermediate School,Middle,92.4,55672.0,60246,26.2,130,22.2,110,496,20120820
+2005,19,Somerset,1401,Deal Island School,Elementary,94.4,8913.0,9440,34.6,27,11.5,9,78,20120820
+2005,19,Somerset,A,All Somerset Schools,Elementary,94.5,116180.0,122947,32.6,330,12.1,123,1013,20120820
+2005,19,Somerset,A,All Somerset Schools,Middle,92.8,79951.5,86181,27.5,196,20.8,148,712,20120820
+2005,19,Somerset,A,All Somerset Schools,High,90.8,88300.5,97235,22.7,181,24.6,196,798,20120820
+2005,20,Talbot,0101,Easton High,High,94.7,136199.5,143889,35.1,406,10.8,125,1156,20120820
+2005,20,Talbot,0104,Easton Elementary,Elementary,>= 95.0,*,*,39.8,300,<= 5.0,*,753,20120820
+2005,20,Talbot,0106,Easton Middle,Middle,94.3,102488.0,108627,31.7,278,11.9,104,876,20120820
+2005,20,Talbot,0202,St. Michaels Middle/High School,Middle,>= 95.0,*,*,33.3,51,5.2,8,153,20120820
+2005,20,Talbot,0202,St. Michaels Middle/High School,High,94.9,31732.0,33431,35.4,95,7.8,21,268,20120820
+2005,20,Talbot,0204,St. Michaels Elementary,Elementary,>= 95.0,*,*,39.5,92,5.6,13,233,20120820
+2005,20,Talbot,0302,White Marsh Elementary,Elementary,>= 95.0,*,*,34.9,82,6.4,15,235,20120820
+2005,20,Talbot,0401,Chapel District Elementary,Elementary,>= 95.0,*,*,35.4,103,<= 5.0,*,291,20120820
+2005,20,Talbot,0501,Tilghman Elementary,Elementary,>= 95.0,*,*,30.4,28,<= 5.0,*,92,20120820
+2005,20,Talbot,A,All Talbot Schools,Elementary,>= 95.0,*,*,37.2,571,<= 5.0,*,1534,20120820
+2005,20,Talbot,A,All Talbot Schools,Middle,94.5,128878.5,136318,32.8,361,10.6,117,1101,20120820
+2005,20,Talbot,A,All Talbot Schools,High,94.7,167931.5,177320,35.1,500,10.3,146,1424,20120820
+2005,21,Washington,0101,Sharpsburg Elementary,Elementary,>= 95.0,*,*,42.1,110,<= 5.0,*,261,20120820
+2005,21,Washington,0201,Springfield Middle,Middle,>= 95.0,*,*,44.0,346,<= 5.0,*,787,20120820
+2005,21,Washington,0202,Williamsport Elementary,Elementary,>= 95.0,*,*,48.0,196,<= 5.0,*,408,20120820
+2005,21,Washington,0204,Williamsport High,High,>= 95.0,*,*,33.6,294,6.4,56,875,20120820
+2005,21,Washington,0301,South Hagerstown Sr High,High,93.4,132049.0,141378,30.1,338,12.5,140,1123,20120820
+2005,21,Washington,0302,Emma K. Doub Elementary,Elementary,>= 95.0,*,*,42.3,149,<= 5.0,*,352,20120820
+2005,21,Washington,0304,E. Russell Hicks School,Middle,94.5,88411.5,93526,34.1,253,7.4,55,743,20120820
+2005,21,Washington,0305,Washington County Technical High,High,>= 95.0,*,*,45.6,164,<= 5.0,*,360,20120820
+2005,21,Washington,0401,Clear Spring Middle,Middle,>= 95.0,*,*,39.3,174,<= 5.0,*,443,20120820
+2005,21,Washington,0402,Clear Spring Elementary,Elementary,>= 95.0,*,*,44.9,153,<= 5.0,*,341,20120820
+2005,21,Washington,0403,Clear Spring High,High,>= 95.0,*,*,44.2,229,<= 5.0,*,518,20120820
+2005,21,Washington,0501,Hancock Middle Senior High,Middle,>= 95.0,*,*,51.5,84,<= 5.0,*,163,20120820
+2005,21,Washington,0501,Hancock Middle Senior High,High,>= 95.0,*,*,32.5,62,<= 5.0,*,191,20120820
+2005,21,Washington,0502,Hancock Elementary,Elementary,>= 95.0,*,*,38.3,79,<= 5.0,*,206,20120820
+2005,21,Washington,0601,Boonsboro Sr High,High,>= 95.0,*,*,40.8,385,<= 5.0,*,943,20120820
+2005,21,Washington,0602,Boonsboro Middle,Middle,>= 95.0,*,*,43.4,325,<= 5.0,*,748,20120820
+2005,21,Washington,0603,Boonsboro Elementary,Elementary,>= 95.0,*,*,39.7,188,<= 5.0,*,474,20120820
+2005,21,Washington,0701,Smithsburg Sr. High,High,>= 95.0,*,*,43.5,359,<= 5.0,*,826,20120820
+2005,21,Washington,0702,Smithsburg Elementary,Elementary,>= 95.0,*,*,38.4,124,<= 5.0,*,323,20120820
+2005,21,Washington,0704,Smithsburg Middle,Middle,>= 95.0,*,*,46.5,321,<= 5.0,*,690,20120820
+2005,21,Washington,0705,Washington County Job Development Center,High,92.2,5777.0,6269,33.3,17,21.6,11,51,20120820
+2005,21,Washington,0902,Paramount Elementary,Elementary,>= 95.0,*,*,47.1,180,<= 5.0,*,382,20120820
+2005,21,Washington,0903,Old Forge Elementary,Elementary,>= 95.0,*,*,56.3,192,<= 5.0,*,341,20120820
+2005,21,Washington,1001,Funkstown Elementary,Elementary,>= 95.0,*,*,45.7,37,<= 5.0,*,81,20120820
+2005,21,Washington,1002,Eastern Elementary,Elementary,>= 95.0,*,*,38.5,179,<= 5.0,*,465,20120820
+2005,21,Washington,1101,Pleasant Valley Elementary,Elementary,>= 95.0,*,*,36.1,73,<= 5.0,*,202,20120820
+2005,21,Washington,1301,Maugansville Elementary,Elementary,>= 95.0,*,*,50.6,119,<= 5.0,*,235,20120820
+2005,21,Washington,1401,Cascade School,Elementary,>= 95.0,*,*,39.8,49,<= 5.0,*,123,20120820
+2005,21,Washington,1602,Greenbrier Elementary,Elementary,>= 95.0,*,*,34.3,92,<= 5.0,*,268,20120820
+2005,21,Washington,1701,Bester Elementary,Elementary,>= 95.0,*,*,39.1,158,6.7,27,404,20120820
+2005,21,Washington,1802,Pangborn Elementary,Elementary,>= 95.0,*,*,37.6,175,<= 5.0,*,466,20120820
+2005,21,Washington,1805,Potomac Heights Elementary,Elementary,>= 95.0,*,*,43.2,111,5.1,13,257,20120820
+2005,21,Washington,2002,Fountain Rock Elementary,Elementary,>= 95.0,*,*,48.5,141,<= 5.0,*,291,20120820
+2005,21,Washington,2101,North Hagerstown High,High,94.4,147124.0,155850,32.8,408,10.9,136,1244,20120820
+2005,21,Washington,2102,Northern Middle,Middle,>= 95.0,*,*,44.6,302,6.2,42,677,20120820
+2005,21,Washington,2301,Conococheague Elementary,Elementary,>= 95.0,*,*,43.6,99,<= 5.0,*,227,20120820
+2005,21,Washington,2501,Western Heights Middle,Elementary,>= 95.0,*,*,40.7,46,6.2,7,113,20120820
+2005,21,Washington,2501,Western Heights Middle,Middle,>= 95.0,*,*,40.1,242,10.0,60,603,20120820
+2005,21,Washington,2502,Winter Street Elementary,Elementary,>= 95.0,*,*,32.4,73,5.3,12,225,20120820
+2005,21,Washington,2503,Salem Avenue Elementary,Elementary,>= 95.0,*,*,32.0,90,<= 5.0,*,281,20120820
+2005,21,Washington,2505,Marshall Street School,Elementary,86.2,1401.5,1625,30.8,4,38.5,5,13,20120820
+2005,21,Washington,2505,Marshall Street School,Middle,83.1,1507.0,1814,21.4,3,50.0,7,14,20120820
+2005,21,Washington,2505,Marshall Street School,High,89.2,1698.5,1904,7.1,1,35.7,5,14,20120820
+2005,21,Washington,2601,Lincolnshire Elementary,Elementary,>= 95.0,*,*,33.8,124,<= 5.0,*,367,20120820
+2005,21,Washington,2602,Hickory Elementary,Elementary,>= 95.0,*,*,38.1,74,<= 5.0,*,194,20120820
+2005,21,Washington,2701,Fountaindale Elementary,Elementary,>= 95.0,*,*,40.3,141,<= 5.0,*,350,20120820
+2005,21,Washington,9999,Adult Basic Education,High,82.8,7892.0,9527,12.5,8,42.2,27,64,20120820
+2005,21,Washington,A,All Washington Schools,Elementary,>= 95.0,*,*,40.6,3118,<= 5.0,*,7674,20120820
+2005,21,Washington,A,All Washington Schools,Middle,>= 95.0,*,*,41.7,2034,5.5,270,4881,20120820
+2005,21,Washington,A,All Washington Schools,High,94.8,742962.5,783381,35.9,2255,8.4,526,6274,20120820
+2005,22,Wicomico,0102,Mardela Middle & High,Middle,93.7,33704.5,35956,22.3,70,14.6,46,314,20120820
+2005,22,Wicomico,0102,Mardela Middle & High,High,93.3,42070.0,45080,15.0,59,14.2,56,393,20120820
+2005,22,Wicomico,0106,Northwestern Elementary,Elementary,>= 95.0,*,*,37.0,77,6.7,14,208,20120820
+2005,22,Wicomico,0406,Pittsville Elementary & Middle,Elementary,94.2,22874.0,24287,34.3,73,9.9,21,213,20120820
+2005,22,Wicomico,0406,Pittsville Elementary & Middle,Middle,93.2,29268.5,31402,27.7,75,14.0,38,271,20120820
+2005,22,Wicomico,0510,Wicomico Middle,Middle,92.4,80925.5,87559,25.1,190,18.9,143,756,20120820
+2005,22,Wicomico,0512,East Salisbury Elementary,Elementary,>= 95.0,*,*,38.0,141,7.5,28,371,20120820
+2005,22,Wicomico,0513,Wicomico High,High,90.9,116979.0,128630,21.8,238,20.8,227,1093,20120820
+2005,22,Wicomico,0514,Beaver Run School,Elementary,94.8,33866.5,35739,32.5,100,8.4,26,308,20120820
+2005,22,Wicomico,0515,Glen Avenue School,Elementary,>= 95.0,*,*,41.5,130,5.4,17,313,20120820
+2005,22,Wicomico,0520,Wicomico County Evening High,High,86.5,4850.0,5605,26.3,10,5.3,2,38,20120820
+2005,22,Wicomico,0905,North Salisbury Elementary,Elementary,>= 95.0,*,*,40.5,167,<= 5.0,*,412,20120820
+2005,22,Wicomico,0906,Pemberton Elementary,Elementary,>= 95.0,*,*,32.7,162,7.9,39,496,20120820
+2005,22,Wicomico,0907,Charles H. Chipman Elementary,Elementary,94.5,25174.5,26633,27.7,65,7.7,18,235,20120820
+2005,22,Wicomico,0909,West Salisbury Elementary,Elementary,94.3,18958.0,20109,34.7,59,8.8,15,170,20120820
+2005,22,Wicomico,0910,Salisbury Middle,Middle,92.2,97092.5,105259,20.1,183,20.7,189,912,20120820
+2005,22,Wicomico,1103,Delmar Elementary,Elementary,94.8,83170.5,87697,37.5,277,7.8,58,739,20120820
+2005,22,Wicomico,1305,Pinehurst Elementary,Elementary,94.3,31290.5,33188,30.6,89,10.7,31,291,20120820
+2005,22,Wicomico,1306,Prince Street School,Elementary,>= 95.0,*,*,38.5,126,7.3,24,327,20120820
+2005,22,Wicomico,1307,James M. Bennett High,High,91.9,145563.5,158362,18.6,254,18.3,250,1364,20120820
+2005,22,Wicomico,1308,Bennett Middle,Middle,92.9,107470.0,115656,23.1,232,18.7,188,1005,20120820
+2005,22,Wicomico,1309,Parkside High,High,91.0,117641.0,129341,20.8,232,19.2,214,1116,20120820
+2005,22,Wicomico,1404,Willards Elementary,Elementary,94.6,18298.0,19334,34.2,55,9.3,15,161,20120820
+2005,22,Wicomico,1501,Westside Primary,Elementary,>= 95.0,*,*,29.4,32,6.4,7,109,20120820
+2005,22,Wicomico,1502,Westside Intermediate,Elementary,>= 95.0,*,*,37.3,172,<= 5.0,*,461,20120820
+2005,22,Wicomico,1601,Fruitland Primary,Elementary,94.9,32253.5,33995,29.8,87,<= 5.0,*,292,20120820
+2005,22,Wicomico,1602,Fruitland Intermediate,Elementary,>= 95.0,*,*,32.7,118,6.9,25,361,20120820
+2005,22,Wicomico,A,All Wicomico Schools,Elementary,>= 95.0,*,*,34.7,1903,7.5,411,5481,20120820
+2005,22,Wicomico,A,All Wicomico Schools,Middle,92.7,348461.0,375832,22.7,741,19.0,621,3265,20120820
+2005,22,Wicomico,A,All Wicomico Schools,High,91.5,427103.5,467018,19.7,792,19.0,761,4014,20120820
+2005,23,Worcester,0102,Pocomoke Elementary,Elementary,>= 95.0,*,*,32.4,77,7.1,17,238,20120820
+2005,23,Worcester,0107,Pocomoke High,High,93.8,50577.5,53924,33.3,158,15.6,74,475,20120820
+2005,23,Worcester,0108,Pocomoke Middle,Elementary,>= 95.0,*,*,39.9,63,8.2,13,158,20120820
+2005,23,Worcester,0108,Pocomoke Middle,Middle,94.8,33987.0,35845,36.3,115,11.0,35,317,20120820
+2005,23,Worcester,0205,Snow Hill Elementary,Elementary,94.8,23615.0,24905,35.6,79,6.8,15,222,20120820
+2005,23,Worcester,0207,Snow Hill High,High,93.9,45959.5,48930,30.0,129,13.7,59,430,20120820
+2005,23,Worcester,0208,Snow Hill Middle,Elementary,>= 95.0,*,*,48.1,76,5.7,9,158,20120820
+2005,23,Worcester,0208,Snow Hill Middle,Middle,>= 95.0,*,*,39.1,99,7.9,20,253,20120820
+2005,23,Worcester,0308,Stephen Decatur Middle,Middle,94.1,71603.0,76064,24.7,167,14.8,100,675,20120820
+2005,23,Worcester,0310,Stephen Decatur High,High,92.3,143713.5,155715,22.5,307,19.5,266,1366,20120820
+2005,23,Worcester,0311,Berlin Intermediate,Elementary,94.8,77837.0,82079,28.9,211,8.8,64,729,20120820
+2005,23,Worcester,0312,Showell Elementary,Elementary,94.9,35703.0,37629,26.6,88,5.7,19,331,20120820
+2005,23,Worcester,0401,Cedar Chapel Special School,Elementary,*,*,*,*,*,*,*,*,20120820
+2005,23,Worcester,0401,Cedar Chapel Special School,Middle,90.4,1621.0,1794,25.0,4,31.3,5,16,20120820
+2005,23,Worcester,0401,Cedar Chapel Special School,High,90.2,2803.0,3109,25.9,7,18.5,5,27,20120820
+2005,23,Worcester,0901,Buckingham Elementary,Elementary,>= 95.0,*,*,42.3,124,5.5,16,293,20120820
+2005,23,Worcester,1001,Ocean City Elementary,Elementary,94.7,38267.0,40389,28.4,104,<= 5.0,*,366,20120820
+2005,23,Worcester,A,All Worcester Schools,Elementary,>= 95.0,*,*,34.1,749,6.6,145,2198,20120820
+2005,23,Worcester,A,All Worcester Schools,Middle,94.5,166530.0,176220,29.2,457,12.2,191,1564,20120820
+2005,23,Worcester,A,All Worcester Schools,High,92.9,243053.5,261678,26.1,600,17.6,404,2298,20120820
+2005,30,Baltimore City,0004,Steuart Hill Elementary,Elementary,88.6,26395.0,29793,19.2,49,35.3,90,255,20120820
+2005,30,Baltimore City,0004,Steuart Hill Elementary,Middle,92.9,8378.0,9018,33.3,25,18.7,14,75,20120820
+2005,30,Baltimore City,0005,Langston Hughes Elementary,Elementary,>= 95.0,*,*,54.1,92,7.1,12,170,20120820
+2005,30,Baltimore City,0007,Cecil Elementary,Elementary,>= 95.0,*,*,62.8,174,<= 5.0,*,277,20120820
+2005,30,Baltimore City,0008,City Springs Elementary,Elementary,>= 95.0,*,*,87.4,209,<= 5.0,*,239,20120820
+2005,30,Baltimore City,0008,City Springs Elementary,Middle,>= 95.0,*,*,94.4,51,<= 5.0,*,54,20120820
+2005,30,Baltimore City,0010,James McHenry Elementary,Elementary,94.3,35460.0,37612,36.7,115,11.8,37,313,20120820
+2005,30,Baltimore City,0011,Eutaw-Marshburn Elementary,Elementary,>= 95.0,*,*,55.0,175,7.9,25,318,20120820
+2005,30,Baltimore City,0012,Lakeland Elementary/Middle,Elementary,94.3,34555.0,36646,33.9,104,11.7,36,307,20120820
+2005,30,Baltimore City,0012,Lakeland Elementary/Middle,Middle,91.9,22918.0,24927,28.6,60,21.4,45,210,20120820
+2005,30,Baltimore City,0013,Tench Tilghman Elementary,Elementary,93.4,35144.0,37613,27.2,86,16.8,53,316,20120820
+2005,30,Baltimore City,0015,Stadium School,Elementary,>= 95.0,*,*,58.8,10,<= 5.0,*,17,20120820
+2005,30,Baltimore City,0015,Stadium School,Middle,>= 95.0,*,*,40.5,66,<= 5.0,*,163,20120820
+2005,30,Baltimore City,0016,Johnston Square Elementary,Elementary,92.8,39500.0,42578,26.7,98,22.1,81,367,20120820
+2005,30,Baltimore City,0021,Hilton Elementary,Elementary,92.1,25959.0,28187,23.9,57,20.6,49,238,20120820
+2005,30,Baltimore City,0022,George Washington Elementary,Elementary,94.1,23025.0,24472,31.3,66,19.4,41,211,20120820
+2005,30,Baltimore City,0023,General Wolfe Elementary,Elementary,>= 95.0,*,*,41.6,67,9.9,16,161,20120820
+2005,30,Baltimore City,0024,Westside Elementary,Elementary,93.3,27243.0,29204,37.9,91,10.4,25,240,20120820
+2005,30,Baltimore City,0025,Dr. Rayner Browne Elementary,Elementary,94.3,12456.0,13209,38.1,43,11.5,13,113,20120820
+2005,30,Baltimore City,0027,Commodore John Rogers Elementary,Elementary,91.4,26160.0,28606,18.8,44,22.2,52,234,20120820
+2005,30,Baltimore City,0028,William Pinderhughes Elementary,Elementary,>= 95.0,*,*,40.7,55,5.9,8,135,20120820
+2005,30,Baltimore City,0029,Matthew A. Henson Elementary,Elementary,93.6,39321.0,42030,39.6,142,12.0,43,359,20120820
+2005,30,Baltimore City,0031,Coldstream Park Elementary,Elementary,94.6,35092.0,37109,39.4,121,10.1,31,307,20120820
+2005,30,Baltimore City,0034,Charles Carroll Barrister Elementary,Elementary,93.8,25046.0,26692,41.7,95,14.5,33,228,20120820
+2005,30,Baltimore City,0035,Harlem Park Elementary,Elementary,94.8,24186.0,25507,46.1,100,6.0,13,217,20120820
+2005,30,Baltimore City,0036,Harford Heights Primary,Elementary,>= 95.0,*,*,46.2,92,<= 5.0,*,199,20120820
+2005,30,Baltimore City,0037,Harford Heights Intermediate,Elementary,>= 95.0,*,*,56.0,205,10.4,38,366,20120820
+2005,30,Baltimore City,0039,Dallas F. Nicholas Sr. Elementary,Elementary,93.4,30336.0,32488,32.1,89,13.4,37,277,20120820
+2005,30,Baltimore City,0040,Lake Clifton-Eastern High,High,88.2,30511.0,34603,16.0,46,30.2,87,288,20120820
+2005,30,Baltimore City,0041,Hamilton Middle,Middle,81.4,82339.0,101136,7.4,62,54.3,454,836,20120820
+2005,30,Baltimore City,0042,Garrison Middle,Middle,88.8,89960.0,101335,20.0,170,33.5,285,852,20120820
+2005,30,Baltimore City,0043,Highlandtown Middle,Middle,76.8,96315.0,125365,<= 5.0,*,69.1,712,1030,20120820
+2005,30,Baltimore City,0045,Federal Hill Elementary,Elementary,>= 95.0,*,*,38.1,67,5.7,10,176,20120820
+2005,30,Baltimore City,0045,Federal Hill Elementary,Middle,>= 95.0,*,*,52.1,37,5.6,4,71,20120820
+2005,30,Baltimore City,0046,Chinquapin Middle,Middle,93.7,100685.0,107484,24.6,226,14.7,135,919,20120820
+2005,30,Baltimore City,0047,Hampstead Hill Elementary,Elementary,94.9,36656.0,38618,38.2,125,13.5,44,327,20120820
+2005,30,Baltimore City,0049,Northeast Middle,Middle,88.7,71506.0,80613,17.2,118,29.1,200,687,20120820
+2005,30,Baltimore City,0050,Abbottston Elementary,Elementary,>= 95.0,*,*,92.2,178,<= 5.0,*,193,20120820
+2005,30,Baltimore City,0051,Waverly Elementary,Elementary,93.7,43226.0,46141,37.2,147,9.1,36,395,20120820
+2005,30,Baltimore City,0051,Waverly Elementary,Middle,93.1,19064.0,20487,27.7,49,17.5,31,177,20120820
+2005,30,Baltimore City,0053,Margaret Brent Elementary,Elementary,>= 95.0,*,*,51.5,84,9.2,15,163,20120820
+2005,30,Baltimore City,0054,Barclay Elementary/Middle,Elementary,>= 95.0,*,*,48.7,135,10.8,30,277,20120820
+2005,30,Baltimore City,0054,Barclay Elementary/Middle,Middle,>= 95.0,*,*,43.4,66,<= 5.0,*,152,20120820
+2005,30,Baltimore City,0055,Hampden Elementary,Elementary,93.3,24987.0,26783,29.3,66,16.9,38,225,20120820
+2005,30,Baltimore City,0056,Robert Poole Middle/High,Middle,80.0,39664.0,49561,7.2,30,57.8,241,417,20120820
+2005,30,Baltimore City,0057,Lombard Middle,Middle,83.6,59338.0,70946,19.4,117,33.6,203,604,20120820
+2005,30,Baltimore City,0058,Dr. Nathan A. Pitts Ashburton Elementary/Middle,Elementary,>= 95.0,*,*,35.2,116,9.4,31,330,20120820
+2005,30,Baltimore City,0058,Dr. Nathan A. Pitts Ashburton Elementary/Middle,Middle,>= 95.0,*,*,42.0,76,11.0,20,181,20120820
+2005,30,Baltimore City,0060,Gwynns Falls Elementary,Elementary,>= 95.0,*,*,38.4,133,12.1,42,346,20120820
+2005,30,Baltimore City,0061,John Eager Howard Elementary,Elementary,>= 95.0,*,*,79.5,105,<= 5.0,*,132,20120820
+2005,30,Baltimore City,0062,Edgecombe Circle Elementary,Elementary,93.4,42677.0,45711,33.1,129,16.4,64,390,20120820
+2005,30,Baltimore City,0063,Rosemont Elementary,Elementary,94.8,28152.0,29699,44.1,112,13.0,33,254,20120820
+2005,30,Baltimore City,0064,Liberty Elementary,Elementary,94.4,28164.0,29831,42.0,107,9.0,23,255,20120820
+2005,30,Baltimore City,0066,Mount Royal Elementary/Middle,Elementary,>= 95.0,*,*,48.0,157,8.3,27,327,20120820
+2005,30,Baltimore City,0066,Mount Royal Elementary/Middle,Middle,94.1,47561.0,50530,37.7,163,16.7,72,432,20120820
+2005,30,Baltimore City,0067,Edgewood Elementary,Elementary,93.8,26389.0,28138,44.0,106,9.5,23,241,20120820
+2005,30,Baltimore City,0070,Southern Senior High,High,67.6,9159.0,13545,9.4,11,59.8,70,117,20120820
+2005,30,Baltimore City,0073,Sarah M. Roach Elementary,Elementary,93.7,28602.0,30527,33.3,87,15.7,41,261,20120820
+2005,30,Baltimore City,0075,Calverton Middle,Middle,79.4,88888.0,111963,<= 5.0,*,63.5,598,942,20120820
+2005,30,Baltimore City,0076,Francis Scott Key Elementary/Middle,Elementary,94.8,12332.0,13015,31.8,35,7.3,8,110,20120820
+2005,30,Baltimore City,0076,Francis Scott Key Elementary/Middle,Middle,91.9,52258.0,56891,21.0,101,21.0,101,480,20120820
+2005,30,Baltimore City,0078,Harlem Park Middle,Middle,77.2,55628.0,72037,<= 5.0,*,62.5,375,600,20120820
+2005,30,Baltimore City,0079,William H. Lemmel Middle,Middle,92.1,100155.0,108722,58.7,538,16.5,151,916,20120820
+2005,30,Baltimore City,0080,West Baltimore Middle,Middle,89.7,117431.0,130971,10.2,114,38.3,428,1118,20120820
+2005,30,Baltimore City,0081,North Bend Elementary,Elementary,94.4,40365.0,42756,38.9,140,9.4,34,360,20120820
+2005,30,Baltimore City,0082,Dr. Roland N. Patterson Sr. Academy,Middle,80.5,70788.0,87933,7.6,56,54.7,401,733,20120820
+2005,30,Baltimore City,0083,William Paca Elementary,Elementary,93.4,69353.0,74217,40.9,255,10.1,63,624,20120820
+2005,30,Baltimore City,0084,Thomas Johnson Elementary,Elementary,92.8,22254.0,23970,28.2,57,24.8,50,202,20120820
+2005,30,Baltimore City,0085,Fort Worthington Elementary,Elementary,92.6,38566.0,41641,30.8,109,18.9,67,354,20120820
+2005,30,Baltimore City,0086,Lakewood Elementary,Elementary,92.3,8971.0,9723,22.6,19,25.0,21,84,20120820
+2005,30,Baltimore City,0087,Windsor Hills Elementary,Elementary,93.5,17037.0,18222,31.8,50,21.7,34,157,20120820
+2005,30,Baltimore City,0088,Lyndhurst Elementary,Elementary,94.4,26977.0,28578,34.3,82,12.6,30,239,20120820
+2005,30,Baltimore City,0089,Rognel Heights Elementary/Middle,Elementary,93.6,28338.0,30263,22.7,58,16.9,43,255,20120820
+2005,30,Baltimore City,0089,Rognel Heights Elementary/Middle,Middle,92.6,20641.0,22282,17.7,34,24.5,47,192,20120820
+2005,30,Baltimore City,0095,Franklin Square Elementary,Elementary,94.8,24462.0,25805,42.9,94,9.1,20,219,20120820
+2005,30,Baltimore City,0097,Collington Square Elementary,Elementary,>= 95.0,*,*,35.5,89,10.8,27,251,20120820
+2005,30,Baltimore City,0097,Collington Square Elementary,Middle,>= 95.0,*,*,44.3,62,14.3,20,140,20120820
+2005,30,Baltimore City,0098,Samuel F. B. Morse Elementary,Elementary,92.0,33594.0,36511,27.0,83,21.5,66,307,20120820
+2005,30,Baltimore City,0101,Elmer A. Henderson Elementary,Elementary,93.4,22947.0,24580,36.3,73,8.5,17,201,20120820
+2005,30,Baltimore City,0102,Thomas G. Hayes Elementary,Elementary,91.8,32757.0,35695,30.7,94,18.0,55,306,20120820
+2005,30,Baltimore City,0105,Moravia Park Primary,Elementary,94.6,47992.0,50733,36.1,155,14.5,62,429,20120820
+2005,30,Baltimore City,0105,Moravia Park Primary,Middle,93.5,23973.0,25626,26.5,58,19.2,42,219,20120820
+2005,30,Baltimore City,0122,Samuel Coleridge-Taylor Elementary,Elementary,92.5,28835.0,31158,39.1,102,14.9,39,261,20120820
+2005,30,Baltimore City,0124,Bay-Brook Elementary,Elementary,93.5,26967.0,28838,37.2,92,13.0,32,247,20120820
+2005,30,Baltimore City,0130,Booker T. Washington Middle,Middle,89.8,66642.0,74209,44.3,272,21.5,132,614,20120820
+2005,30,Baltimore City,0133,Paul Laurence Dunbar Middle,Middle,85.2,46138.0,54139,10.2,46,45.6,205,450,20120820
+2005,30,Baltimore City,0134,Walter P. Carter Elementary,Elementary,92.7,28294.0,30519,30.4,80,23.6,62,263,20120820
+2005,30,Baltimore City,0138,Harriet Tubman Elementary,Elementary,93.6,17074.0,18242,29.6,47,17.6,28,159,20120820
+2005,30,Baltimore City,0142,Robert W. Coleman Elementary,Elementary,92.7,23762.0,25646,22.5,49,19.3,42,218,20120820
+2005,30,Baltimore City,0144,James Mosher Elementary,Elementary,93.6,29247.0,31251,30.3,80,14.0,37,264,20120820
+2005,30,Baltimore City,0145,Alexander Hamilton Elementary,Elementary,>= 95.0,*,*,54.5,146,6.0,16,268,20120820
+2005,30,Baltimore City,0150,Bentalou Elementary,Elementary,>= 95.0,*,*,52.9,176,8.7,29,333,20120820
+2005,30,Baltimore City,0157,George G. Kelson Elementary,Elementary,93.2,17797.0,19096,34.8,55,9.5,15,158,20120820
+2005,30,Baltimore City,0157,George G. Kelson Elementary,Middle,94.7,10654.0,11251,40.4,38,10.6,10,94,20120820
+2005,30,Baltimore City,0159,Cherry Hill Elementary/Middle,Elementary,93.3,28907.0,30967,36.2,92,8.3,21,254,20120820
+2005,30,Baltimore City,0159,Cherry Hill Elementary/Middle,Middle,92.1,13717.0,14888,45.8,55,13.3,16,120,20120820
+2005,30,Baltimore City,0160,Dr. Carter Godwin Woodson Prek through 8,Elementary,94.6,26851.0,28386,43.9,107,11.1,27,244,20120820
+2005,30,Baltimore City,0160,Dr. Carter Godwin Woodson Prek through 8,Middle,93.9,17115.0,18224,41.9,67,12.5,20,160,20120820
+2005,30,Baltimore City,0162,Diggs-Johnson Middle,Middle,85.4,52879.0,61910,12.1,64,40.5,214,529,20120820
+2005,30,Baltimore City,0163,Patapsco Elementary,Elementary,94.5,24767.0,26218,46.8,103,9.1,20,220,20120820
+2005,30,Baltimore City,0163,Patapsco Elementary,Middle,93.5,12140.0,12979,52.3,57,10.1,11,109,20120820
+2005,30,Baltimore City,0164,Arundel Elementary/Middle,Elementary,>= 95.0,*,*,42.4,75,7.9,14,177,20120820
+2005,30,Baltimore City,0164,Arundel Elementary/Middle,Middle,93.5,11044.0,11806,43.9,43,12.2,12,98,20120820
+2005,30,Baltimore City,0170,Thurgood Marshall Middle #170,Middle,84.4,70836.0,83911,14.9,104,40.1,281,700,20120820
+2005,30,Baltimore City,0177,George W. F. McMechen Middle/High,High,87.8,20113.0,22920,33.0,64,31.4,61,194,20120820
+2005,30,Baltimore City,0178,Francis M. Wood Alternative High,High,66.6,37514.0,56366,<= 5.0,*,90.1,437,485,20120820
+2005,30,Baltimore City,0181,Southside Academy,High,94.3,22391.0,23750,32.7,66,14.9,30,202,20120820
+2005,30,Baltimore City,0201,Dickey Hill Elementary/Middle,Elementary,94.6,27868.0,29448,31.2,77,16.6,41,247,20120820
+2005,30,Baltimore City,0201,Dickey Hill Elementary/Middle,Middle,92.2,18126.0,19665,18.2,29,27.0,43,159,20120820
+2005,30,Baltimore City,0202,Lafayette Elementary,Elementary,91.9,19252.0,20943,12.6,22,30.9,54,175,20120820
+2005,30,Baltimore City,0203,Maree Garnett Farring Elementary,Elementary,94.0,37734.0,40161,37.8,128,12.4,42,339,20120820
+2005,30,Baltimore City,0204,Mary E. Rodman Elementary,Elementary,>= 95.0,*,*,88.0,307,<= 5.0,*,349,20120820
+2005,30,Baltimore City,0205,Woodhome Elementary/Middle,Elementary,>= 95.0,*,*,38.1,104,8.1,22,273,20120820
+2005,30,Baltimore City,0205,Woodhome Elementary/Middle,Middle,94.6,18297.0,19342,33.3,55,11.5,19,165,20120820
+2005,30,Baltimore City,0206,Furley Elementary,Elementary,94.6,55140.0,58315,40.7,202,8.5,42,496,20120820
+2005,30,Baltimore City,0207,Curtis Bay Elementary,Elementary,92.2,31247.0,33879,29.7,83,20.4,57,279,20120820
+2005,30,Baltimore City,0209,Winston Middle,Middle,93.6,60151.0,64260,52.8,286,13.1,71,542,20120820
+2005,30,Baltimore City,0210,Hazelwood Elementary/Middle,Elementary,94.5,35970.0,38047,28.7,94,19.6,64,327,20120820
+2005,30,Baltimore City,0210,Hazelwood Elementary/Middle,Middle,93.1,28737.0,30858,20.8,53,18.8,48,255,20120820
+2005,30,Baltimore City,0211,Gardenville Elementary,Elementary,94.1,37244.0,39570,33.6,115,12.6,43,342,20120820
+2005,30,Baltimore City,0212,Garrett Heights Elementary,Elementary,>= 95.0,*,*,40.1,135,8.0,27,337,20120820
+2005,30,Baltimore City,0213,Govans Elementary,Elementary,93.2,34201.0,36698,21.5,68,18.3,58,317,20120820
+2005,30,Baltimore City,0214,Guilford Elementary/Middle,Elementary,92.6,21147.0,22836,32.5,63,12.9,25,194,20120820
+2005,30,Baltimore City,0214,Guilford Elementary/Middle,Middle,92.5,20167.0,21795,46.5,87,14.4,27,187,20120820
+2005,30,Baltimore City,0215,Highlandtown Elementary #215,Elementary,91.0,50582.0,55574,12.4,57,35.3,162,459,20120820
+2005,30,Baltimore City,0217,Belmont Elementary,Elementary,93.3,31125.0,33367,32.4,92,12.7,36,284,20120820
+2005,30,Baltimore City,0219,Yorkwood Elementary,Elementary,93.7,43870.0,46837,24.6,96,12.3,48,390,20120820
+2005,30,Baltimore City,0220,Morrell Park Elementary/Middle,Elementary,93.3,28450.0,30495,29.3,76,18.1,47,259,20120820
+2005,30,Baltimore City,0220,Morrell Park Elementary/Middle,Middle,90.6,16037.0,17699,28.1,43,25.5,39,153,20120820
+2005,30,Baltimore City,0221,Mount Washington Elementary,Elementary,>= 95.0,*,*,35.1,85,<= 5.0,*,242,20120820
+2005,30,Baltimore City,0222,Pimlico Middle,Middle,84.7,82538.0,97481,6.8,56,51.4,426,828,20120820
+2005,30,Baltimore City,0223,Pimlico Elementary,Elementary,94.7,47315.0,49960,46.2,192,9.6,40,416,20120820
+2005,30,Baltimore City,0224,Grove Park Elementary,Elementary,94.0,30664.0,32608,28.0,76,11.8,32,271,20120820
+2005,30,Baltimore City,0225,Westport Academy,Elementary,91.4,30186.0,33012,10.1,28,33.1,92,278,20120820
+2005,30,Baltimore City,0225,Westport Academy,Middle,90.2,15575.0,17258,24.3,35,31.9,46,144,20120820
+2005,30,Baltimore City,0226,Violetville Elementary/Middle,Elementary,94.2,25125.0,26682,27.1,61,15.1,34,225,20120820
+2005,30,Baltimore City,0226,Violetville Elementary/Middle,Middle,90.1,14051.0,15597,23.0,31,33.3,45,135,20120820
+2005,30,Baltimore City,0228,John Ruhrah Elementary,Elementary,92.5,31904.0,34475,27.6,80,24.1,70,290,20120820
+2005,30,Baltimore City,0229,Holabird Elementary,Elementary,89.7,19695.0,21961,19.7,36,36.6,67,183,20120820
+2005,30,Baltimore City,0230,Canton Middle,Middle,81.9,42531.0,51914,8.6,38,56.9,252,443,20120820
+2005,30,Baltimore City,0231,Brehms Lane Elementary,Elementary,93.9,57207.0,60920,32.6,171,13.4,70,524,20120820
+2005,30,Baltimore City,0232,Thomas Jefferson Elementary,Elementary,>= 95.0,*,*,39.3,77,<= 5.0,*,196,20120820
+2005,30,Baltimore City,0233,Roland Park Elementary/Middle,Elementary,>= 95.0,*,*,41.7,143,<= 5.0,*,343,20120820
+2005,30,Baltimore City,0233,Roland Park Elementary/Middle,Middle,>= 95.0,*,*,34.8,301,9.9,86,865,20120820
+2005,30,Baltimore City,0234,Arlington Elementary,Elementary,94.4,48060.0,50907,40.1,172,13.5,58,429,20120820
+2005,30,Baltimore City,0235,Glenmount Elementary/Middle,Elementary,94.8,46172.0,48713,34.3,140,10.3,42,408,20120820
+2005,30,Baltimore City,0235,Glenmount Elementary/Middle,Middle,93.6,38274.0,40889,26.5,93,17.1,60,351,20120820
+2005,30,Baltimore City,0236,Hamilton Elementary/Middle,Elementary,94.7,35393.0,37393,32.8,106,11.5,37,323,20120820
+2005,30,Baltimore City,0236,Hamilton Elementary/Middle,Middle,93.9,28727.0,30605,34.0,88,12.4,32,259,20120820
+2005,30,Baltimore City,0237,Highlandtown Elementary #237,Elementary,89.8,14578.0,16242,15.0,21,40.0,56,140,20120820
+2005,30,Baltimore City,0239,Benjamin Franklin Jr. Middle,Middle,67.5,33836.0,50122,18.7,78,27.5,115,418,20120820
+2005,30,Baltimore City,0240,Graceland Park Elementary,Elementary,94.0,18656.0,19850,31.3,51,12.9,21,163,20120820
+2005,30,Baltimore City,0241,Fallstaff Elementary,Elementary,>= 95.0,*,*,43.4,82,7.9,15,189,20120820
+2005,30,Baltimore City,0242,Northwood Elementary,Elementary,94.5,58817.0,62253,34.2,182,11.8,63,532,20120820
+2005,30,Baltimore City,0243,Armistead Gardens Elementary,Elementary,93.2,24801.0,26614,33.2,77,15.9,37,232,20120820
+2005,30,Baltimore City,0245,Leith Walk Elementary,Elementary,>= 95.0,*,*,38.6,301,7.7,60,779,20120820
+2005,30,Baltimore City,0246,Beechfield Elementary,Elementary,93.7,58036.0,61939,34.0,179,10.1,53,526,20120820
+2005,30,Baltimore City,0247,Cross Country Elementary,Elementary,>= 95.0,*,*,54.8,195,5.1,18,356,20120820
+2005,30,Baltimore City,0248,Sinclair Lane Elementary,Elementary,91.7,44758.0,48793,13.5,55,31.6,129,408,20120820
+2005,30,Baltimore City,0249,Medfield Heights Elementary,Elementary,94.7,25648.0,27097,32.0,74,11.7,27,231,20120820
+2005,30,Baltimore City,0250,"Dr. Bernard Harris, Sr. Elementary",Elementary,>= 95.0,*,*,59.1,208,7.7,27,352,20120820
+2005,30,Baltimore City,0251,Callaway Elementary,Elementary,93.6,29288.0,31297,25.0,66,19.7,52,264,20120820
+2005,30,Baltimore City,0254,"Dr. Martin Luther King, Jr. Elementary",Elementary,93.7,47363.0,50565,41.2,175,13.2,56,425,20120820
+2005,30,Baltimore City,0255,Southeast Middle,Middle,89.6,47533.0,53054,32.3,141,23.1,101,437,20120820
+2005,30,Baltimore City,0256,Calvin M. Rodwell Elementary,Elementary,94.8,22706.0,23949,42.2,87,11.7,24,206,20120820
+2005,30,Baltimore City,0260,Frederick Elementary,Elementary,>= 95.0,*,*,49.1,135,8.0,22,275,20120820
+2005,30,Baltimore City,0261,Lockerman Bundy Elementary,Elementary,93.1,15667.0,16829,32.6,45,14.5,20,138,20120820
+2005,30,Baltimore City,0262,Empowerment Academy,Elementary,94.8,9153.0,9651,32.1,26,<= 5.0,*,81,20120820
+2005,30,Baltimore City,0288,Alternative Elementary School,Elementary,*,*,*,*,*,*,*,*,20120820
+2005,30,Baltimore City,0301,William S. Baer School,Elementary,>= 95.0,*,*,66.2,43,7.7,5,65,20120820
+2005,30,Baltimore City,0301,William S. Baer School,Middle,>= 95.0,*,*,76.7,23,10.0,3,30,20120820
+2005,30,Baltimore City,0301,William S. Baer School,High,*,*,*,*,*,*,*,*,20120820
+2005,30,Baltimore City,0303,Upton School,Elementary,>= 95.0,*,*,66.7,8,8.3,1,12,20120820
+2005,30,Baltimore City,0303,Upton School,Middle,88.5,9195.0,10394,26.3,5,31.6,6,19,20120820
+2005,30,Baltimore City,0303,Upton School,High,89.3,7997.0,8953,43.8,14,37.5,12,32,20120820
+2005,30,Baltimore City,0307,Claremont School,High,87.6,6410.0,7319,10.9,7,42.2,27,64,20120820
+2005,30,Baltimore City,0313,Lois T. Murray Elementary,Elementary,87.4,3310.0,3789,6.1,2,36.4,12,33,20120820
+2005,30,Baltimore City,0313,Lois T. Murray Elementary,Middle,85.8,3154.0,3674,9.7,3,45.2,14,31,20120820
+2005,30,Baltimore City,0314,Sharp-Leadenhall Elementary,Elementary,86.9,6482.0,7460,9.1,6,39.4,26,66,20120820
+2005,30,Baltimore City,0315,Dr. Lillie M. Jackson Elementary,Elementary,*,*,*,*,*,*,*,*,20120820
+2005,30,Baltimore City,0321,Midtown Academy,Elementary,>= 95.0,*,*,45.9,45,<= 5.0,*,98,20120820
+2005,30,Baltimore City,0321,Midtown Academy,Middle,>= 95.0,*,*,50.0,32,<= 5.0,*,64,20120820
+2005,30,Baltimore City,0322,New Song Academy,Elementary,>= 95.0,*,*,56.7,38,<= 5.0,*,67,20120820
+2005,30,Baltimore City,0322,New Song Academy,Middle,>= 95.0,*,*,61.9,26,<= 5.0,*,42,20120820
+2005,30,Baltimore City,0323,The Crossroads School,Middle,>= 95.0,*,*,50.4,69,5.8,8,137,20120820
+2005,30,Baltimore City,0324,KIPP Ujima Village Academy,Elementary,>= 95.0,*,*,63.5,54,5.9,5,85,20120820
+2005,30,Baltimore City,0324,KIPP Ujima Village Academy,Middle,>= 95.0,*,*,51.3,77,<= 5.0,*,150,20120820
+2005,30,Baltimore City,0325,ConneXions Community Leadership Academy,Middle,>= 95.0,*,*,30.9,38,13.8,17,123,20120820
+2005,30,Baltimore City,0372,Woodbourne Day School,Middle,78.3,7950.0,10154,10.6,9,57.6,49,85,20120820
+2005,30,Baltimore City,0400,Edmondson-Westside High,High,90.2,119648.0,132647,16.9,190,30.3,342,1127,20120820
+2005,30,Baltimore City,0401,Northwestern High,High,80.4,104612.0,130102,8.7,93,50.8,542,1067,20120820
+2005,30,Baltimore City,0403,Baltimore Polytechnic Institute,High,>= 95.0,*,*,40.1,468,7.6,89,1166,20120820
+2005,30,Baltimore City,0405,Patterson High,High,81.1,161672.0,199430,13.4,219,46.0,751,1634,20120820
+2005,30,Baltimore City,0406,Forest Park High,High,81.4,70683.0,86870,8.8,64,47.9,347,725,20120820
+2005,30,Baltimore City,0407,Western High,High,94.1,95533.0,101555,33.7,292,11.8,102,867,20120820
+2005,30,Baltimore City,0410,Mergenthaler Vocational-Technical High,High,92.3,151565.0,164217,25.0,350,19.0,266,1398,20120820
+2005,30,Baltimore City,0411,Walbrook High,High,75.6,106582.0,140982,9.8,115,59.8,698,1168,20120820
+2005,30,Baltimore City,0412,Southwestern High,High,70.3,69435.0,98834,<= 5.0,*,67.2,513,763,20120820
+2005,30,Baltimore City,0413,Harbor City High School,High,56.4,93850.0,166477,<= 5.0,*,93.0,1073,1154,20120820
+2005,30,Baltimore City,0414,Paul Laurence Dunbar High,High,90.7,62891.0,69363,17.2,101,27.9,164,588,20120820
+2005,30,Baltimore City,0415,Baltimore School For The Arts,High,>= 95.0,*,*,44.2,138,<= 5.0,*,312,20120820
+2005,30,Baltimore City,0416,Digital Harbor High School,High,91.1,74829.0,82128,26.6,185,24.9,173,695,20120820
+2005,30,Baltimore City,0418,W.E.B. DuBois Senior High,High,77.3,57610.0,74524,9.0,57,47.0,296,630,20120820
+2005,30,Baltimore City,0419,Reginald F. Lewis High School,High,80.9,53886.0,66610,6.1,33,51.3,279,544,20120820
+2005,30,Baltimore City,0420,Dr. Samuel L. Banks High,High,73.1,55819.0,76401,11.4,72,48.4,307,634,20120820
+2005,30,Baltimore City,0421,NAF Learning Community at Port Discovery,High,93.5,20439.0,21871,24.2,45,17.7,33,186,20120820
+2005,30,Baltimore City,0422,New Era Academy,High,88.0,12792.0,14535,13.1,16,34.4,42,122,20120820
+2005,30,Baltimore City,0423,Baltimore Freedom Academy,High,92.1,17808.0,19331,21.5,35,19.6,32,163,20120820
+2005,30,Baltimore City,0424,Thurgood Marshall High,High,78.5,45764.0,58277,6.2,31,57.4,286,498,20120820
+2005,30,Baltimore City,0425,Fairmount-Harford High,High,63.2,36730.0,58137,6.3,30,52.3,250,478,20120820
+2005,30,Baltimore City,0426,New High School at #40,High,82.1,27614.0,33643,11.0,30,46.3,126,272,20120820
+2005,30,Baltimore City,0427,Academy for College and Career Exploration,High,92.0,16186.0,17585,31.8,47,17.6,26,148,20120820
+2005,30,Baltimore City,0428,Baltimore Talent Development,High,90.0,14576.0,16202,23.9,32,21.6,29,134,20120820
+2005,30,Baltimore City,0429,Southwestern High - I,High,79.1,24719.0,31262,<= 5.0,*,57.9,151,261,20120820
+2005,30,Baltimore City,0430,Southwestern High - II,High,79.6,25698.0,32303,<= 5.0,*,61.7,164,266,20120820
+2005,30,Baltimore City,0431,Walbrook Maritime Institute,High,94.5,26978.0,28543,38.8,95,11.0,27,245,20120820
+2005,30,Baltimore City,0450,Frederick Douglass High,High,81.3,108102.0,132928,11.8,127,46.5,502,1080,20120820
+2005,30,Baltimore City,0451,Central Career Center at Briscoe,High,49.8,6119.0,12291,<= 5.0,*,74.8,77,103,20120820
+2005,30,Baltimore City,0454,Carver Vocational-Technical High,High,86.0,133975.0,155801,8.9,118,45.9,607,1322,20120820
+2005,30,Baltimore City,0457,Laurence G. Paquin Middle/High,Middle,53.0,1746.0,3297,<= 5.0,*,92.0,23,25,20120820
+2005,30,Baltimore City,0457,Laurence G. Paquin Middle/High,High,67.0,12588.0,18788,<= 5.0,*,79.9,119,149,20120820
+2005,30,Baltimore City,0480,Baltimore City College,High,91.5,158187.0,172793,34.7,511,12.2,180,1471,20120820
+2005,30,Baltimore City,0488,Alternative Learning Center,Middle,78.3,10951.0,13983,<= 5.0,*,70.2,85,121,20120820
+2005,30,Baltimore City,0884,Eager Street Academy,Middle,>= 95.0,*,*,>= 95.0,*,<= 5.0,*,23,20120820
+2005,30,Baltimore City,0884,Eager Street Academy,High,>= 95.0,*,*,>= 95.0,*,<= 5.0,*,62,20120820
+2005,30,Baltimore City,A,All Baltimore City Schools,Elementary,94.1,3570074.0,3792070,36.2,11743,14.4,4657,32415,20120820
+2005,30,Baltimore City,A,All Baltimore City Schools,Middle,87.6,2221389.0,2536225,22.0,4746,35.1,7554,21536,20120820
+2005,30,Baltimore City,A,All Baltimore City Schools,High,82.3,2288624.0,2780694,16.4,3795,42.1,9750,23181,20120820
+2005,31,Baltimore City - Edison,0044,Montebello Elementary,Elementary,>= 95.0,*,*,47.3,380,<= 5.0,*,803,20120820
+2005,31,Baltimore City - Edison,0107,Gilmor Elementary,Elementary,>= 95.0,*,*,53.4,248,6.3,29,464,20120820
+2005,31,Baltimore City - Edison,0125,Furman L. Templeton Elementary,Elementary,>= 95.0,*,*,44.1,252,7.5,43,572,20120820
+2005,31,Baltimore City - Edison,A,All Baltimore City - Edison Schools,Elementary,>= 95.0,*,*,47.1,747,5.9,93,1587,20120820
+2005,31,Baltimore City - Edison,A,All Baltimore City - Edison Schools,Middle,>= 95.0,*,*,52.8,133,<= 5.0,*,252,20120820
+2005,A,All Public Schools,A,All Maryland Schools,Elementary,>= 95.0,*,*,37.0,116207,7.0,21860,313667,20120820
+2005,A,All Public Schools,A,All Maryland Schools,Middle,93.8,23801921.5,25375016,31.8,65246,14.1,28929,205097,20120820
+2005,A,All Public Schools,A,All Maryland Schools,High,92.0,30165655.0,32788120.5,28.8,75661,20.7,54313,262886,20120820

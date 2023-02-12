@@ -1,0 +1,20 @@
+Type: Package
+Package: marylandedu
+Title: Maryland State Department of Education Data
+Version: 0.1.0
+Authors@R: 
+    person("Eli", "Pousson", , "eli.pousson@gmail.com", role = c("aut", "cre", "cph"),
+           comment = c(ORCID = "0000-0001-8280-1706"))
+Description: The marylandedu package provides access to selected datasets from
+    the Maryland State Department of Education (MSDE) that have been
+    standardized to better support year-by-year analysis and
+    visualization.
+URL: https://github.com/elipousson/marylandedu
+BugReports: https://github.com/elipousson/marylandedu/issues
+License: CC0
+Depends: 
+    R (>= 2.10)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
