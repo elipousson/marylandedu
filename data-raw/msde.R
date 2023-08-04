@@ -66,6 +66,7 @@ fix_school_name <- function(data) {
         "Vanguard Collegiate Middle", "Vanguard Collegiate Middle School",
         "City Neighbors High", "City Neighbors High School",
         "The REACH! Partnership School", "The Reach! Partnership School",
+        "The REACH! Partnership School", "Reach! Partnership School",
         "The REACH! Partnership School", "The Reach Partnership School",
         "The REACH! Partnership School", "Reach",
         "The REACH! Partnership School", "REACH",
