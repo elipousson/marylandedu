@@ -10,7 +10,7 @@ Description: The marylandedu package provides access to selected datasets
     standardized to better support year-by-year analysis and
     visualization.
 License: CC0
-URL: https://github.com/elipousson/marylandedu
+URL: https://github.com/elipousson/marylandedu, https://elipousson.github.io/marylandedu/
 BugReports: https://github.com/elipousson/marylandedu/issues
 Depends: 
     R (>= 2.10)
