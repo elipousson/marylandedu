@@ -168,7 +168,7 @@ msde_enrollment <-
   ) %>%
   fix_lss() |>
   select(year, school_number, school_name, enrolled_count, grade, grade_range, race, date_created, lss_number, lss_name) %>%
-  arrange(lss_number, desc(year), school_number) |>
+  arrange(desc(year), lss_number, school_number) |>
   distinct(.keep_all = TRUE)
 
 msde_enrollment <- fix_school_name(msde_enrollment)

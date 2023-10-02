@@ -60,7 +60,7 @@
 #' @source [MSDE Data Downloads](https://reportcard.msde.maryland.gov/Graphs/#/DataDownloads/datadownload)
 "msde_attendance"
 
-#' Maryland Public School Enrollment (SY 2003-2022)
+#' Maryland Public School Enrollment (SY 2003-2023)
 #'
 #' Enrollment data from the Maryland State Department of Education (MSDE). The
 #' original CSV data files downloaded from MSDE are available in the
@@ -71,9 +71,10 @@
 #' "Baltimore City - Edison" have been re-coded as "Baltimore City", "Seed
 #' School LEA" as "SEED", and "All Public Schools" as "State". Variable
 #' definitions are based on the [definitions from the MSDE
-#' website](https://reportcard.msde.maryland.gov/Definitions/Index).
+#' website](https://reportcard.msde.maryland.gov/Definitions/Index). Last
+#' updated 2023-10-02.
 #'
-#' @format A data frame with 219,741 rows and 10 variables:
+#' @format A data frame with 237,924 rows and 10 variables:
 #' \describe{
 #'  \item{`year`}{School or academic year for enrollment count, e.g.
 #'    2019 data is from the start of the 2019-2020 school year.}
@@ -113,8 +114,6 @@
 #' withdraw from a school during the school year. To calculate student mobility,
 #' the number of entrants is added to the number of withdrawals and that sum is
 #' divided by the average daily student enrollment.
-
-
 #'
 #' @format A data frame with 33,378 rows and 14 variables:
 #' \describe{

@@ -3,9 +3,9 @@
 \docType{data}
 \name{msde_enrollment}
 \alias{msde_enrollment}
-\title{Maryland Public School Enrollment (SY 2003-2022)}
+\title{Maryland Public School Enrollment (SY 2003-2023)}
 \format{
-A data frame with 219,741 rows and 10 variables:
+A data frame with 237,924 rows and 10 variables:
 \describe{
 \item{\code{year}}{School or academic year for enrollment count, e.g.
 2019 data is from the start of the 2019-2020 school year.}
@@ -46,6 +46,7 @@ special education and pre-kindergarten students. Grades coded as
 "Prekindergarten" to facilitate comparison across years. LEA Names coded as
 "Baltimore City - Edison" have been re-coded as "Baltimore City", "Seed
 School LEA" as "SEED", and "All Public Schools" as "State". Variable
-definitions are based on the \href{https://reportcard.msde.maryland.gov/Definitions/Index}{definitions from the MSDE website}.
+definitions are based on the \href{https://reportcard.msde.maryland.gov/Definitions/Index}{definitions from the MSDE website}. Last
+updated 2023-10-02.
 }
 \keyword{datasets}
