@@ -172,7 +172,7 @@
 #' both prior to 2010). A grade span value is filled in for older records where
 #' grade span was stored in the school type column. Last updated 2023-11-28.
 #'
-#' @format A data frame with 30160 rows and 15 variables:
+#' @format A data frame with 30160 rows and 14 variables:
 #' \describe{
 #'   \item{`year`}{School year}
 #'   \item{`school_number`}{School number}
@@ -186,7 +186,6 @@
 #'   \item{`nces_number`}{NCES Number}
 #'   \item{`create_date`}{Record creation date}
 #'   \item{`grade_span`}{Grade span (grade band)}
-#'   \item{`school`}{School number (character)}
 #'   \item{`lss_name`}{LSS name}
 #'   \item{`lss_number`}{LSS number}
 #'}

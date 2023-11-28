@@ -398,6 +398,15 @@ md_nces_directory_list <- purrr::map(
         )
     }
 
+
+    if (rlang::has_name(data, "school")) {
+      data <- data |>
+        dplyr::rename(
+          school_number = school
+        )
+    }
+
+
      if (!rlang::has_name(data, "grade_span")) {
         data <- data |>
           dplyr::mutate(
@@ -414,13 +423,17 @@ md_nces_directory_list <- purrr::map(
           address = stringr::str_to_title(address),
           address = stringr::str_replace(address, " Mcm", " McM"),
           address = stringr::str_replace(address, " Of ", " of "),
-          address = stringr::str_replace(address, " Ne$", " NE"),
-          address = stringr::str_replace(address, " Se$", " SE"),
-          address = stringr::str_replace(address, " Sw$", " SW"),
-          address = stringr::str_replace(address, " Nw$", " NW"),
           city = stringr::str_to_title(city)
         )
     }
+
+    data <- data |>
+      dplyr::mutate(
+        address = stringr::str_replace(address, " Ne$", " NE"),
+        address = stringr::str_replace(address, " Se$", " SE"),
+        address = stringr::str_replace(address, " Sw$", " SW"),
+        address = stringr::str_replace(address, " Nw$", " NW")
+      )
 
     data
   }
@@ -430,7 +443,7 @@ md_nces_directory <- md_nces_directory_list |>
   purrr::list_rbind() |>
   mutate(
     year = as.integer(year),
-    school_number = if_else(school == "A", 0L, as.integer(readr::parse_number(school)))
+    school_number = readr::parse_integer(school_number)
   ) |>
   fix_school_name() |>
   fix_lss()
