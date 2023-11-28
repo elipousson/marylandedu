@@ -162,3 +162,29 @@
 #'   \item{`region`}{Region of the state.}
 #' }
 "lss_county_xwalk"
+
+#' Maryland NCES Directory (SY 2023)
+#'
+#' Currently 2023 only.
+#'
+#' @format A data frame with 1421 rows and 16 variables:
+#' \describe{
+#'   \item{`year`}{Schooll year}
+#'   \item{`lea`}{LEA number}
+#'   \item{`school`}{School number (character)}
+#'   \item{`school_name`}{School name}
+#'   \item{`grade_span`}{Grade span (grade band)}
+#'   \item{`school_type`}{School type}
+#'   \item{`address`}{School address}
+#'   \item{`city`}{City}
+#'   \item{`state`}{State}
+#'   \item{`zip`}{Zip code}
+#'   \item{`phone`}{School phone number}
+#'   \item{`nces_number`}{NCES Number}
+#'   \item{`create_date`}{Record creation date}
+#'   \item{`school_number`}{School number}
+#'   \item{`lss_name`}{LSS name}
+#'   \item{`lss_number`}{LSS number}
+#'}
+#' @source [MSDE Data Downloads](https://reportcard.msde.maryland.gov/Graphs/#/DataDownloads/datadownload)
+"md_nces_directory"

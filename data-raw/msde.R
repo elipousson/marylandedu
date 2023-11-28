@@ -10,6 +10,41 @@ library(getdata)
 
 
 fix_lss <- function(data) {
+  if (!rlang::has_name(data, "lea_number")) {
+    data <- dplyr::mutate(
+      data,
+      lea_number = NA_character_
+    )
+  }
+
+  if (!rlang::has_name(data, "lea_name")) {
+    data <- dplyr::mutate(
+      data,
+      lea_name = NA_character_
+    )
+  }
+
+  if (!rlang::has_name(data, "lea_number")) {
+    data <- dplyr::mutate(
+      data,
+      lea_number = NA_character_
+    )
+  }
+
+  if (!rlang::has_name(data, "lss_number")) {
+    data <- dplyr::mutate(
+      data,
+      lss_number = NA_character_
+    )
+  }
+
+  if (!rlang::has_name(data, "lss_name")) {
+    data <- dplyr::mutate(
+      data,
+      lss_name = NA_character_
+    )
+  }
+
   mutate(
     data,
     lss_number = coalesce(lea_number, lss_number),
@@ -317,3 +352,19 @@ msde_attendance <- list.files("data-raw/extdata", full.names = TRUE) %>%
 msde_attendance <- fix_school_name(msde_attendance)
 
 usethis::use_data(msde_attendance, overwrite = TRUE)
+
+
+md_nces_directory <- openxlsx2::read_xlsx(
+  "data-raw/extdata/School_Directory_2023.xlsx",
+  convert = FALSE
+  ) |>
+  janitor::clean_names("snake") |>
+  mutate(
+    year = as.integer(year),
+    lea_number = lea,
+    school_number = if_else(school == "A", 0L, as.integer(school))
+  ) |>
+  fix_lss()
+
+usethis::use_data(md_nces_directory, overwrite = TRUE)
+
