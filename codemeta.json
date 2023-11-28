@@ -4,6 +4,7 @@
   "identifier": "marylandedu",
   "description": "The marylandedu package provides access to selected datasets from the Maryland State Department of Education (MSDE) that have been standardized to better support year-by-year analysis and visualization.",
   "name": "marylandedu: Maryland State Department of Education Data",
+  "relatedLink": "https://elipousson.github.io/marylandedu/",
   "codeRepository": "https://github.com/elipousson/marylandedu",
   "issueTracker": "https://github.com/elipousson/marylandedu/issues",
   "license": "https://spdx.org/licenses/CC0-1.0",
@@ -13,7 +14,7 @@
     "name": "R",
     "url": "https://r-project.org"
   },
-  "runtimePlatform": "R version 4.2.0 Patched (2022-05-23 r82396)",
+  "runtimePlatform": "R version 4.3.2 (2023-10-31)",
   "author": [
     {
       "@type": "Person",
@@ -50,7 +51,8 @@
     },
     "SystemRequirements": null
   },
-  "fileSize": "1153.722KB",
+  "fileSize": "1474.012KB",
   "readme": "https://github.com/elipousson/marylandedu/blob/main/README.md",
-  "developmentStatus": "https://www.repostatus.org/#wip"
+  "developmentStatus": "https://www.repostatus.org/#wip",
+  "keywords": ["education-data", "maryland", "r-package"]
 }

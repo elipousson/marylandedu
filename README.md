@@ -8,6 +8,8 @@
 [![Project Status: WIP – Initial development is in progress, but there
 has not yet been a stable, usable release suitable for the
 public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+[![License:
+CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 <!-- badges: end -->
 
 The goal of marylandedu is to provide access to selected datasets from
@@ -23,6 +25,12 @@ You can install the development version of msde like so:
 ```
 
 ## Related packages
+
+- [educationdata](https://github.com/UrbanInstitute/education-data-package-r):
+  Retrieve data from the Urban Institute’s Education Data API as a
+  data.frame for easy analysis.
+
+### Local data
 
 - [bcpss](https://github.com/elipousson/bcpss)
 - [mapmaryland](https://github.com/elipousson/mapmaryland)
