@@ -57,15 +57,15 @@ names are combined with LSS names in this dataset.}
 msde_attendance
 }
 \description{
-Attendance data from the Maryland State Department of Education (MSDE). #'
-The original CSV data files downloaded from MSDE are available in the
-\code{data-raw/extdata} folder on the GitHub repo for the package. Any percent variables with a value of 95 percent
-should be interpreted as equivalent at or above 95 percent. Any percent
-variables with a value of 5 percent should be interpreted as equivalent to at
-or below 5 percent. Chronic absenteeism data is not available prior to 2018
-when the federal Every Student Succeeds Act (passed in 2015) went into effect
-and Maryland began to include the chronic absenteeism rate in the state's
-annual academic report cards. Variable definitions are based on the
-\href{https://reportcard.msde.maryland.gov/Definitions/Index}{definitions from the MSDE website}.
+Attendance data from the Maryland State Department of Education (MSDE). The
+original CSV data files downloaded from MSDE are available in the
+\code{data-raw/extdata} folder on the GitHub repo for the package. Any percent
+variables with a value of 95 percent should be interpreted as equivalent at
+or above 95 percent. Any percent variables with a value of 5 percent should
+be interpreted as equivalent to at or below 5 percent. Chronic absenteeism
+data is not available prior to 2018 when the federal Every Student Succeeds
+Act (passed in 2015) went into effect and Maryland began to include the
+chronic absenteeism rate in the state's annual academic report cards.
+Variable definitions are based on the \href{https://reportcard.msde.maryland.gov/Definitions/Index}{definitions from the MSDE website}.
 }
 \keyword{datasets}

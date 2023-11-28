@@ -1,16 +1,16 @@
 
 #' Maryland Public School Attendance (SY 2003-2022)
 #'
-#' Attendance data from the Maryland State Department of Education (MSDE). #'
-#' The original CSV data files downloaded from MSDE are available in the
-#' `data-raw/extdata` folder on the GitHub repo for the package. Any percent variables with a value of 95 percent
-#' should be interpreted as equivalent at or above 95 percent. Any percent
-#' variables with a value of 5 percent should be interpreted as equivalent to at
-#' or below 5 percent. Chronic absenteeism data is not available prior to 2018
-#' when the federal Every Student Succeeds Act (passed in 2015) went into effect
-#' and Maryland began to include the chronic absenteeism rate in the state's
-#' annual academic report cards. Variable definitions are based on the
-#' [definitions from the MSDE
+#' Attendance data from the Maryland State Department of Education (MSDE). The
+#' original CSV data files downloaded from MSDE are available in the
+#' `data-raw/extdata` folder on the GitHub repo for the package. Any percent
+#' variables with a value of 95 percent should be interpreted as equivalent at
+#' or above 95 percent. Any percent variables with a value of 5 percent should
+#' be interpreted as equivalent to at or below 5 percent. Chronic absenteeism
+#' data is not available prior to 2018 when the federal Every Student Succeeds
+#' Act (passed in 2015) went into effect and Maryland began to include the
+#' chronic absenteeism rate in the state's annual academic report cards.
+#' Variable definitions are based on the [definitions from the MSDE
 #' website](https://reportcard.msde.maryland.gov/Definitions/Index).
 #'
 #' @format A data frame with 33,376 rows and 18 variables:
@@ -163,17 +163,20 @@
 #' }
 "lss_county_xwalk"
 
-#' Maryland NCES Directory (SY 2023)
+#' Maryland NCES Directory (SY 2003-2023)
 #'
-#' Currently 2023 only.
+#' Combined data from XLS and XLSX format NCES directory files downloaded from
+#' the MSDE Data Downloads website. The school name field has been corrected for
+#' consistency and accuracy across years and capitalization of the city and
+#' address fields have been standardized (previously used all upper case for
+#' both prior to 2010). A grade span value is filled in for older records where
+#' grade span was stored in the school type column. Last updated 2023-11-28.
 #'
-#' @format A data frame with 1421 rows and 16 variables:
+#' @format A data frame with 30160 rows and 15 variables:
 #' \describe{
-#'   \item{`year`}{Schooll year}
-#'   \item{`lea`}{LEA number}
-#'   \item{`school`}{School number (character)}
+#'   \item{`year`}{School year}
+#'   \item{`school_number`}{School number}
 #'   \item{`school_name`}{School name}
-#'   \item{`grade_span`}{Grade span (grade band)}
 #'   \item{`school_type`}{School type}
 #'   \item{`address`}{School address}
 #'   \item{`city`}{City}
@@ -182,7 +185,8 @@
 #'   \item{`phone`}{School phone number}
 #'   \item{`nces_number`}{NCES Number}
 #'   \item{`create_date`}{Record creation date}
-#'   \item{`school_number`}{School number}
+#'   \item{`grade_span`}{Grade span (grade band)}
+#'   \item{`school`}{School number (character)}
 #'   \item{`lss_name`}{LSS name}
 #'   \item{`lss_number`}{LSS number}
 #'}

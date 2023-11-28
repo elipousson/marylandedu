@@ -353,17 +353,86 @@ msde_attendance <- fix_school_name(msde_attendance)
 
 usethis::use_data(msde_attendance, overwrite = TRUE)
 
+directory_files <- fs::dir_ls(
+  "data-raw/extdata/",
+  type = "file",
+  regexp = "School_Directory"
+)
 
-md_nces_directory <- openxlsx2::read_xlsx(
-  "data-raw/extdata/School_Directory_2023.xlsx",
-  convert = FALSE
-  ) |>
-  janitor::clean_names("snake") |>
+md_nces_directory_list <- purrr::map(
+  directory_files,
+  \(file) {
+    if (grepl(".xlsx$", file)) {
+      data <- openxlsx2::read_xlsx(
+        file,
+        convert = FALSE
+      )
+    } else {
+      data <- readxl::read_xls(
+        file,
+        col_types = "text"
+      )
+    }
+
+    data <- data |>
+    janitor::clean_names("snake")
+
+    if (rlang::has_name(data, "academic_year")) {
+      data <- data |>
+        dplyr::rename(
+          year = academic_year
+        )
+    }
+
+    if (rlang::has_name(data, "lea")) {
+      data <- data |>
+        dplyr::rename(
+          lea_number = lea
+        )
+    }
+
+    if (rlang::has_name(data, "lss")) {
+      data <- data |>
+        dplyr::rename(
+          lss_number = lss
+        )
+    }
+
+     if (!rlang::has_name(data, "grade_span")) {
+        data <- data |>
+          dplyr::mutate(
+            grade_span = case_when(
+              school_type %in% c("E", "EM", "EMH", "M", "H", "MH", "EH") ~ school_type,
+              .default = NA_character_
+            )
+          )
+     }
+
+    if (unique(data[["year"]]) < 2010) {
+      data <- data |>
+        dplyr::mutate(
+          address = stringr::str_to_title(address),
+          address = stringr::str_replace(address, " Mcm", " McM"),
+          address = stringr::str_replace(address, " Of ", " of "),
+          address = stringr::str_replace(address, " Ne$", " NE"),
+          address = stringr::str_replace(address, " Se$", " SE"),
+          address = stringr::str_replace(address, " Sw$", " SW"),
+          address = stringr::str_replace(address, " Nw$", " NW"),
+          city = stringr::str_to_title(city)
+        )
+    }
+
+    data
+  }
+)
+
+md_nces_directory <- md_nces_directory_list |>
+  purrr::list_rbind() |>
   mutate(
     year = as.integer(year),
-    lea_number = lea,
-    school_number = if_else(school == "A", 0L, as.integer(school))
+    school_number = if_else(school == "A", 0L, as.integer(readr::parse_number(school)))
   ) |>
+  fix_school_name() |>
   fix_lss()
 
 usethis::use_data(md_nces_directory, overwrite = TRUE)
