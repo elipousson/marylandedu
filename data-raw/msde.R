@@ -398,14 +398,12 @@ md_nces_directory_list <- purrr::map(
         )
     }
 
-
     if (rlang::has_name(data, "school")) {
       data <- data |>
         dplyr::rename(
           school_number = school
         )
     }
-
 
      if (!rlang::has_name(data, "grade_span")) {
         data <- data |>

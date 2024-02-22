@@ -1,5 +1,5 @@
 
-#' Maryland Public School Attendance (SY 2003-2022)
+#' Maryland Public School Attendance (SY 2003-2023)
 #'
 #' Attendance data from the Maryland State Department of Education (MSDE). The
 #' original CSV data files downloaded from MSDE are available in the
@@ -13,7 +13,9 @@
 #' Variable definitions are based on the [definitions from the MSDE
 #' website](https://reportcard.msde.maryland.gov/Definitions/Index).
 #'
-#' @format A data frame with 33,376 rows and 18 variables:
+#' Last updated 2024-02-22.
+#'
+#' @format A data frame with 35,182 rows and 18 variables:
 #' \describe{
 #'   \item{`year`}{School year or academic year, e.g. 2019 for 2019-2020
 #'   school year}
@@ -60,7 +62,7 @@
 #' @source [MSDE Data Downloads](https://reportcard.msde.maryland.gov/Graphs/#/DataDownloads/datadownload)
 "msde_attendance"
 
-#' Maryland Public School Enrollment (SY 2003-2023)
+#' Maryland Public School Enrollment (SY 2003-2024)
 #'
 #' Enrollment data from the Maryland State Department of Education (MSDE). The
 #' original CSV data files downloaded from MSDE are available in the
@@ -71,10 +73,11 @@
 #' "Baltimore City - Edison" have been re-coded as "Baltimore City", "Seed
 #' School LEA" as "SEED", and "All Public Schools" as "State". Variable
 #' definitions are based on the [definitions from the MSDE
-#' website](https://reportcard.msde.maryland.gov/Definitions/Index). Last
-#' updated 2023-10-02.
+#' website](https://reportcard.msde.maryland.gov/Definitions/Index).
 #'
-#' @format A data frame with 237,924 rows and 10 variables:
+#' Last updated 2024-02-22.
+#'
+#' @format A data frame with 247,740 rows and 10 variables:
 #' \describe{
 #'  \item{`year`}{School or academic year for enrollment count, e.g.
 #'    2019 data is from the start of the 2019-2020 school year.}
@@ -102,7 +105,7 @@
 #' @source [MSDE Data Downloads](https://reportcard.msde.maryland.gov/Graphs/#/DataDownloads/datadownload)
 "msde_enrollment"
 
-#' Maryland Student Mobility (SY 2003-2022)
+#' Maryland Student Mobility (SY 2003-2023)
 #'
 #' Student mobility data from the Maryland State Department of Education (MSDE).
 #' The original CSV data files downloaded from MSDE are available in the
@@ -115,7 +118,9 @@
 #' the number of entrants is added to the number of withdrawals and that sum is
 #' divided by the average daily student enrollment.
 #'
-#' @format A data frame with 33,378 rows and 14 variables:
+#' Last updated 2024-02-22.
+#'
+#' @format A data frame with 35,184 rows and 14 variables:
 #' \describe{
 #'  \item{`year`}{School or academic year for enrollment count, e.g.
 #'    2019 data is from the start of the 2019-2020 school year.}
@@ -163,16 +168,18 @@
 #' }
 "lss_county_xwalk"
 
-#' Maryland NCES Directory (SY 2003-2023)
+#' Maryland NCES Directory (SY 2003-2024)
 #'
 #' Combined data from XLS and XLSX format NCES directory files downloaded from
 #' the MSDE Data Downloads website. The school name field has been corrected for
 #' consistency and accuracy across years and capitalization of the city and
 #' address fields have been standardized (previously used all upper case for
 #' both prior to 2010). A grade span value is filled in for older records where
-#' grade span was stored in the school type column. Last updated 2023-11-28.
+#' grade span was stored in the school type column.
 #'
-#' @format A data frame with 30160 rows and 14 variables:
+#' Last updated 2024-02-22.
+#'
+#' @format A data frame with 31,579 rows and 14 variables:
 #' \describe{
 #'   \item{`year`}{School year}
 #'   \item{`school_number`}{School number}
