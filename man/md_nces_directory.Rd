@@ -3,9 +3,9 @@
 \docType{data}
 \name{md_nces_directory}
 \alias{md_nces_directory}
-\title{Maryland NCES Directory (SY 2003-2023)}
+\title{Maryland NCES Directory (SY 2003-2024)}
 \format{
-A data frame with 30160 rows and 15 variables:
+A data frame with 31,579 rows and 14 variables:
 \describe{
 \item{\code{year}}{School year}
 \item{\code{school_number}}{School number}
@@ -19,7 +19,6 @@ A data frame with 30160 rows and 15 variables:
 \item{\code{nces_number}}{NCES Number}
 \item{\code{create_date}}{Record creation date}
 \item{\code{grade_span}}{Grade span (grade band)}
-\item{\code{school}}{School number (character)}
 \item{\code{lss_name}}{LSS name}
 \item{\code{lss_number}}{LSS number}
 }
@@ -36,6 +35,9 @@ the MSDE Data Downloads website. The school name field has been corrected for
 consistency and accuracy across years and capitalization of the city and
 address fields have been standardized (previously used all upper case for
 both prior to 2010). A grade span value is filled in for older records where
-grade span was stored in the school type column. Last updated 2023-11-28.
+grade span was stored in the school type column.
+}
+\details{
+Last updated 2024-02-22.
 }
 \keyword{datasets}

@@ -1,4 +1,3 @@
-
 #' Maryland Public School Attendance (SY 2003-2023)
 #'
 #' Attendance data from the Maryland State Department of Education (MSDE). The

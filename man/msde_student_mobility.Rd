@@ -3,9 +3,9 @@
 \docType{data}
 \name{msde_student_mobility}
 \alias{msde_student_mobility}
-\title{Maryland Student Mobility (SY 2003-2022)}
+\title{Maryland Student Mobility (SY 2003-2023)}
 \format{
-A data frame with 33,378 rows and 14 variables:
+A data frame with 35,184 rows and 14 variables:
 \describe{
 \item{\code{year}}{School or academic year for enrollment count, e.g.
 2019 data is from the start of the 2019-2020 school year.}
@@ -46,5 +46,8 @@ mobility. Student mobility is the percentage of students that either enter or
 withdraw from a school during the school year. To calculate student mobility,
 the number of entrants is added to the number of withdrawals and that sum is
 divided by the average daily student enrollment.
+}
+\details{
+Last updated 2024-02-22.
 }
 \keyword{datasets}

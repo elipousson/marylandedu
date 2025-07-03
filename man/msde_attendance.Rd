@@ -3,9 +3,9 @@
 \docType{data}
 \name{msde_attendance}
 \alias{msde_attendance}
-\title{Maryland Public School Attendance (SY 2003-2022)}
+\title{Maryland Public School Attendance (SY 2003-2023)}
 \format{
-A data frame with 33,376 rows and 18 variables:
+A data frame with 35,182 rows and 18 variables:
 \describe{
 \item{\code{year}}{School year or academic year, e.g. 2019 for 2019-2020
 school year}
@@ -67,5 +67,8 @@ data is not available prior to 2018 when the federal Every Student Succeeds
 Act (passed in 2015) went into effect and Maryland began to include the
 chronic absenteeism rate in the state's annual academic report cards.
 Variable definitions are based on the \href{https://reportcard.msde.maryland.gov/Definitions/Index}{definitions from the MSDE website}.
+}
+\details{
+Last updated 2024-02-22.
 }
 \keyword{datasets}
