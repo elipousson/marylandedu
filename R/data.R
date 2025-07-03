@@ -74,9 +74,9 @@
 #' definitions are based on the [definitions from the MSDE
 #' website](https://reportcard.msde.maryland.gov/Definitions/Index).
 #'
-#' Last updated 2024-02-22.
+#' Last updated 2025-07-03.
 #'
-#' @format A data frame with 247,740 rows and 10 variables:
+#' @format A data frame with 274,455 rows and 10 variables:
 #' \describe{
 #'  \item{`year`}{School or academic year for enrollment count, e.g.
 #'    2019 data is from the start of the 2019-2020 school year.}
