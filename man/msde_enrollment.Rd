@@ -5,7 +5,7 @@
 \alias{msde_enrollment}
 \title{Maryland Public School Enrollment (SY 2003-2024)}
 \format{
-A data frame with 247,740 rows and 10 variables:
+A data frame with 274,455 rows and 10 variables:
 \describe{
 \item{\code{year}}{School or academic year for enrollment count, e.g.
 2019 data is from the start of the 2019-2020 school year.}
@@ -49,6 +49,6 @@ School LEA" as "SEED", and "All Public Schools" as "State". Variable
 definitions are based on the \href{https://reportcard.msde.maryland.gov/Definitions/Index}{definitions from the MSDE website}.
 }
 \details{
-Last updated 2024-02-22.
+Last updated 2025-07-03.
 }
 \keyword{datasets}
